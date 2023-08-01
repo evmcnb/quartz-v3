@@ -1,5 +1,5 @@
 ---
-title: 🪴 Nosos Notes
+title: Nosos - Notes
 enableToc: false
 ---
 
