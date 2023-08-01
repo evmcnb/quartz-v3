@@ -1,0 +1,62 @@
+Tags: #Gastroenterology
+
+## Ulcerative Colitis
+
+The inflammatory bowel diseases (IBD), ulcerative colitis and [[Crohn's Disease]] are chronic autoimmune relapsing and remitting inflammation of the intestine.
+
+Can only effect colon - "never" past ileocaecal value
+![|650](https://i.imgur.com/wGDcE8D.png)
+Extra intestinal manifestations
+
+## Causes/Factors
+
+Inappropriate immune response against (?abnormal) colonic flora in genetically susceptible individuals - failure to maintain tolerance
+
+## Symptoms
+
+- Episodic or chronic diarrhoea $\pm$ mucus/blood
+- Abdominal discomfort
+- Bowel frequency relates to severity
+- Systemic symptoms in attacks: pyrexia, malaise, anorexia
+- Smoking improves condition possibly
+
+## Signs
+
+- May be none
+- Acute severe UC fever, tachycardia, distended abdomen
+- Nocturnal symptoms
+
+Extraintestinal signs:
+
+- [[clubbing]]
+- Aphthous oral ulcers
+- [[erythema nodosum]]
+- [[pyoderma gangrenosum]]
+- episcleritis
+- large joint arthritis
+- ankylosing spondylitis
+- nutritional deficits
+
+## Diagnostic tests
+
+- Calprotectin - protein released from neutrophils into stool -> inflammatory marker, highly sensitive
+- Blood tests for inflammatory markers/anaemia (FBC, ESR, CRP, U&E, LFT)
+- Full colonoscopy or sigmoidoscopy -> biopsy
+- AXR - no feacal shadows, mucosal thickening/islands
+
+## Management
+
+Goals are to induce and maintain disease remission
+![|650](https://i.imgur.com/5sW2JuN.png)
+
+**Immunomodulation** if patients flare on steroid or require 2+ courses of steroid per year. Monitor LFTs. Slow acting drug compared to steroids
+
+**Biologic therapy** for patients intolerant of immunomodulation or developing symptoms despite an immunomodulator
+
+**Surgery** - needed at some stage in 20% of cases to remove effected part of colon
+
+## Complications/red flags
+
+- toxic dilation of colon (perforation risk)
+- [[venous thromboembolism]]
+- colon cancer
