@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gynecology/Pregnancy.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ":",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gynecology/Pregnancy.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gynecology/Pregnancy.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gynecology/Pregnancy.md"
+                "file": "_index.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "02ad800af9195318",
   "lastOpenFiles": [
+    "broken links output.md",
+    "_index.md",
+    "Nephrology/Acute Kidney Injury.md",
+    "Cardiovascular/Deep Vein Thrombosis.md",
+    "Gynecology/Pregnancy.md",
+    "Cardiovascular/Heart Block.md",
+    "Endocrinology/Diabetes Mellitus.md",
+    "Cardiovascular/Heart Failure.md",
     "Respiratory/Tonsillitis & Pharyngitis.md",
     "setup/images/obsidian-settings.png",
     "setup/images/google-domains.png",
@@ -173,14 +181,6 @@
     "features/_index.md",
     "features/tabs.md",
     "features/section",
-    "features/mermaid.md",
-    "features/latex.md",
-    "features/languages.md",
-    "features/expand.md",
-    "features/details.md",
-    "features/columns.md",
-    "features/callouts.md",
-    "features/buttons.md",
     "features",
     "example/collapsed/3rd-level",
     "example/table-of-contents",

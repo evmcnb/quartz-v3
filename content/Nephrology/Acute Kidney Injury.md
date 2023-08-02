@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Acute Kidney Injury
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 7:10:39 pm
+date modified: Wednesday, August 2nd 2023, 9:20:47 pm
 ---
 
 
@@ -21,7 +21,7 @@ Usually doesn't occur in isolation
 
 ## Causes/Factors
 
-Lots of risk factors like age 75+, [[Diabetes Mellitus]], [[Heart Failure]], etc
+Lots of risk factors like age 75+, [[Endocrinology/Diabetes Mellitus|Diabetes Mellitus]], [[Heart Failure]], etc
 
 **Pre-renal** - something causes $\downarrow$ BP
 

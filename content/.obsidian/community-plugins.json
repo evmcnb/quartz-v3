@@ -1,4 +1,5 @@
 [
   "obsidian-linter",
-  "obsidian-local-images"
+  "obsidian-local-images",
+  "find-unlinked-files"
 ]
