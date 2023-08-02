@@ -5,7 +5,7 @@ date created: Wednesday, August 2nd 2023, 8:37:53 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ---
 
-![[logo4 (1).png]]
+![[z_attachments/logo4 (1).png]]
 
 Welcome to the Medical Student Notes Collection! This website serves as a valuable resource for medical students to access a diverse range of high-quality notes, study materials, and resources to aid in their academic journey. Whether you're just starting your medical education or looking to reinforce your knowledge, you'll find a wealth of information at your fingertips.
 
