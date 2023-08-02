@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a853515c44c1123f",
+        "id": "12b4808e86c544e1",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6d27eefa65ca5f",
+            "id": "02ad800af9195318",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Respiratory/Tonsillitis & Pharyngitis.md",
-                "mode": "preview",
+                "file": "Gynecology/Pregnancy.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Respiratory/Tonsillitis & Pharyngitis.md",
+                "file": "Gynecology/Pregnancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Respiratory/Tonsillitis & Pharyngitis.md",
+                "file": "Gynecology/Pregnancy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Respiratory/Tonsillitis & Pharyngitis.md"
+                "file": "Gynecology/Pregnancy.md"
               }
             }
           }
@@ -146,43 +146,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed6d27eefa65ca5f",
+  "active": "02ad800af9195318",
   "lastOpenFiles": [
-    "Radiology/Radiology.md",
     "Respiratory/Tonsillitis & Pharyngitis.md",
-    "Respiratory/pulmonary embolism.md",
-    "Respiratory/Tuberculosis.md",
-    "Respiratory/bronchiectasis.md",
-    "Young's Syndrome.md",
+    "setup/images/obsidian-settings.png",
+    "setup/images/google-domains.png",
+    "setup/images/github-pages.png",
+    "setup/images/github-actions.png",
+    "setup/_index.md",
+    "setup/updating.md",
+    "setup/troubleshooting.md",
+    "setup/setup.md",
+    "setup/search.md",
+    "setup/preview changes.md",
+    "setup/obsidian.md",
+    "setup/images",
+    "setup/ignore notes.md",
+    "setup/hosting.md",
+    "setup/editing.md",
+    "setup/custom Domain.md",
+    "setup/config.md",
+    "setup",
+    "features/section/_index.md",
+    "features/section/second-page.md",
+    "features/section/first-page.md",
+    "features/_index.md",
+    "features/tabs.md",
+    "features/section",
+    "features/mermaid.md",
+    "features/latex.md",
+    "features/languages.md",
+    "features/expand.md",
+    "features/details.md",
+    "features/columns.md",
+    "features/callouts.md",
+    "features/buttons.md",
+    "features",
+    "example/collapsed/3rd-level",
+    "example/table-of-contents",
+    "example/collapsed",
+    "example",
     "z_attachments/650-2.png",
     "z_attachments/575-2.png",
     "z_attachments/400-7.png",
     "z_attachments/6xkomKR.png",
     "z_attachments/400-6.png",
-    "z_attachments/500-1.png",
-    "z_attachments/400-5.png",
-    "z_attachments/400-4.png",
-    "z_attachments/400-1.jpg",
-    "z_attachments/600-1.png",
-    "Urology/Urology.md",
-    "Surgery/Surgery.md",
-    "Respiratory/Respiratory.md",
-    "Respiratory/asthma.md",
-    "Psychiatry/Psychiatry.md",
-    "Oncology and Palliative Care/Oncology and Palliative Care.md",
-    "Neurology/Neurology.md",
-    "Nephrology/Nephrology.md",
-    "Infectious Diseases/Infectious Diseases.md",
-    "Haematology/Haematology.md",
-    "Gastroenterology/Gastroenterology.md",
-    "Eponymous Syndromes/Eponymous Syndromes.md",
-    "Endocrinology/Endocrinology.md",
-    "Dermatology/Dermatology.md",
-    "Cardiovascular/Cardiovascular.md",
-    "Acute Medicine/Acute Medicine.md",
-    "_Examinations/_Examinations.md",
-    "Surgery/Hip Fractures.md",
-    "Rheumatology/Rheumatology.md",
-    "templates/Condition Template.md"
+    "z_attachments/500-1.png"
   ]
 }

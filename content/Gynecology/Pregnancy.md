@@ -36,7 +36,7 @@ Ultrasound and MRI are generally preferred when imaging abdomen
 Should always be a balance of risk - drugs different again in lactation
 
 | Considered safe                                                                       | Contraindicated                     |
-| ------------------------------------------------------------------------------------- | ----------------------------------- | --- | --- |
+| ------------------------------------------------------------------------------------- | ----------------------------------- |
 | Penicillins                                                                           | Tetracycline/doxycycline            |
 | Macrolides                                                                            | Ciprofloxacin                       |
 | Low molecular weight heparin                                                          | Trimethoprim (1st trimester)        |
@@ -45,4 +45,4 @@ Should always be a balance of risk - drugs different again in lactation
 | Nifedipine                                                                            | ARA                                 |
 | Adenosine                                                                             | Mycophenolate                       |
 | Prednisolone                                                                          | Warfarin                            |
-| Treatment for asthma: salbutamol, ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella) |     |     |
+| Treatment for asthma: salbutamol, ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella) |  
