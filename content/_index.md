@@ -1,5 +1,5 @@
 ---
-title: _index
+title: Nosos - Notes
 enableToc: false
 date created: Wednesday, August 2nd 2023, 8:37:53 pm
 date modified: Wednesday, August 2nd 2023, 9:30:13 pm
