@@ -1,8 +1,8 @@
 ---
-title: Nosos - Notes
+title: _index
 enableToc: false
 date created: Wednesday, August 2nd 2023, 8:37:53 pm
-date modified: Wednesday, August 2nd 2023, 9:30:13 pm
+date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ---
 
 # 📓 Nosos Notes Collection

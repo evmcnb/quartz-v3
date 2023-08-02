@@ -1,6 +1,6 @@
 ---
-tags: [Examination, OSCE]
-title: Exam Template
+tags: [Examination, OSCE, Incomplete]
+title: Upper and Lower Limb Neurological Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ---
@@ -18,7 +18,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 #### Clinical Signs
 
--
+- Watch gait as they walk in/ask them to walk
 
 #### Objects and Equipment
 
