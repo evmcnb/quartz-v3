@@ -1,38 +1,46 @@
-Tags: #Nephrology #Oncology 
+---
+tags: [Nephrology, Oncology]
+title: "Wilms' Tumour"
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:56 pm
+---
+
+
+
 # Wilms' Tumour
 
 Cancer of the kidney that arises from nephroblasts (cells that develop into the kidney in embryological development)
 
 ![](https://i.imgur.com/l605JRR.png)
 
-
-
 ## Causes/Factors
+
 - Children < 5 y/o
 - 5-10% genetic syndromes
-	- Beckwith-Weidemann Syndrome
-	- WAGR Syndrome
-	- Denys-Drash Syndrome (WT1 mutation)
+  - Beckwith-Weidemann Syndrome
+  - WAGR Syndrome
+  - Denys-Drash Syndrome (WT1 mutation)
 
 ## Clinical Features
 
-###### Local primary tumour effects
+###### Local Primary Tumour Effects
+
 - +++ Abdominal distention
 - Haematuria
 - 10% bilateral
 
-###### Effects of distant metastases
+###### Effects of Distant Metastases
+
 Rare
 
-###### Paraneoplastic syndromes
+###### Paraneoplastic Syndromes
+
 Rare
 
-
-## Diagnostic tests
-
+## Diagnostic Tests
 
 ## Management
+
 - 90% 5YSR
 
-## Complications/red flags
-
+## Complications/red Flags

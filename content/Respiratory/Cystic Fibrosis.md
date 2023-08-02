@@ -1,4 +1,10 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: Cystic Fibrosis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:16 pm
+---
+
 
 # Cystic Fibrosis
 
@@ -17,7 +23,7 @@ Purely genetic condition, mutation leads to defect in chloride ion channel causi
 - **[[clubbing]] of fingers**
 - Cyanosis
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Sweat test: high levels of NaCl present in sweat
 - Genetic screening
@@ -30,8 +36,6 @@ Purely genetic condition, mutation leads to defect in chloride ion channel causi
 - Nebulised mucolytics (DNase) / saline
 - Bronchodilators
 
-## Complications/red flags
+## Complications/red Flags
 
 - Low prognosis - median ~41 years
-
-

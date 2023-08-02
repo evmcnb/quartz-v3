@@ -1,4 +1,11 @@
-Tags: #Dermatology
+---
+tags: [Dermatology]
+title: Leg Ulcer
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:28 pm
+---
+
+
 
 # Leg Ulcer
 
@@ -27,7 +34,7 @@ Rarer causes
 - Metabolic
 - Traumatic - burns
 
-## Risk factors
+## Risk Factors
 
 Venous:
 
@@ -58,7 +65,7 @@ Venous - smooth sloping border, superficial, ill defined border
 
 Arterial - punched out painful ulcer, dry skin,
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - skin biopsy if cannot determine cause or exclude skin malignancy
 - Ankle brachial pressure index
@@ -70,6 +77,4 @@ Arterial - punched out painful ulcer, dry skin,
 - Venous ulcer - compression stocking/bandage
 - Pentoxifylline - increases microvascular blood flow
 
-## Complications/red flags
-
-
+## Complications/red Flags

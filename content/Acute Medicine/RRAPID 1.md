@@ -1,11 +1,16 @@
-#Acute 
+---
+tags: [Acute]
+title: RRAPID 1
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:05:27 pm
+---
 ## Recognising and Responding to Acute Patient Illness and Deterioration
 
 - Life threatening problems must be treated before moving on
 - Regularly reassess 
 - Call for help early
 
-#### Airway - can be protected by themselves?
+#### Airway - Can Be Protected by Themselves?
 - Look- vomit secretions, trauma swelling foreign body 
 - Listen - abnormal sounds, complete obstruction will be silent
 - Feel - airflow from nose/mouth, misting of oxygen
@@ -18,7 +23,7 @@ Response to obstruction
 	- Jaw thrust (if C-Spine injury possible)
 - Remove foreign body or suction visible secretions
 
-#### Breathing - difficulty?
+#### Breathing - Difficulty?
 - Pneumonia 
 - Pneumothorax 
 - Pulmonary oedema 
@@ -62,7 +67,7 @@ Response to circulation problem
 	- Cautious if evidence of cardiogenetic shock 
 - Treat underlying cause 
 
-#### Disability - evaluation of a patient’s neurological system
+#### Disability - Evaluation of a patient’s Neurological System
 - Metabolic 
 - hypoglycaemia, hypothermia, hypoxia
 - Drugs 

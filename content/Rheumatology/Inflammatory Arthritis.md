@@ -1,4 +1,11 @@
-Tags: #Rheumatology
+---
+tags: [Rheumatology]
+title: Inflammatory Arthritis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:46 pm
+---
+
+
 
 # Inflammatory Arthritis
 
@@ -23,7 +30,7 @@ Anyone at any age can get inflammatory arthritis
 - Increased CV risk
   ![|250](https://i.imgur.com/D6p2hha.png)
 
-#### Axial spondylarthritis
+#### Axial Spondylarthritis
 
 - Inflammatory back pain
 - Young people
@@ -40,7 +47,7 @@ Anyone at any age can get inflammatory arthritis
 
 - Definite joint swelling
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - $\uparrow$ CRP (inflammation somewhere)
 - $\uparrow$ anti-CCP antibodies
@@ -51,5 +58,4 @@ Reduce inflammation and make patient feel better. Look out for other BS affected
 
 - very treatable
 
-## Complications/red flags
-
+## Complications/red Flags

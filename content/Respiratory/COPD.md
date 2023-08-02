@@ -1,4 +1,11 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: COPD
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:14 pm
+---
+
+
 
 # COPD
 
@@ -40,7 +47,7 @@ Smoking, pollution
 - Hyperinflated chest
 - Decreased breath sounds
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Spirometry: $FEV_1 < 80\%$ predicted, $FEV_1/FVC$ **ratio <0.7**
 - CXR: hyperinflation, large central pulmonary arteries
@@ -60,4 +67,3 @@ Smoking, pollution
 - [[Respiratory Failure]]
 - [[pneumothorax]]
 - [[cor pulmonale]]
-

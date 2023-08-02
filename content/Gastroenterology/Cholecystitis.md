@@ -1,4 +1,10 @@
-Tags: #Gastroenterology #Surgery
+---
+tags: [Gastroenterology, Surgery]
+title: Cholecystitis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:52 pm
+---
+
 
 ### Cholecystitis
 
@@ -31,7 +37,7 @@ Inflammation of gallbladder
 
 **Reynold's pentad** - Charcot's triad + altered mental status + hypotension
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - WCC, FBC, CRP
 - US (and/or CT/MRI abdo)
@@ -45,7 +51,7 @@ Inflammation of gallbladder
 
 - Laparoscopic cholecystectomy
 
-## Complications/red flags
+## Complications/red Flags
 
 If in the gallbladder/cystic duct:
 
@@ -61,4 +67,3 @@ In the bile ducts
 - Obstructive [[Jaundice]]
 - [[Cholangitis]]
 - [[Pancreatitis]]
-

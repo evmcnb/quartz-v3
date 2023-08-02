@@ -1,5 +1,9 @@
-Tags: #Acute
-
+---
+tags: [Acute]
+title: Sepsis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:08:40 pm
+---
 # Sepsis
 
 A life threatening organ dysfunction caused by a dysregulated host response to infection
@@ -51,7 +55,7 @@ Septic shock is a subset of sepsis. Profound circulatory, cellular and metabolic
 - Cyanosis
 - Non-blanching rash
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - FBC, CRP, U&E, urine culture, blood culture
 - ABG or VBG
@@ -81,6 +85,3 @@ Hypovolaemia can be
   - Diarrhoea
 - Relative hypovolaemia - when there is a decrease in the effect circulating volume
   - Sepsis - vasodilation
-
-
-

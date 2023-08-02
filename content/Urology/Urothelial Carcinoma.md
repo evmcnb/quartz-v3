@@ -1,10 +1,20 @@
-Tags: #Urology #Oncology #Incomplete 
+---
+tags: [Urology, Oncology, Incomplete]
+title: Urothelial Carcinoma
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:12:25 pm
+---
+
+
+
 # Urothelial Carcinoma
+
 aka transitional cell carcinoma
 
-Cancer arising from urothelium accounts for >90% of bladder 
+Cancer arising from urothelium accounts for >90% of bladder
 
 ## Causes/Factors
+
 - Age 60+
 - Males
 - Exposure to certain industrial chemicals
@@ -14,26 +24,24 @@ Cancer arising from urothelium accounts for >90% of bladder
 
 ## Clinical Signs
 
-###### Local primary tumour effects
+###### Local Primary Tumour Effects
+
 - Frequency, urgency, dysuria
 - Haematuria
 - Urinary obstruction
 
-###### Effects of distant metastases
+###### Effects of Distant Metastases
+
 - Lungs
 - Bone
 - Liver
 
-###### Paraneoplastic syndromes
+###### Paraneoplastic Syndromes
+
 Rare
 
-## Diagnostic tests
-
+## Diagnostic Tests
 
 ## Management
 
-
-## Complications/red flags
-
-
-
+## Complications/red Flags

@@ -1,5 +1,9 @@
-Tags: #Cardiovascular
-
+---
+tags: [Cardiovascular]
+title: Heart Block
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:06 pm
+---
 # Heart Block
 
 Disrupted passage of electrical impulse through the AVN
@@ -38,7 +42,7 @@ Disrupted passage of electrical impulse through the AVN
 - Hypotension
 - Cardiac syncope - losing consciousness for seconds then coming round not knowing what happened
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - ECG see above
 
@@ -47,5 +51,3 @@ Disrupted passage of electrical impulse through the AVN
 - Atropine administration (blocks parasympathetic action)
 - Rhythm altered drugs
 - Pacemaker implantation
-
-

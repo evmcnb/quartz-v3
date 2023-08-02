@@ -1,11 +1,19 @@
-Tags: #Urology #Oncology #Incomplete 
+---
+tags: [Urology, Oncology, Incomplete]
+title: Prostatic Adenocarcinoma
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:12:08 pm
+---
+
+
+
 # Prostatic Adenocarcinoma
 
 Cancer of the glandular epithelium in the prostate
 
-
 ## Causes/Factors
-- Male% 
+
+- Male%
 - Ethnicity
 - FH - BRCA1/2
 - Pesticide exposure
@@ -14,23 +22,22 @@ Risk of cancer $\approx$ age
 
 ## Clinical Features
 
-###### Local primary tumour effects
+###### Local Primary Tumour Effects
+
 - Frequency, urgency, dysuria
 - Haematuria
 - Urinary obstruction
 
-###### Effects of distant metastases
+###### Effects of Distant Metastases
+
 - Bone
 
-###### Paraneoplastic syndromes
+###### Paraneoplastic Syndromes
+
 Rare
 
-## Diagnostic tests
-
+## Diagnostic Tests
 
 ## Management
 
-
-## Complications/red flags
-
-
+## Complications/red Flags

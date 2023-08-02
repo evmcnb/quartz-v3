@@ -1,4 +1,11 @@
-Tags: #Orthopaedics #Surgery #Geriatrics
+---
+tags: [Orthopaedics, Surgery, Geriatrics]
+title: Hip Fractures
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:58 pm
+---
+
+
 
 # Hip Fractures
 
@@ -30,7 +37,7 @@ Get a full history
 - Pain on mobilisation
 - Unable to weight bear
 
-## Diagnostic tests
+## Diagnostic Tests
 
 Hip exam: Look, feel, move
 
@@ -51,9 +58,8 @@ Hip exam: Look, feel, move
 - Early surgery
 - Early mobilisation after the surgery - key to recovery
 
-## Complications/red flags
+## Complications/red Flags
 
 - Thromboembolic complications
 - Avascular necrosis
 - Non-union/failure of fixation
-

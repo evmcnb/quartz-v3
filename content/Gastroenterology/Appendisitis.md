@@ -1,4 +1,10 @@
-Tags: #Surgery #Gastroenterology
+---
+tags: [Surgery, Gastroenterology]
+title: Appendicitis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:50 pm
+---
+
 # Appendicitis
 
 Most common surgical emergency - highest incidence between 10-20 y/os
@@ -19,7 +25,7 @@ Classical presentation of:
 
 - Tachycardia, fever
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - FBC, U&Es, WCC, CRP
 - US/CT if unclear
@@ -30,9 +36,8 @@ Classical presentation of:
 
 Conservative treatment with just antibiotics can be indicated in some cases
 
-## Complications/red flags
+## Complications/red Flags
 
 - Perforation - big problem
 - Appendix mass may result when inflamed appendix becomes covered with omentum
 - Appendix abscess`
-

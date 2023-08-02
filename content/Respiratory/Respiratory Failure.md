@@ -1,4 +1,11 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: Respiratory Failure
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:38 pm
+---
+
+
 
 # Respiratory Failure
 
@@ -33,7 +40,7 @@ Hypoxia: dyspnoea, restlessness, agitation, confusion, central cyanosis - if chr
 
 Hypercapnia: headache, peripheral vasodilation, tachycardia, bouncing pulse, confusion, drowsiness, coma
 
-## Diagnostic tests
+## Diagnostic Tests
 
 Find underlying cause
 
@@ -49,6 +56,4 @@ Treat underlying cause
 - oxygen
 - assisted ventilation if necessary
 
-## Complications/red flags
-
-
+## Complications/red Flags

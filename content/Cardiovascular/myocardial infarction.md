@@ -1,6 +1,10 @@
-Tags: #Cardiovascular
-
-# myocardial infarction
+---
+tags: [Cardiovascular]
+title: Myocardial Infarction
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:15 pm
+---
+# Myocardial Infarction
 
 Belongs to a group of [[Acute Coronary Syndrome]]s along with unstable [[Angina]]. These share a common pathology atherosclerotic plaque rupture, thrombosis and inflammation. However may also be rarely due to emboli, coronary spasm or vasculitis
 
@@ -43,7 +47,7 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 - Sweatiness
 - Possible $\uparrow HR, \downarrow BP$
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - ECG - ST elevation (STEMI)
 - Bloods - raised troponin, cardiac enzymes, creatine kinase
@@ -66,11 +70,9 @@ Post MI:
 - ACEi
 - High dose statin
 
-## Complications/red flags
+## Complications/red Flags
 
 - Arrhythmias
 - [[Pericarditis]]
 - [[Cardiac Tamponade]]
 - LV/RV failure
-
-

@@ -1,4 +1,9 @@
-Tags: #Gastroenterology
+---
+tags: [Gastroenterology]
+title: Ulcerative Colitis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:23 pm
+---
 
 ## Ulcerative Colitis
 
@@ -37,7 +42,7 @@ Extraintestinal signs:
 - ankylosing spondylitis
 - nutritional deficits
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Calprotectin - protein released from neutrophils into stool -> inflammatory marker, highly sensitive
 - Blood tests for inflammatory markers/anaemia (FBC, ESR, CRP, U&E, LFT)
@@ -55,7 +60,7 @@ Goals are to induce and maintain disease remission
 
 **Surgery** - needed at some stage in 20% of cases to remove effected part of colon
 
-## Complications/red flags
+## Complications/red Flags
 
 - toxic dilation of colon (perforation risk)
 - [[venous thromboembolism]]

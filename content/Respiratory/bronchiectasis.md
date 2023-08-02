@@ -1,5 +1,13 @@
-Tags: #Respiratory
-# bronchiectasis
+---
+tags: [Respiratory]
+title: Bronchiectasis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:07:49 pm
+---
+
+
+
+# Bronchiectasis
 
 Chronic inflammation of bronchi and bronchioles leading to permanent dilation and thinning. Easily collapsible - obstructive lung disease
 
@@ -23,7 +31,7 @@ Chronic inflammation of bronchi and bronchioles leading to permanent dilation an
 - Hypoxaemia
 - Hypercapnia (high $CO_2$)
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Sputum culture
 - CXR/high res CT to assess extent - signet ring sign - bronchioles larger than arteries (abnormal)
@@ -38,4 +46,3 @@ Chronic inflammation of bronchi and bronchioles leading to permanent dilation an
 - Maintaining body weight/nutrition
 - Corticosteroids
 - Surgery if localised
-

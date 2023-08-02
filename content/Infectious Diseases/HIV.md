@@ -1,4 +1,9 @@
-Tags: #InfectiousDisease
+---
+tags: [InfectiousDisease]
+title: HIV
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:33 pm
+---
 
 ### Human Immunodeficiency Virus
 
@@ -24,7 +29,7 @@ Late Stage/end stage - AIDs defining
 
 ## Signs
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - 4th generation assay - test for HIV antibody and antigen
 - Always confirm with repeat sample
@@ -35,5 +40,4 @@ Late Stage/end stage - AIDs defining
 - PrEP / PEP - pre/post exposure prophylaxis
 - HAART - combination therapy
 
-## Complications/red flags
-
+## Complications/red Flags

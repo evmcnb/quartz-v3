@@ -1,4 +1,11 @@
-Tags: #Rheumatology
+---
+tags: [Rheumatology]
+title: Crystal Arthritis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:45 pm
+---
+
+
 
 # Crystal Arthritis
 
@@ -19,7 +26,7 @@ aka Gout
 
 ![|275](https://i.imgur.com/VUcdbCi.png)
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - White toothpaste like fluid removed from the joint with syringe
 

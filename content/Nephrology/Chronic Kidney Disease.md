@@ -1,4 +1,9 @@
-Tags: #Nephrology
+---
+tags: [Nephrology]
+title: Chronic Kidney Disease
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:41 pm
+---
 
 ### Chronic Kidney Disease
 
@@ -35,7 +40,7 @@ Tags: #Nephrology
 - Loss of lean body mass-muscle weakness
 - Vomiting etc
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Bloods - eGFR
 - Urinalysis - blood/protein uACR annually
@@ -68,7 +73,7 @@ Palliative Care sometimes as its a lot of effort to continue with dialysis
   - Or dying from causes related to the kidneys or cardiovascular system
   - Ongoing studies to evaluate in patients with CKD without diabetes
 
-## Complications/red flags
+## Complications/red Flags
 
 - Increased risk of other outcomes
   - [[Coronary Artery Disease]]

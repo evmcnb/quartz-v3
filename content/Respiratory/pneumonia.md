@@ -1,4 +1,12 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: Pneumonia
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:32 pm
+---
+
+
+
 # Pneumonia
 
 An acute lower respiratory tract infection associated with fever and other abnormal chest symptoms and signs
@@ -6,14 +14,14 @@ An acute lower respiratory tract infection associated with fever and other abnor
 ## Causes/Factors
 
 - Community acquired (CAP) - most common streptococcus pneumoniae. Occurring outside of hospital or within 48hr of admission
-	![|600](https://i.imgur.com/dC0wRMB.png)
-![|375](https://i.imgur.com/oqIegQe.png)
+  ![|600](https://i.imgur.com/dC0wRMB.png)
+  ![|375](https://i.imgur.com/oqIegQe.png)
 
 - Hospital acquired (HAP) - after 48hs from admission
 - Ventilator associated (VAP)
 - Aspiration pneumonia
 
-- Immunocompromised patient - patients recurrently coming with a CAP is an indicator of HIV - esp if organism is weird 
+- Immunocompromised patient - patients recurrently coming with a CAP is an indicator of HIV - esp if organism is weird
 
 ## Symptoms
 
@@ -35,12 +43,14 @@ An acute lower respiratory tract infection associated with fever and other abnor
 - Hypoxia
 - Bronchial breathing (harsh breath sounds) and crackles heard
 
-## Diagnostic tests
+## Diagnostic Tests
+
 - CXR: showing consolidation
 - Blood/sputum culture
 - Bronchoscopy if risk of infection for bloods
 
 ## Management
+
 ABCDE
 
 - Fluids
@@ -48,7 +58,7 @@ ABCDE
 - Antibiotics
 - Assisted ventilation
 
-## Complications/red flags
+## Complications/red Flags
 
 - Type 1 [[Respiratory Failure]] ($PaO_2 < 8kPa$)
 - Hypotension <- vasodilation/dehydration <- sepsis
@@ -58,5 +68,3 @@ ABCDE
 - [[Lung Abscess]]
 - [[Pericarditis]] and [[myocarditis]]
 - [[Jaundice]] - usually cholestatic - may be due to sepsis or secondary to antibiotic treatment (esp. flucloxacillin and co-amoxiclav)
-
-

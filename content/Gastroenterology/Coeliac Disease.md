@@ -1,4 +1,9 @@
-Tags: #Gastroenterology
+---
+tags: [Gastroenterology]
+title: Coeliac Disease
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:55 pm
+---
 
 ### Coeliac Disease
 
@@ -21,7 +26,7 @@ Coeliac disease is a condition where your immune system attacks your own tissues
 - Fatigue
 - Failure to thrive
 
-## Diagnostic tests
+## Diagnostic Tests
 
 Dude is Just Feeling Ill Bro
 **D**uodenum: **I**ron
@@ -39,9 +44,8 @@ Dude is Just Feeling Ill Bro
 
 Lifelong gluten free diet
 
-## Complications/red flags
+## Complications/red Flags
 
 - Anaemia
 - Dermatitis herpetiformis
 - Osteopenia/porosis
-

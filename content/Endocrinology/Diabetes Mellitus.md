@@ -1,4 +1,10 @@
-Tags: #Endocrinology
+---
+tags: [Endocrinology]
+title: Diabetes Mellitus
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:34 pm
+---
+
 
 # Diabetes Mellitus
 
@@ -28,7 +34,7 @@ Secondary
 - Hunger
 - Blurred vision (can be cured)
 
-## Diagnostic tests
+## Diagnostic Tests
 
 If symptomatic a single abnormal test is enough, if asymptomatic two abnormal tests are required
 
@@ -50,7 +56,7 @@ Hypoglycaemic agents:
 - SGLT2i and GLP1-RA reduce cardiovascular risk
 - SGLT2i agents improve heart failure, reduce renal decline and reduce admission
 
-## Complications/red flags
+## Complications/red Flags
 
 Hypoglycaemia - due to too high insulin -> coma and brain damage, thrombosis, cardiac arrhythmias
 
@@ -65,4 +71,3 @@ Hypoglycaemia - due to too high insulin -> coma and brain damage, thrombosis, ca
 - [[myocardial infarction]]
 - [[cerebral infarction]]
 - [[peripheral vascular disease]]
-

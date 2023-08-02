@@ -1,5 +1,12 @@
+---
+tags: [Endocrinology]
+title: Hyperthyroidism
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:39 pm
+---
+
 # Hyperthyroidism
-Tags: #Endocrinology 
+
 
 ## Brief Overview
 
@@ -30,9 +37,9 @@ Hyperthyroidism is a medical condition characterized by excessive production of 
 ## Signs
 
 - **Enlarged Thyroid Gland (Goiter):** The thyroid gland may be visibly larger than normal, causing swelling in the front of the neck.
-	- Smooth = Grave's disease
-	- Nodular = toxic nodules
-	- Tender = thyroid inflammation
+  - Smooth = Grave's disease
+  - Nodular = toxic nodules
+  - Tender = thyroid inflammation
 - **Tachycardia:** Abnormally fast heart rate.
 - **Exophthalmos:** In Grave's disease, patients may have protruding or bulging eyes due to immune system attack on the eye tissues.
 
@@ -58,5 +65,3 @@ Hyperthyroidism is a medical condition characterized by excessive production of 
 - **Osteoporosis:** Long-term hyperthyroidism can lead to bone loss and an increased risk of fractures.
 - **Heart Problems:** Untreated hyperthyroidism can strain the heart, leading to heart rhythm abnormalities and potential heart failure.
 - **[[Pregnancy]] Complications:** Hyperthyroidism during pregnancy requires careful management to prevent harm to both the mother and the baby.
-
-

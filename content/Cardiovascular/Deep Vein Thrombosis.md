@@ -1,5 +1,9 @@
-Tags: #Cardiovascular #Haematology
-
+---
+tags: [Cardiovascular, Haematology]
+title: Deep Vein Thrombosis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:08:59 pm
+---
 # Deep Vein Thrombosis
 
 Where a blood clot forms in a deep vein usually due to pooling of that blood due to lack of movement. Rarely embolises to lungs
@@ -38,7 +42,7 @@ Physical exam generally unreliable as similar to dermatitis
 - Mild temperature
 - Tenderness over veins when gentle pressure applied
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Wells Score
 - D-dimer, -ve excludes DVT but +ve does not confirm
@@ -52,8 +56,6 @@ Physical exam generally unreliable as similar to dermatitis
 - Compression stockings
 - Early and regular walking
 
-## Complications/red flags
+## Complications/red Flags
 
 - [[pulmonary embolism]]
-
-

@@ -1,4 +1,11 @@
-Tags: #Rheumatology
+---
+tags: [Rheumatology]
+title: Osteoarthritis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:48 pm
+---
+
+
 
 # Osteoarthritis
 
@@ -22,7 +29,7 @@ Tags: #Rheumatology
 - Pain around the joint
 - Weaker muscles (due to lack of use due to pain)
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Clinical examination
 - XR findings
@@ -31,5 +38,4 @@ Tags: #Rheumatology
 
 ## Management
 
-## Complications/red flags
-
+## Complications/red Flags

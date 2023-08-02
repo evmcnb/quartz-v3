@@ -1,5 +1,9 @@
-Tags: #Cardiovascular
-
+---
+tags: [Cardiovascular]
+title: Aortic Stenosis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:08:50 pm
+---
 # Aortic Stenosis
 
 Aortic stenosis - stiffening, narrowing
@@ -24,7 +28,7 @@ Pressure overload - high resistance low reps -> hypertrophy
 - Reduced pulse pressure (difference between systolic and diastolic)
 - Forceful apex beat
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Echocardiogram - left hypertrophy with poor valve movement possible regurgitation
 - ECG - poor R wave progression and stuff which I don't understand yet
@@ -36,5 +40,3 @@ If pressure difference between ventricle and aorta remains below 60 mmHg the pat
 - If ventricle starts to dilate valve replacement is considered
 - Valve replacement is either via open heart surgery or via Transcatheter aortic valve implantation (TAVI)
 - TAVI is going to be standard in future esp for older people
-
-

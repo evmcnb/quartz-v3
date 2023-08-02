@@ -1,6 +1,10 @@
-Tags: #Cardiovascular
-
-# peripheral vascular disease
+---
+tags: [Cardiovascular]
+title: Peripheral Vascular Disease
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:17 pm
+---
+# Peripheral Vascular Disease
 
 aka Peripheral arterial disease
 
@@ -28,7 +32,7 @@ Peripheral arterial disease (PAD) is where a build-up of fatty deposits in the a
 - Ulcers on feet and legs which don't heal
 - Shiny skin
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Reduced Ankle Brachial index
 - MRA (magnetic resonance angiogram)
@@ -38,6 +42,6 @@ Peripheral arterial disease (PAD) is where a build-up of fatty deposits in the a
 - Low dose aspirin to start
 - Then stenting
 
-## Complications/red flags
+## Complications/red Flags
 
 - Eventually develop gangrene due to oxygen starvation and require amputation

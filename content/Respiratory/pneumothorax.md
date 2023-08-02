@@ -1,6 +1,13 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: Pneumothorax
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:33 pm
+---
 
-# pneumothorax
+
+
+# Pneumothorax
 
 Air getting in pleural cavity causing collapse of the lung
 
@@ -33,7 +40,7 @@ Diagnosis can be made on signs in server cases
 - Hypoxia
 - Hyper-resonant to percussion
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - CXR: - Air = black - Deviated mediastinum
   ![|400](https://i.imgur.com/05f1ZV9.png)
@@ -44,6 +51,4 @@ Diagnosis can be made on signs in server cases
 - For large ones the air needs to be aspirated with a syringe or a chest tube
 - Pleurodesis (sticking lung to chest wall) may be used if there is a significant risk of repeat episodes
 
-## Complications/red flags
-
-
+## Complications/red Flags

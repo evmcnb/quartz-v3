@@ -1,6 +1,16 @@
+---
+tags: [Examination, OSCE]
+title: "{{title}}"
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:05:25 pm
+---
+
 # {{title}}
-Tags: #Examination #OSCE
+
+:
+
 ## Introduction
+
 - **Wash hands** (and don PPE if needed)
 - **Introduce yourself** (name and role)
 - Confirm patient's **name** and **DOB**
@@ -8,37 +18,32 @@ Tags: #Examination #OSCE
 - Gain consent to continue
 - Ask if patient in any **pain** before continuing
 
-## General inspection
+## General Inspection
 
-#### Clinical signs 
+#### Clinical Signs
+
 -
 
-#### Objects and equipment
-- Medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access 
-- Mobility aids 
-- Pillows - congestive [[heart failure]] patients typically  suffer from orthopnoea 
-- Vital sign charts 
-- Fluid balance charts 
+#### Objects and Equipment
+
+- Medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access
+- Mobility aids
+- Pillows - congestive [[heart failure]] patients typically suffer from orthopnoea
+- Vital sign charts
+- Fluid balance charts
 - Prescription
 
 ## Hands
 
 #### Inspection
-- 
 
+-
 
+## To Complete the Exam
 
-
-
-
-
-
-
-
-## To complete the exam
 - **Explain** to the patient that the examination is now **finished**.
 - **Thank the patient** for their time.
 - **Dispose of PPE** appropriately and **wash your hands**.
 - **Summarise** your findings.
 
-## Further assessments and investigations 
+## Further Assessments and Investigations

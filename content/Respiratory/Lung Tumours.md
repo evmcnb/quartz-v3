@@ -1,4 +1,11 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: Lung Tumours
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:25 pm
+---
+
+
 
 # Lung Tumours
 
@@ -41,7 +48,7 @@ Small cell
 - hepatomegaly
 - metastasis - lymphadenopathy
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Made on histology (biopsy)
 - Can see tumour of CXR
@@ -53,10 +60,9 @@ Small cell
 - Surgery hard to evaluate
 - Radiotherapy controversial
 
-## Complications/red flags
+## Complications/red Flags
 
 Poor prognosis in general
 
 - phrenic + recurrent laryngeal nerve palsy (mass impinges)
 - [[Lambert-Eaton Syndrome]]
-

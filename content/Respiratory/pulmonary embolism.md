@@ -1,6 +1,13 @@
-Tags: #Respiratory #Cardiovascular
+---
+tags: [Respiratory, Cardiovascular]
+title: Pulmonary Embolism
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:34 pm
+---
 
-# pulmonary embolism
+
+
+# Pulmonary Embolism
 
 Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Deep Vein Thrombosis]]
 
@@ -25,7 +32,7 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Deep Ve
 - Hypotension
 - Raised JVP
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Low $O_2$
 - Low $PaO_2$
@@ -40,4 +47,3 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Deep Ve
 - Thrombolysis in life-threatening cases
 - DOAC (-xban)
 - LMWH in kidney failure patients
-

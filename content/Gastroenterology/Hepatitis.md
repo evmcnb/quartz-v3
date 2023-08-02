@@ -1,4 +1,10 @@
-Tags: #Gastroenterology
+---
+tags: [Gastroenterology]
+title: Hepatitis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:07 pm
+---
+
 
 ### Hepatitis
 
@@ -64,7 +70,7 @@ Autoimmune hepatitis
 - [[Jaundice]]
 - pyrexia
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Blood tests to confirm virus + LFT
 - Imaging (ultrasound, etc) to assess liver damage
@@ -75,8 +81,7 @@ Autoimmune hepatitis
 
 Mostly symptomatic relief
 
-## Complications/red flags
+## Complications/red Flags
 
 - Acute liver injury should result in regeneration of the liver
 - Chronic liver injury results in [[Liver Cirrhosis]] (fibrous/scarring)
-

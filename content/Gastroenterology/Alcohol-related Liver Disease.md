@@ -1,4 +1,10 @@
-Tags: #Gastroenterology
+---
+tags: [Gastroenterology]
+title: Alcohol-related Liver Disease
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:44 pm
+---
+
 
 ### Alcohol-related Liver Disease
 
@@ -25,7 +31,7 @@ Alcohol-related liver disease (ARLD) refers to liver damage caused by excess alc
 - Oedema
 - Ascites
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Liver function tests ($\downarrow$ albumin)
 - Ultrasound
@@ -38,5 +44,4 @@ Alcohol-related liver disease (ARLD) refers to liver damage caused by excess alc
 - Possibly steroids to reduce inflammation of liver
 - Liver transplant if liver failure occurs
 
-## Complications/red flags
-
+## Complications/red Flags

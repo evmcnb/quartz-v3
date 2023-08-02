@@ -1,4 +1,9 @@
-Tags: #Gastroenterology
+---
+tags: [Gastroenterology]
+title: Non-alcoholic Fatty Liver Disease
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:18 pm
+---
 
 ### Non-alcoholic Fatty Liver Disease (NAFLD)
 
@@ -33,7 +38,7 @@ NASH or fibrosis:
 
 [[Liver Cirrhosis]]
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Need to rule out other causes of liver disease
 - $\uparrow$ LFT ($\uparrow$ ALT)
@@ -46,4 +51,4 @@ NASH or fibrosis:
 - Avoid alcohol consumption
 - Address cardiovascular risk of death
 
-## Complications/red flags
+## Complications/red Flags

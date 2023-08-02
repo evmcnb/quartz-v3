@@ -1,5 +1,9 @@
-Tags: #Cardiovascular
-
+---
+tags: [Cardiovascular]
+title: Atrial Fibrillation
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:08:53 pm
+---
 # Atrial Fibrillation
 
 A rapid irregular atrial rhythm at 300-600 bpm. The AV node blocks most of these impulses and only responds intermittently (hence irregular QRS). Cardiac output is reduced by 10-20% as ventricles are not primed properly by atria
@@ -29,7 +33,7 @@ Main risk is from clots forming from pooling blood in atria leading to ischaemic
 - 1st heart sound is of variable intensity
 - Signs of underlying cause
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - ECG
   ![|575](https://i.imgur.com/KExUKir.png)
@@ -52,4 +56,3 @@ Rhythm control - convert the hearth rhythm back into sinus rhythm
 - Electric (DC) cardioversion
 
   _No real difference in prognosis between rate or rhythm control_
-

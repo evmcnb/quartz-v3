@@ -7,7 +7,7 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: false
+enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: true
@@ -22,7 +22,5 @@ description:
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title: "Nosos Notes"
 links:
-  - link_name: Back to
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: Nosos
+    link: https://www.nosos.co.uk/

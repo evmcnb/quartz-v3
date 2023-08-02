@@ -1,4 +1,11 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: Asthma
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:07:52 pm
+---
+
+
 
 # Asthma
 
@@ -30,7 +37,7 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 - decreased air entry
 - accessory muscle use
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Sputum culture
 - ABG: $\downarrow PaO_2$ but also $\downarrow PaCO_2$ (hyperventilation)- \*\*if $\uparrow PaCO_2$ failing respiratory
@@ -46,7 +53,7 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 - Aminophylline
 - Anti-IgE antibody (v rarely)
 
-## Complications/red flags
+## Complications/red Flags
 
 - **_Silent Chest_**
 - Confusion
@@ -55,4 +62,3 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 ### DDX
 
 - [[pulmonary oedema]], [[COPD]], airway obstruction, [[pneumothorax]], [[pulmonary embolism]], [[bronchiectasis]]
-

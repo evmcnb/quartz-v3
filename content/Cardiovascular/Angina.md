@@ -1,5 +1,9 @@
-Tags: #Cardiovascular #Incomplete 
-
+---
+tags: [Cardiovascular, Incomplete]
+title: Angina
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:08:47 pm
+---
 # Angina
 
 Pain due to partial blockage of a coronary vessel. Can be stable or unstable
@@ -21,12 +25,10 @@ Some people develop unstable angina after having stable angina.
 - breathlessness
 - feeling tired
 
-## Diagnostic tests
+## Diagnostic Tests
 
 ## Management
 
 - GTN spray
 
-## Complications/red flags
-
-
+## Complications/red Flags

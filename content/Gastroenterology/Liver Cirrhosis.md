@@ -1,4 +1,9 @@
-Tags: #Gastroenterology
+---
+tags: [Gastroenterology]
+title: Liver Cirrhosis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:15 pm
+---
 
 ### Liver Cirrhosis
 
@@ -35,7 +40,7 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 - spider naevi
 - Ascites ^e3cff3
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Blood - LFT, $\uparrow$ bilirubin, $\uparrow$AST, $\uparrow$ALP, $\uparrow$GGT
 - Liver ultrasound
@@ -49,9 +54,8 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 - Ascites - fluid restriction, low salt diet possible diuretic
 - **Liver transplant** - only definitive treatment
 
-## Complications/red flags
+## Complications/red Flags
 
 - Liver cancer - hepatocytes have to regenerate and repair over and over
 - Portal hypertension - [[oesophageal varices]]
 - $\uparrow$ risk of infection - alterations in immune system
-

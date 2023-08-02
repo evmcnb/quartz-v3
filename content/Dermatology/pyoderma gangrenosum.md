@@ -1,6 +1,13 @@
-Tags: #Dermatology #Incomplete 
+---
+tags: [Dermatology, Incomplete]
+title: Pyoderma Gangrenosum
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:31 pm
+---
 
-# pyoderma gangrenosum
+
+
+# Pyoderma Gangrenosum
 
 Pyoderma gangrenosum is a rare skin condition that causes painful ulcers. It's usually treatable but can take some time to heal and may leave some scarring. Inflammatory ulcer
 ![|475](https://i.imgur.com/LWsBEPf.jpg)
@@ -17,7 +24,7 @@ Pyoderma gangrenosum is a rare skin condition that causes painful ulcers. It's u
 - undermined edge
 - purple boarder
 
-## Diagnostic tests
+## Diagnostic Tests
 
 ## Management
 
@@ -26,5 +33,4 @@ Immune suppressants
 - prednisolone
 -
 
-## Complications/red flags
-
+## Complications/red Flags

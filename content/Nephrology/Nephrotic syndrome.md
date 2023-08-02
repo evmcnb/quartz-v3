@@ -1,6 +1,12 @@
-Tags: #Nephrology
+---
+tags: [Nephrology]
+title: Nephrotic Syndrome
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:49 pm
+---
 
-# Nephrotic syndrome
+
+# Nephrotic Syndrome
 
 Loss of protein in urine
 ![](https://i.imgur.com/VAfMaKP.png)
@@ -37,7 +43,7 @@ GBM has negative charge to repel proteins
 - Fatigue
 - Loss of appetite
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Urinalysis
 - Blood tests
@@ -55,7 +61,7 @@ Specific
 - Hypercholesterolaemia - statins
 - Thrombo-prophylaxis - herparin
 
-## Complications/red flags
+## Complications/red Flags
 
 - Thrombosis - due to loss of blood blotting proteins
 - High blood cholesterol and elevated blood triglycerides - live makes more albumin along with cholesterol and triglycerides
@@ -64,4 +70,3 @@ Specific
 - [[Acute Kidney Injury]]
 - [[Chronic Kidney Disease]]
 - Infections
-

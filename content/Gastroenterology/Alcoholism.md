@@ -1,4 +1,10 @@
-Tags: #Gastroenterology #Neurology #Haematology #Cardiovascular #Reproductive
+---
+tags: [Gastroenterology, Neurology, Haematology, Cardiovascular, Reproductive]
+title: Alcoholism
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:46 pm
+---
+
 
 ### Alcoholism
 
@@ -59,6 +65,6 @@ Starts 10-72 hrs after last drink. Consider in any new ward patient with acute c
 
 Admit only if complicating or coexisting medical problems require treatment. Beware of BP. Offer resources available to support people trying to give up alcohol
 
-## Complications/red flags
+## Complications/red Flags
 
 50% will relapse soon after treatment

@@ -1,4 +1,10 @@
-Tags: #Nephrology #Incomplete 
+---
+tags: [Nephrology, Incomplete]
+title: Glomerulonephritis
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:42 pm
+---
+
 
 # Glomerulonephritis
 
@@ -27,7 +33,7 @@ Immune system attacks glomeruli
 
 - Frothy urine
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Urinalysis
   - haematuria and/or proteinuria
@@ -37,6 +43,4 @@ Immune system attacks glomeruli
 
 ## Management
 
-## Complications/red flags
-
-
+## Complications/red Flags

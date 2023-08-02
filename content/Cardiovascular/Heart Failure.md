@@ -1,5 +1,9 @@
-Tags: #Cardiovascular
-
+---
+tags: [Cardiovascular]
+title: Heart Failure
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:08 pm
+---
 # Heart Failure
 
 Defined as when cardiac output is inadequate for the body's normal requirements. End stage of all cardiac pathologies
@@ -39,7 +43,7 @@ Diastolic:
 - Hypotension
 - Cachexia (loss of skeletal muscle)
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Echo to assess ejection fraction, ventricle dilation and valves
 - ECG
@@ -64,8 +68,7 @@ Drugs:
 - Mineralocorticoid receptor antagonist
 - SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin
 
-## Complications/red flags
+## Complications/red Flags
 
 - Arrythmias
 - Thromboembolism
-

@@ -1,4 +1,10 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: Lung Abscess
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:23 pm
+---
+
 
 # Lung Abscess
 
@@ -22,7 +28,7 @@ A cavitating area of localised suppurative infection within the lung
 - Weight loss
 - Finger [[clubbing]]
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Bloods - FBC, ESR, CRP, culture
 - Sputum culture
@@ -33,5 +39,3 @@ A cavitating area of localised suppurative infection within the lung
 
 - Antibiotics
 - Drainage
-
-

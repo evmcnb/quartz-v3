@@ -1,6 +1,13 @@
-Tags: #Neurology #Cardiovascular
+---
+tags: [Neurology, Cardiovascular]
+title: Cerebral Infarction
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:10:59 pm
+---
 
-# Cerebral infarction
+
+
+# Cerebral Infarction
 
 Two types - ischemia or haemorrhagic
 
@@ -33,7 +40,7 @@ Ischemia can lead to haemorrhagic (haemorrhagic transformation of ischemic strok
 - Slurred speech
 - 5 syndromes: ataxic hemiparesis, pure motor, pure sensory, sensorimotor and dysarthria/clumsy head
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - CT/MRI rapidly to differentiate between ischemic or haemorrhagic
   Looking for source of clot

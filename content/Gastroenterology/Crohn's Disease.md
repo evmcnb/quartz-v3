@@ -1,4 +1,10 @@
-Tags: #Gastroenterology
+---
+tags: [Gastroenterology]
+title: "Crohn's Disease"
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:57 pm
+---
+
 
 ### Crohn's Disease
 
@@ -35,7 +41,7 @@ Extraintestinal signs:
 - [[clubbing]]
 - skin joint and eye problems
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Calprotectin - protein released from neutrophils into stool -> inflammatory marker, highly sensitive
 - Blood tests for inflammatory markers/anaemia (FBC, ESR, CRP, U&E, LFT)
@@ -54,9 +60,8 @@ Extraintestinal signs:
 
 ![](https://i.imgur.com/B10dLH6.png)
 
-## Complications/red flags
+## Complications/red Flags
 
 - small bowel obstruction
 - toxic dilation
 - for rest see diagram
-

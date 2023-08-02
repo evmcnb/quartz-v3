@@ -1,4 +1,9 @@
-Tags: #Cardiovascular
+---
+tags: [Cardiovascular]
+title: Ventricular Fibrillation
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:24 pm
+---
 
 # Ventricular Fibrillation
 
@@ -24,7 +29,7 @@ Possible
 - Unresponsive
 - Pulseless
 
-## Diagnostic tests
+## Diagnostic Tests
 
 ![|600](https://i.imgur.com/QAPXhHT.png)
 
@@ -36,6 +41,4 @@ Possible
 - Family history assessment
 - Implanted Cardioverter Defibrillators (ICD) - provides an immediate electrical shock on detection of VF
 
-## Complications/red flags
-
-
+## Complications/red Flags

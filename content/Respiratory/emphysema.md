@@ -1,6 +1,13 @@
-Tags: #Respiratory
+---
+tags: [Respiratory]
+title: Emphysema
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:11:18 pm
+---
 
-# emphysema
+
+
+# Emphysema
 
 Defined histologically as enlarged air spaces distal to terminal bronchi with destruction of alveoli Over time, the inner walls of the air sacs weaken and rupture — creating larger air spaces instead of many small ones
 
@@ -25,7 +32,7 @@ Emphysema and chronic bronchitis are two conditions that make up chronic obstruc
 
 - Tachypnoea
 
-## Diagnostic tests
+## Diagnostic Tests
 
 [[COPD#Diagnostic tests]]
 
@@ -35,8 +42,7 @@ Same as [[COPD#Management]]
 
 - Stop smoking
 
-## Complications/red flags
+## Complications/red Flags
 
 - [[pneumothorax]]
 - [[cor pulmonale]]
-

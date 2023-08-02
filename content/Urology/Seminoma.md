@@ -1,35 +1,40 @@
-Tags: #Urology #Incomplete 
+---
+tags: [Urology, Incomplete]
+title: Seminoma
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:12:09 pm
+---
+
+
+
 # Seminoma
 
 Malignant neoplasm of the testis arising form germ cells in the seminiferous tubules
 Most common type of testicular cancer
 
-
-
 ## Causes/Factors
+
 - Young men (25-45 y/o)
 - FH
-- [[Cryptorchidism]] - regardless of whether it was surgically corrected or only affected the other testis 
+- [[Cryptorchidism]] - regardless of whether it was surgically corrected or only affected the other testis
 
-## Clinical features
+## Clinical Features
 
-###### Local primary tumour effects
+###### Local Primary Tumour Effects
+
 - Testicular lump, swelling pain
 
-###### Effects of distant metastases
+###### Effects of Distant Metastases
+
 - Lung mets -> SOB
 - LN mets -> back pain
 
-###### Paraneoplastic syndromes
+###### Paraneoplastic Syndromes
+
 - Gynecomastia
 
-
-## Diagnostic tests
-
+## Diagnostic Tests
 
 ## Management
 
-
-## Complications/red flags
-
-
+## Complications/red Flags

@@ -1,5 +1,9 @@
-Tags: #Cardiovascular
-
+---
+tags: [Cardiovascular]
+title: "Fallot's Tetralogy"
+date created: Tuesday, August 1st 2023, 5:40:21 pm
+date modified: Wednesday, August 2nd 2023, 7:09:03 pm
+---
 # Fallot's Tetralogy
 
 Most common cyanotic congenital heart disorder + most common one that survives to adulthood
@@ -28,7 +32,7 @@ Tetralogy features:
 - Children may squat during hypercyanotic spell as it increases systemic vascular resistance and temporary reversal of shunt
 - Pulmonary murmur
 
-## Diagnostic tests
+## Diagnostic Tests
 
 - Echo demonstrates abnormal anatomy
 - ECG can also show hypertrophy
@@ -39,9 +43,7 @@ Tetralogy features:
 - Oxygen
 - Surgery to repair VSD and replace pulmonary valve
 
-## Complications/red flags
+## Complications/red Flags
 
 - pulmonary regurgitation
 - RV outflow tract obstruction
-
-
