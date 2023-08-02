@@ -1,8 +1,5 @@
+public/
+exampleSite/public/
 .DS_Store
-public
-resources
-.idea
-content/.obsidian
-assets/indices/linkIndex.json
-assets/indices/contentIndex.json
-linkmap
+.hugo_build.lock
+themes
