@@ -15,7 +15,7 @@ date modified: Wednesday, August 2nd 2023, 7:11:48 pm
 2. Fragments of cartilage triggers slight inflammatory reaction
 3. Bone form cysts as tries to remodel
 
-![|575](https://i.imgur.com/A7xK364.png)
+![|575](z_attachments/575-1.png)
 
 ## Causes/Factors
 

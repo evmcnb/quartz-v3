@@ -18,7 +18,7 @@ Increased number of both stromal and glandular cells in the prostate
 - Diabetes
 - FH
 
-![|525](https://i.imgur.com/BUd6250.png)
+![|525](z_attachments/525.png)
 
 ## Clinical Features
 

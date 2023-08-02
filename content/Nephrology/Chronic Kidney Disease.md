@@ -13,7 +13,7 @@ date modified: Wednesday, August 2nd 2023, 7:10:41 pm
 
 5 Stages dependent upon eGFR and albumin/creatine ratio (ACR)
 
-![](https://i.imgur.com/nS2PTtR.png)
+![](z_attachments/nS2PTtR.png)
 
 ## Causes/Factors
 

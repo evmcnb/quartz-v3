@@ -177,7 +177,7 @@ A **parasternal heave** is a precordial impulse that can be palpated.
 A **thrill** is a **palpable vibration** caused by **turbulent blood flow** through a heart valve (a thrill is a palpable murmur).
 You should assess for a thrill across **each of the heart valves** in turn
 
-![|475](https://i.imgur.com/WyvSOOE.png)
+![|475](z_attachments/475.png)
 
 ### Auscultation
 
@@ -202,7 +202,7 @@ You should assess for a thrill across **each of the heart valves** in turn
 - **Mitral stenosis** - with the patient **on their left side,** listen over the **mitral area** using the **bell** of the stethoscope **during expiration** for a **mid-diastolic murmur**.
   ![[Mitral Stenosis normal speed.mp3]]
 
-![](https://i.imgur.com/9f2YDMR.png)
+![](z_attachments/9f2YDMR.png)
 
 ## Final Steps
 

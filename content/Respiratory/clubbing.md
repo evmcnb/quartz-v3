@@ -11,7 +11,7 @@ date modified: Wednesday, August 2nd 2023, 7:11:12 pm
 
 Associated with several underlying disease processes
 
-![|400](https://i.imgur.com/TkFP6IK.jpg)
+![|400](z_attachments/400.jpg)
 
 Key respiratory causes - don't _MIS_
 

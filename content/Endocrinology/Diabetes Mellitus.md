@@ -13,8 +13,8 @@ date modified: Wednesday, August 2nd 2023, 7:09:34 pm
 - type 2 – where the body does not produce enough insulin, or the body's cells do not react to insulin
   - Maturity onset DM of the young (MODY)
 
-![](https://i.imgur.com/6rvEbtY.png)
-![](https://i.imgur.com/cDC0vhB.png)
+![](z_attachments/6rvEbtY.png)
+![](z_attachments/cDC0vhB.png)
 
 - Gestational diabetes
 
@@ -49,7 +49,7 @@ Weight loss, short history and moderate or large urinary ketones are indication 
 T1 - usually basal bolus injections (once or twice daily long acting insulin + premeal quick acting insulin). Need to judge carbohydrate intake and aware of blood glucose lowering in exercise. Possible insulin pump.
 
 T2 - life style modification. metformin + combination with other drug possibly
-![](https://i.imgur.com/UgXjHX4.png)
+![](z_attachments/UgXjHX4.png)
 
 Hypoglycaemic agents:
 

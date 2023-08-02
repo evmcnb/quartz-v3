@@ -9,10 +9,10 @@ date modified: Wednesday, August 2nd 2023, 7:10:49 pm
 # Nephrotic Syndrome
 
 Loss of protein in urine
-![](https://i.imgur.com/VAfMaKP.png)
+![](z_attachments/VAfMaKP.png)
 GBM has negative charge to repel proteins
 
-![|550](https://i.imgur.com/1Gcrlno.png)
+![|550](z_attachments/550.png)
 (Left) Loss of negative charge
 
 ## Causes/Factors

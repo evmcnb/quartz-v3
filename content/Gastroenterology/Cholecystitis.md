@@ -9,7 +9,7 @@ date modified: Wednesday, August 2nd 2023, 7:09:52 pm
 ### Cholecystitis
 
 Inflammation of gallbladder
-![|375](https://i.imgur.com/7ppSYIf.png)
+![|375](z_attachments/375-3.png)
 
 ## Causes/Factors
 

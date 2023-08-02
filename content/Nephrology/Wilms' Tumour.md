@@ -11,7 +11,7 @@ date modified: Wednesday, August 2nd 2023, 7:10:56 pm
 
 Cancer of the kidney that arises from nephroblasts (cells that develop into the kidney in embryological development)
 
-![](https://i.imgur.com/l605JRR.png)
+![](z_attachments/l605JRR.png)
 
 ## Causes/Factors
 

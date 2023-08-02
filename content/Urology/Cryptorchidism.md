@@ -11,7 +11,7 @@ date modified: Wednesday, August 2nd 2023, 7:12:02 pm
 
 aka undescended testis
 
-![](https://i.imgur.com/TEOIepH.png)
+![](z_attachments/TEOIepH.png)
 
 Many babies can be born within the 25-35 week window without testis decent
 

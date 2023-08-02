@@ -13,7 +13,7 @@ The inflammatory bowel diseases (IBD), [[Ulcerative Colitis]] and Crohn's diseas
 Can effect any part of GI tract from mouth to anus
 More difficult to manage due to this
 
-![|650](https://i.imgur.com/wGDcE8D.png)
+![|650](z_attachments/650-1.png)
 
 ## Causes/Factors
 
@@ -52,13 +52,13 @@ Extraintestinal signs:
 ## Management
 
 **Optimise nutrition**
-![|650](https://i.imgur.com/5sW2JuN.png)
+![|650](z_attachments/650.png)
 
 - Azathioprine (immunosuppressant)
 - Biologics, Anti-TNFa, Anti-integrin, anti-IL12/23
 - Surgery due to complications
 
-![](https://i.imgur.com/B10dLH6.png)
+![](z_attachments/B10dLH6.png)
 
 ## Complications/red Flags
 

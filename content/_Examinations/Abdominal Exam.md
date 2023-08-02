@@ -85,7 +85,7 @@ Whilst supporting the patient’s arm, **inspect** each **axilla** for the f
 #### Lymph Nodes
 The left supraclavicular lymph node (Virchow's node) receives lymphatic drainage from the abdominal cavity so can be one of the first signs of intraabdominal malignancy
 - Palpate lymph nodes
-![|325](https://i.imgur.com/qtL8CRj.png)
+![|325](z_attachments/325.png)
 
 
 ## Chest
@@ -152,7 +152,7 @@ In healthy individuals you should not be able to palpate the spleen.
 
 ##### Ballot the Kidneys
 1. Place hands in this position and push fingers together
-![|325](https://i.imgur.com/vrs2r7A.png)
+![|325](z_attachments/325-1.png)
 2. Ask patient to take a deep breath and feel for kidney moving down
 3. If kidney ballotable describe size and consistency
 4. Repeat on other side

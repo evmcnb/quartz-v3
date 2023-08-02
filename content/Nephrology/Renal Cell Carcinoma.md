@@ -13,10 +13,10 @@ Cancer of the kidney that arises from the renal tubular epithelium
 Two most common:
 
 - Clear cell (75%)
-  ![|325](https://i.imgur.com/Kic9sO1.jpg)
+  ![|325](z_attachments/325-1.jpg)
 
 - Papillary (10%)
-  ![|325](https://i.imgur.com/AA71hkv.jpg)
+  ![|325](z_attachments/325.jpg)
 
 ## Causes/Factors
 

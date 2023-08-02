@@ -43,7 +43,7 @@ Diagnosis can be made on signs in server cases
 ## Diagnostic Tests
 
 - CXR: - Air = black - Deviated mediastinum
-  ![|400](https://i.imgur.com/05f1ZV9.png)
+  ![|400](z_attachments/400-2.png)
 
 ## Management
 

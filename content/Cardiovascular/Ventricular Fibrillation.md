@@ -31,7 +31,7 @@ Possible
 
 ## Diagnostic Tests
 
-![|600](https://i.imgur.com/QAPXhHT.png)
+![|600](z_attachments/600-1.png)
 
 ## Management
 

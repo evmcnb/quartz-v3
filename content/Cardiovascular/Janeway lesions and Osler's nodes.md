@@ -9,8 +9,8 @@ date modified: Wednesday, August 2nd 2023, 7:09:10 pm
 
 ### Janeway Lesion
 
-![|400](https://i.imgur.com/PtpobFf.png)
+![|400](z_attachments/400-4.png)
 
 ### Osler's Nodes
 
-![|400](https://i.imgur.com/SYjr6Ah.png)
+![|400](z_attachments/400-5.png)

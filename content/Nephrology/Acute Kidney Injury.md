@@ -73,7 +73,7 @@ Lots of risk factors like age 75+, [[Diabetes Mellitus]], [[Heart Failure]], etc
 **Refractory Hyperkalaemia**
 
 - Leads to tented T-wave
-  ![|325](https://i.imgur.com/F1MgmaB.png)
+  ![|325](z_attachments/325-2.png)
 - Give calcium gluconate -> protects heart and buys time, glucose/dextrose + insulin and possible salbutamol nebuliser
 
 **Acidosis**

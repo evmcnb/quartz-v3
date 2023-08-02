@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Bronchiectasis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 7:07:49 pm
+date modified: Wednesday, August 2nd 2023, 7:28:57 pm
 ---
 
 
@@ -35,7 +35,7 @@ Chronic inflammation of bronchi and bronchioles leading to permanent dilation an
 
 - Sputum culture
 - CXR/high res CT to assess extent - signet ring sign - bronchioles larger than arteries (abnormal)
-  ![|425](https://i.imgur.com/0Fkaq01.png)
+  ![|425](z_attachments/425.png)
 
 - ABG ($\downarrow PaO_2, \uparrow PaCO_2$)
 

@@ -36,7 +36,7 @@ Main risk is from clots forming from pooling blood in atria leading to ischaemic
 ## Diagnostic Tests
 
 - ECG
-  ![|575](https://i.imgur.com/KExUKir.png)
+  ![|575](z_attachments/575-2.png)
 - Blood: Thyroid function test
 - Echo: look at mitral valve and LV function
 

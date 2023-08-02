@@ -31,7 +31,7 @@ Types:
 
 Leads to soluble material to precipitate out
 
-![|575](https://i.imgur.com/ITRRna5.png)
+![|575](z_attachments/575.png)
 
 ## Clinical Features
 

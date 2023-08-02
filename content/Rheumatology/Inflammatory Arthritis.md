@@ -21,14 +21,14 @@ Anyone at any age can get inflammatory arthritis
 - Other organs can be effected
 - 80% positive Rheumatoid Factor blood test
 - Positive anti-CCP antibody
-  ![|500](https://i.imgur.com/ny9KBv3.png)
+  ![|500](z_attachments/500.png)
 
 #### Psoriatic Arthritis
 
 - About 15% of people with psoriasis will develop psoriatic arthritis
 - Dactylitis & nail changes (onycholysis)
 - Increased CV risk
-  ![|250](https://i.imgur.com/D6p2hha.png)
+  ![|250](z_attachments/250.png)
 
 #### Axial Spondylarthritis
 

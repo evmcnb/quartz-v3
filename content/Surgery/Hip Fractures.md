@@ -15,7 +15,7 @@ Fracture of the femur distal to the femoral head and proximal to a level 5 cm be
 - Extracapsular (outside the capsule) - 5 cm distal to lesser trochanter
   - Inter-trochanteric
   - Sub-trochanteric
-    ![|375](https://i.imgur.com/Gi7ORej.png)
+    ![|375](z_attachments/375.png)
 
 In elderly - occurrence of falls often signs underlying ill health
 

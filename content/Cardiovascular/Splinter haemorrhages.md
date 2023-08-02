@@ -6,4 +6,4 @@ date modified: Wednesday, August 2nd 2023, 7:09:21 pm
 ---
 
 
-![|400](https://i.imgur.com/Uk0nCyw.jpg)
+![|400](z_attachments/400-1.jpg)

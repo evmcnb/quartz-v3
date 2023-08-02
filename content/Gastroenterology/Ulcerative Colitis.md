@@ -10,7 +10,7 @@ date modified: Wednesday, August 2nd 2023, 7:10:23 pm
 The inflammatory bowel diseases (IBD), ulcerative colitis and [[Crohn's Disease]] are chronic autoimmune relapsing and remitting inflammation of the intestine.
 
 Can only effect colon - "never" past ileocaecal value
-![|650](https://i.imgur.com/wGDcE8D.png)
+![|650](z_attachments/650-1.png)
 Extra intestinal manifestations
 
 ## Causes/Factors
@@ -52,7 +52,7 @@ Extraintestinal signs:
 ## Management
 
 Goals are to induce and maintain disease remission
-![|650](https://i.imgur.com/5sW2JuN.png)
+![|650](z_attachments/650.png)
 
 **Immunomodulation** if patients flare on steroid or require 2+ courses of steroid per year. Monitor LFTs. Slow acting drug compared to steroids
 

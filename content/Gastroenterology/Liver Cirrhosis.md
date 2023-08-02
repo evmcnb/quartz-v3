@@ -8,7 +8,7 @@ date modified: Wednesday, August 2nd 2023, 7:10:15 pm
 ### Liver Cirrhosis
 
 Irreversible scarring of the liver.
-![|400](https://i.imgur.com/5tvgzsO.png)
+![|400](z_attachments/400-3.png)
 
 - Disturbed vascular perfusion
 

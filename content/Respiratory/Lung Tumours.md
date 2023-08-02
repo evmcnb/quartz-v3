@@ -52,7 +52,7 @@ Small cell
 
 - Made on histology (biopsy)
 - Can see tumour of CXR
-  ![|375](https://i.imgur.com/JH6Mm8E.png)
+  ![|375](z_attachments/375-2.png)
 
 ## Management
 

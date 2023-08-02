@@ -14,8 +14,8 @@ An acute lower respiratory tract infection associated with fever and other abnor
 ## Causes/Factors
 
 - Community acquired (CAP) - most common streptococcus pneumoniae. Occurring outside of hospital or within 48hr of admission
-  ![|600](https://i.imgur.com/dC0wRMB.png)
-  ![|375](https://i.imgur.com/oqIegQe.png)
+  ![|600](z_attachments/600.png)
+  ![|375](z_attachments/375-1.png)
 
 - Hospital acquired (HAP) - after 48hs from admission
 - Ventilator associated (VAP)

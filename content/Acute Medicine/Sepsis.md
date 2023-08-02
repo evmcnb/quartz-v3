@@ -19,7 +19,7 @@ Septic shock is a subset of sepsis. Profound circulatory, cellular and metabolic
 - Vasopressor requirement to maintain a MAP >65
 - serum lactate level >2mmol/L
 
-![|650](https://i.imgur.com/PA2VJjP.png)
+![|650](z_attachments/650-2.png)
 
 ## Causes/Factors
 

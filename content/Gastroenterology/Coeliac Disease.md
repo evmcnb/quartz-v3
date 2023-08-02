@@ -38,7 +38,7 @@ Dude is Just Feeling Ill Bro
 - $\downarrow$ B12
 - $\downarrow$ ferritin
 - Anti-transglutaminase antibodies (ATA) where positive go to duodenal biopsy while on gluten containing diet
-  ![|625](https://i.imgur.com/TwIRgR2.png)
+  ![|625](z_attachments/625.png)
 
 ## Management
 

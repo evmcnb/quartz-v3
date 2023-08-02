@@ -117,7 +117,7 @@ Position patient upright and examine from behind if possible. Use pads of the 2n
 
 1. Inspect for any obvious evidence of lymphadenopathy
 2. Start in submental area and progress through various lymph node chains
-   ![|325](https://i.imgur.com/qtL8CRj.png)
+   ![|325](z_attachments/325.png)
 
 Causes include [[Lung Tumours]] [[Tuberculosis]] and [[sarcoidosis]]
 
@@ -163,8 +163,8 @@ Can be assessed either anteriorly or posteriorly
 4. Ask patient to breath in
 5. Movement of thumbs should move symmetrically upwards & outwards
 
-![|400](https://i.imgur.com/dkoH8vZ.png)
-![|400](https://i.imgur.com/zheZOpf.png)
+![|400](z_attachments/400.png)
+![|400](z_attachments/400-1.png)
 
 ### Percussion of Chest
 

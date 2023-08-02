@@ -24,7 +24,7 @@ aka Gout
 
 ## Signs
 
-![|275](https://i.imgur.com/VUcdbCi.png)
+![|275](z_attachments/275.png)
 
 ## Diagnostic Tests
 
