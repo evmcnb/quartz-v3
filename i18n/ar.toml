@@ -62,4 +62,4 @@ other = "ابحث عن شيء ما..."
 other = "الفهرس"
 
 [copyright]
-other = "{{ .name }}، {{ .year }} ©"
+other = "{{ .name }} {{ .year }} ©"

@@ -62,4 +62,4 @@ other = "Bir şey ara..."
 other = "İçindekiler"
 
 [copyright]
-other = "{{ .name }}, © {{ .year }}"
+other = "{{ .name }} © {{ .year }}"

@@ -62,4 +62,4 @@ other = "进行搜索......"
 other = "目录"
 
 [copyright]
-other = "{{ .name }}, © {{ .year }}"
+other = "{{ .name }} © {{ .year }}"

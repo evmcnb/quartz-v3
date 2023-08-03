@@ -62,4 +62,4 @@ other = "Cerca qualcosa..."
 other = "Indice"
 
 [copyright]
-other = "{{ .name }}, © {{ .year }}"
+other = "{{ .name }} © {{ .year }}"

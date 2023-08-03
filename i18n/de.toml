@@ -62,4 +62,4 @@ other = "Suche nach etwas ..."
 other = "Inhaltsverzeichnis"
 
 [copyright]
-other = "{{ .name }}, © {{ .year }}"
+other = "{{ .name }} © {{ .year }}"
