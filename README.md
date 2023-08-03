@@ -1,4 +1,4 @@
-![|275](z_attachments/logo5.png)
+![|275](content/z_attachments/logo5.png)
 
 ## ❓About
 
