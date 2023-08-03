@@ -18,7 +18,7 @@ Usually doesn't occur in isolation
 
 ## Causes/Factors
 
-Lots of risk factors like age 75+, [[Endocrinology/Diabetes Mellitus|Diabetes Mellitus]], [[Heart Failure]], etc
+Lots of risk factors like age 75+, [[Diabetes Mellitus]], [[Heart Failure]], etc
 
 **Pre-renal** - something causes $\downarrow$ BP
 
