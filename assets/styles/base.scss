@@ -1,9 +1,10 @@
 // Replace this with your own font imports!
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap");
 :root {
-  --font-body: "Source Sans Pro", sans-serif;
+  --font-body: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-header: "Inter", sans-serif;
-  --font-mono: "Fira Code", monospace;
+  --font-mono: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 // typography
@@ -79,6 +80,7 @@ li,
 ol,
 ul {
   font-family: var(--font-body);
+  font-size: medium;
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
