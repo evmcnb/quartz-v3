@@ -178,7 +178,7 @@ Ask the patient to relax and breathe deeply in and out through their mouth
 - Apices should be auscultated through the bell
 - Auscultate symmetrically
   Normal vesicular breathing:
-  ![[normal breathing.mp3]]
+  ![[z_attachments/normal breathing.mp3|normal breathing]]
 
 #### Quality of Breath Sounds
 
@@ -188,13 +188,13 @@ Ask the patient to relax and breathe deeply in and out through their mouth
 #### Added Sounds
 
 - **Wheeze:** often associated with [[asthma]], [[COPD]] and [[bronchiectasis]] - **lower airways**
-  ![[wheeze.mp3]]
+  ![[z_attachments/wheeze.mp3|wheeze]]
 - **Stridor:** a high-pitched extra-thoracic breath sound resulting from turbulent airflow through narrowed **upper airways**. Stridor has a wide range of causes, including foreign body inhalation (acute) and subglottic stenosis (chronic).
-  ![[inspiratory stridor.mp3]]
+  ![[z_attachments/inspiratory stridor.mp3|inspiratory stridor]]
 - **Coarse crackles:** associated with [[pneumonia]], [[bronchiectasis]] and pulmonary oedema.
-  ![[coarse crackles.mp3]]
+  ![[z_attachments/coarse crackles.mp3|coarse crackles]]
 - **Fine end-inspiratory crackles:**  associated with [[pulmonary fibrosis]]
-  ![[fine crackles.mp3]]
+  ![[z_attachments/fine crackles.mp3|fine crackles]]
 
 ##### Vocal Resonance
 

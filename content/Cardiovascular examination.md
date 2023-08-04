@@ -100,7 +100,7 @@ Prior to palpating the carotid artery need to rule out the presence of a **brui
 1. Place bell of stethoscope over carotid pulse
 2. Ask patient to take a deep breath in and hold
 3. Sound of a carotid bruit
-   ![[Carotid Bruit Sound.mp3]]
+   ![[z_attachments/Carotid Bruit Sound.mp3|Carotid Bruit Sound]]
 4. The presence of a ‘carotid bruit’ may, in fact, be a **radiating cardiac murmur**
 
 ##### Palpate
@@ -192,13 +192,13 @@ You should assess for a thrill across **each of the heart valves** in turn
 ##### Accentuation Manoeuvres
 
 - **Aortic stenosis** - auscultate the **carotid** **arteries** using the diaphragm of the stethoscope whilst the patient holds their breath to listen for radiation of an **ejection systolic murmur**
-  ![[Aortic Stenosis normal speed.mp3]]
+  ![[z_attachments/Aortic Stenosis normal speed.mp3|Aortic Stenosis normal speed]]
 - **Aortic regurgitation** - sit the patient forwards and auscultate over the **aortic** **area** with the diaphragm of the stethoscope during **expiration** to listen for an **early diastolic murmur**
-  ![[Aortic Regurgitation normal speed.mp3]]
+  ![[z_attachments/Aortic Regurgitation normal speed.mp3|Aortic Regurgitation normal speed]]
 - **Mitral regurgitation** - roll the patient onto their **left side** and listen over the mitral area with the **diaphragm** of the stethoscope **during expiration** for a pansystolic murmur. Continue to auscultate into the **axilla** to identify **radiation** of this murmur.
-  ![[Mitral Regurgitation normal speed.mp3]]
+  ![[z_attachments/Mitral Regurgitation normal speed.mp3|Mitral Regurgitation normal speed]]
 - **Mitral stenosis** - with the patient **on their left side,** listen over the **mitral area** using the **bell** of the stethoscope **during expiration** for a **mid-diastolic murmur**.
-  ![[Mitral Stenosis normal speed.mp3]]
+  ![[z_attachments/Mitral Stenosis normal speed.mp3|Mitral Stenosis normal speed]]
 
 ![](z_attachments/9f2YDMR.png)
 
