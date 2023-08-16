@@ -38,6 +38,12 @@ The graph view at the bottom of the page provides a visual representation of the
 
 Whether you choose to use the search function or explore the graph view, we hope that these features will assist you in finding the medical student notes you need efficiently and make your learning experience more productive and enjoyable
 
+>[!Warning]
+>Some pages may appear in the graph view despite not being created yet. Apologies for this, and hopefully these pages will be fixed soon.
+>
+>In addition any page with the tag `#Incomplete` should be treated with caution as information may be missing
+
+
 ## ❓About
 
 This website was created by a group of passionate medical students who understand the challenges of studying medicine. Our mission is to provide a centralized platform where medical students can access comprehensive notes on various subjects, contributed and curated by students and educators alike. We believe that collaboration and knowledge sharing are essential for fostering a successful learning environment.
