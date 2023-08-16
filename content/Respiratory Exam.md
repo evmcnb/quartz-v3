@@ -128,7 +128,7 @@ Causes include [[Lung Tumours]] [[Tuberculosis]] and [[sarcoidosis]]
 #### Eyes
 
 - **Conjunctival pallor:** suggestive of underlying anaemia*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
-- **Ptosis, miosis and enophthalmos:** all features of [[Horner’s syndrome]] (anhydrosis is another important sign associated with the syndrome). Horner’s syndrome occurs when the sympathetic trunk is damaged by pathology such as lung cancer affecting the apex of the lung (e.g. Pancoast tumour).
+- **Ptosis, miosis and enophthalmos:** all features of [[Horner's Syndrome]] (anhydrosis is another important sign associated with the syndrome). Horner’s syndrome occurs when the sympathetic trunk is damaged by pathology such as lung cancer affecting the apex of the lung (e.g. Pancoast tumour).
 
 #### Mouth
 
