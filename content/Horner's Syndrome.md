@@ -1,6 +1,6 @@
 ---
 tags: [Neurology]
-title: Horners Syndrome
+title: Horner's Syndrome
 date created: Wednesday, August 16th 2023, 1:45:57 pm
 date modified: Wednesday, August 16th 2023, 1:51:48 pm
 ---
