@@ -14,7 +14,7 @@ Main risk is from clots forming from pooling blood in atria leading to ischaemic
 - Hypertension
 - [[Coronary Artery Disease]]
 - Excessive alcohol consumption
-- [[Endocrinology/Hyperthyroidism|Hyperthyroidism]]
+- [[Hyperthyroidism]]
 - [[Heart Failure]]
 - [[pneumonia]]
 
