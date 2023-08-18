@@ -62,7 +62,7 @@ While we strive to ensure the accuracy and reliability of the information provid
 
 ## 📧 Contact
 
-If you have any questions, suggestions, or concerns related to the website or its content, please feel free to contact us.
+If you have any questions, suggestions, or concerns related to the website or its content, please feel free to contact us at support@nosos.co.uk
 Happy learning!
 
 The Nosos Team
