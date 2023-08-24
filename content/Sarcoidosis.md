@@ -4,6 +4,7 @@ tags:
   - Respiratory
   - Rheumatology
   - Dermatology
+  - AIassisted
 date created: Wednesday, August 16th 2023, 2:04:33 pm
 date modified: Wednesday, August 16th 2023, 2:05:18 pm
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pleural Effusion
-tags: [Respiratory]
+tags: [Respiratory, AIassisted]
 date created: Wednesday, August 16th 2023, 1:49:49 pm
 date modified: Wednesday, August 16th 2023, 1:52:29 pm
 ---

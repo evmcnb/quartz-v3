@@ -1,6 +1,6 @@
 ---
 title: Pulmonary Fibrosis
-tags: [Respiratory]
+tags: [Respiratory, AIassisted]
 date created: Wednesday, August 16th 2023, 1:57:16 pm
 date modified: Wednesday, August 16th 2023, 2:00:54 pm
 ---
