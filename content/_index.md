@@ -53,7 +53,7 @@ This website was created by a group of passionate medical students who understan
 
 We welcome contributions from fellow medical students and educators. If you have well-organized and informative notes that you would like to share with the community, please consider contributing to our repository.
 
-To contribute, simply fork this repository, create a new branch, make your changes, and submit a pull request. Our team of moderators will review your submission, and upon approval, your notes will become a valuable addition to the collection.
+To contribute or correct a mistake, simply fork this repository, create a new branch, make your changes, and submit a pull request. Our team of moderators will review your submission, and upon approval, your notes will become a valuable addition to the collection.
 
 Please note that we value the quality and reliability of the content. When contributing, consider providing references and citing authoritative sources to support the information presented. Also, be mindful of patient privacy and confidentiality when sharing clinical case studies.
 
