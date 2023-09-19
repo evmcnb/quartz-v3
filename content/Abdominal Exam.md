@@ -100,7 +100,7 @@ Position the patient lying flat on the bed.
 
 #### Inspect
 - Scars - past surgery
-- Abdominal distension - **six f's**: fat, fluid, flatus, faeces, foetus or fucking large tumour
+- Abdominal distension - **six f's**: fat, fluid, flatus, faeces, foetus or funking large tumour
 - Caput medusae - engorged paraumbilical veins associated with portal hypertension
 - Striae -stretch marks - [[Liver Cirrhosis|ascites]], intrabdominal malignancy, [[Cushing's Syndrome]], obesity [[Pregnancy]]
 - Hernias - ask patient to cough

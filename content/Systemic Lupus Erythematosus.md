@@ -28,7 +28,7 @@ Classic differentiating symptoms of SLE
 - **Joint Pain and Swelling:** Arthritis especially in small joints of hand and foot.
 - **Hair Loss:** Thinning or hair loss, often in patches.
 - **Malar Rash:** Butterfly-shaped rash across the cheeks and bridge of the nose.
-- **Mouth Sores:** Ulcers in the mouth or nose.
+- **Mouth Sores:** Ulcers in the mouth or nose (esp in odd places, arch of palate)
 
 ![[z_attachments/Pasted image 20230823134430.png|425]]
 

@@ -14,7 +14,7 @@ Pleural effusion can result from various underlying causes, including:
 3. **Cancer:** Lung cancer, breast cancer, and other cancers can cause pleural effusion.
 4. **[[Pulmonary Embolism]]:** Blood clots in the lungs can lead to inflammation and fluid buildup.
 5. **Liver or Kidney Disease:** Impaired liver or kidney function can disrupt fluid balance and cause effusion.
-6. **Inflammatory Conditions:** Conditions like [[lupus]] or [[Inflammatory Arthritis#Rheumatoid Arthritis|rheumatoid arthritis]] can lead to inflammation and fluid buildup.
+6. **Inflammatory Conditions:** Conditions like [[Systemic Lupus Erythematosus|lupus]] or [[Inflammatory Arthritis#Rheumatoid Arthritis|rheumatoid arthritis]] can lead to inflammation and fluid buildup.
 7. **Trauma:** Chest injuries or surgeries can result in pleural effusion.
 8. **Certain Medications:** Some drugs can cause fluid retention.
 

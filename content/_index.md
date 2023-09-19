@@ -11,10 +11,12 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 Welcome to the Medical Student Notes Collection! This website serves as a valuable resource for medical students to access a diverse range of high-quality notes, study materials, and resources to aid in their academic journey. Whether you're just starting your medical education or looking to reinforce your knowledge, you'll find a wealth of information at your fingertips.
 
-> [!tip] Quick start 
+> [!tip] Quick start
+>
 > - Search on the top right of any page
 > - Use the graph view at the bottom of any page
 > - Browse the [tags](https://notes.nosos.co.uk/tags/)
+
 ## 📚 Getting Started
 
 ### Using the Search Function
@@ -38,11 +40,10 @@ The graph view at the bottom of the page provides a visual representation of the
 
 Whether you choose to use the search function or explore the graph view, we hope that these features will assist you in finding the medical student notes you need efficiently and make your learning experience more productive and enjoyable
 
->[!Warning]
->Some pages may appear in the graph view despite not being created yet. Apologies for this, and hopefully these pages will be fixed soon.
+> [!Warning]
+> Some pages may appear in the graph view despite not being created yet. Apologies for this, and hopefully these pages will be fixed soon.
 >
->In addition any page with the tag `#Incomplete` should be treated with caution as information may be missing
-
+> In addition any page with the tag `#Incomplete` should be treated with caution as information may be missing
 
 ## ❓About
 
