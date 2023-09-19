@@ -4,6 +4,15 @@ title: Upper and Lower Limb Neurological Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ---
+## Quick reference
+Neuro exams always try to localise where in the pathway the lesion is: upper (brain, spinal cord) or lower (nerve root, peripheral nerve, NMJ or muscle). Here's a summary of the features from UMN, remember upp**er**, hyp**er**
+
+| Test       | UMN signs                                                                                                     | LMN                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| Inspection | No fasciculation or significant wasting (there may however be some disuse atrophy or contractures)            | Wasting and fasciculation of muscles |
+| Tone       | Increased (spasticity or rigidity) +/- ankle clonus                                                           | Decreased (hypotonia) or normal      |
+| Power      | Classically a “pyramidal” pattern of weakness (extensors weaker than flexors in arms, and vice versa in legs) |                                      |
+
 
 ## Introduction
 
