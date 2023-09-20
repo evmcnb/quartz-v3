@@ -39,7 +39,7 @@ Neuro exams always try to localise where in the pathway the lesion is: upper (br
 - Watch gait as they walk in/ask them to walk
 	- Stance - ataxic gait -> midline cerebellar pathology: [[Multiple Sclerosis|MS]], chronic alcohol excess
 	- Stability - staggering, slow, unsteady. Patients will lean towards the side of the cerebellar lesion
-	- Arm swing - often absent or reduced in [[Parkinson's Disease]]
+	- Arm swing - often absent or reduced in [[Parkinson's disease]]
 	- Steps - small, shuffling steps -> Parkinsonian gait
 	- Turning - patients with cerebellar disease will find this difficult
 
