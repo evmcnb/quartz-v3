@@ -46,7 +46,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 ##### Finger [[Clubbing]]
 
-Could indicate congenital cyanotic heart disease, infective [[endocarditis]], and [[atrial myxoma]]
+Could indicate congenital cyanotic heart disease, infective [[Endocarditis]], and [[atrial myxoma]]
 
 - Schamroth’s window test
 
