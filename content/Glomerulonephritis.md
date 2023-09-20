@@ -55,5 +55,5 @@ Glomerulonephritis, often referred to as GN, is a group of kidney diseases that 
 ## Complications/red Flags
 
 - **[[Chronic Kidney Disease]]:** Progressive damage can lead to reduced kidney function.
-- **[[Nephrotic Syndrome]]:** Severe proteinuria, edema, and low protein levels.
+- **[[Nephrotic syndrome]]:** Severe proteinuria, edema, and low protein levels.
 - **[[Acute Kidney Injury]]:** Sudden decline in kidney function.

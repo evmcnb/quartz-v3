@@ -19,7 +19,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 #### Clinical Signs
 
 - **Cyanosis**
-- **Shortness of breath** (congestive [[Heart Failure]], [[Pericarditis]], [[pneumonia]], [[pulmonary embolism]])
+- **Shortness of breath** (congestive [[Heart Failure]], [[Pericarditis]] [[pneumonia]], [[pulmonary embolism]])
 - Pallor - not very sensitive - paleness -> anaemia (haemorrhage, chronic disease) or poor perfusion (congestive [[Heart Failure]])
 - **Malar flush** - plum red discolouration of the cheeks associated with [[Mitral stenosis]]
 - **Oedema** - lots of causes, usually in limbs (pedal) or abdomen (ascites). Usually in context of CVS exam congestive [[Heart Failure]]
@@ -28,7 +28,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 - Medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access
 - Mobility aids
-- Pillows - congestive [[heart failure]] patients typically suffer from orthopnoea
+- Pillows - congestive [[Heart Failure]] patients typically suffer from orthopnoea
 - Vital sign charts
 - Fluid balance charts
 - Prescription
@@ -46,7 +46,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 ##### Finger [[Clubbing]]
 
-Could indicate congenital cyanotic heart disease, [[infective endocarditis]], and [[atrial myxoma]]
+Could indicate congenital cyanotic heart disease, infective [[endocarditis]], and [[atrial myxoma]]
 
 - Schamroth’s window test
 
@@ -144,7 +144,7 @@ A **positive hepatojugular reflux result** suggests the **right ventricle is 
 - **Central cyanosis:** bluish discolouration of the lips and/or the tongue associated with hypoxaemia (e.g. a right to left cardiac shunt)
 - **Angular stomatitis:** a common inflammatory condition affecting the corners of the mouth. It has a wide range of causes including iron deficiency.
 - **High arched palate:** a feature of [[Marfan's syndrome]] which is associated with mitral/aortic valve prolapse and aortic dissection.
-- **Dental hygiene:** poor dental hygiene is a risk factor for infective [[infective endocarditis]]
+- **Dental hygiene:** poor dental hygiene is a risk factor for infective [[Endocarditis]]
 
 ## Chest
 
@@ -213,7 +213,7 @@ You should assess for a thrill across **each of the heart valves** in turn
 Auscultate the lung fields posteriorly:
 
 - Coarse crackles -> [[pulmonary oedema]]
-- Absent air entry and stony dullness on percussion -> [[pleural effusion]]
+- Absent air entry and stony dullness on percussion -> [[Pleural Effusion]]
 
 ##### Sacral Oedema
 
