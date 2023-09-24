@@ -14,11 +14,11 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 - Gain consent to continue
 - Ask if patient in any **pain** before continuing
 
-## Olfactory Nerve and Glossopharyngeal
+## Olfactory Nerve (1) and Glossopharyngeal (9)
 
 ##### Have You Noticed Any Change in Smell or Taste?
 
-## Optic Nerve
+## Optic Nerve (2)
 
 ##### Snellen Test
 
@@ -27,12 +27,6 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 - Ensure patient is correct distance (6m effective) away
 - Move closer (3m) if unable to read at 6m
 
-##### Visual Inattention
-
-- Ask patient to keep looking into your eyes
-- Point to the finger that you see moving
-- Do upper and lower
-
 ##### Visual Fields
 
 - Ask patient to **cover one eye**
@@ -40,13 +34,18 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 - Ensure the finger is in the mid line
 - Check each corner of field and repeat on other eye
 
+##### Fundoscopy
+- Make sure your left eye is looking into their left eye to avoid complete face to face positioning!
+- Follow arteries towards the optic disc - they usually branch in a way to form arrow shapes that point towards the optic disc
+
 ##### Check Pupil Size and Alignment
 
 ##### Check Pupillary Reflexes
 
 - Direct and consensual
 
-#### Vagus and Hypoglossal
+
+#### Vagus (10) and Hypoglossal (12)
 
 While you have the light in your hand might as well assess other things that require it
 
@@ -56,7 +55,7 @@ While you have the light in your hand might as well assess other things that req
 
 ##### Say You Would Assess Colour Using Ishihara Chart
 
-## Oculomotor, Trochlear and Abducens
+## Oculomotor (3), Trochlear (4) and Abducens (6)
 
 ##### H Finger Follow Test
 
@@ -67,7 +66,7 @@ While you have the light in your hand might as well assess other things that req
 
 - Move finger towards nose of patient and watch for eyes
 
-## Trigeminal
+## Trigeminal (5)
 
 ##### Fine touch Sensation
 
@@ -83,14 +82,14 @@ While you have the light in your hand might as well assess other things that req
 ##### Assess Muscles of Mastication
 
 - Feel for temporalis & masseter muscles for atrophy
-- Ask for jaw to be open and for it to resist me closing it#
+- Ask for jaw to be open and for it to resist closing it
 
 ##### ? Jaw Jerk
 
 - Ask patient to relax jaw
 - Place finger on mentalis muscle and hit with tendon hammer
 
-## Facial Nerve
+## Facial Nerve (7)
 
 ##### Facial Expression Assessment
 
@@ -102,7 +101,7 @@ Check for symmetry each time
 - Purse lips
 - Bare teeth
 
-## Vestibulocochlear
+## Vestibulocochlear (8)
 
 ##### Have You Been Hearing Sounds Louder than Usual?
 
@@ -115,18 +114,24 @@ Explain to patient that you are going to go behind them and whisper a number and
 - Whisper a number and check patient response is the same
 
 ##### Rinne's Test
+To test whether bone conduction is louder than air conduction. Conduct test on both ears
 
-Place tuning fork behind ear
+- Ask patient if they can hear the vibrating tuning fork help at the entrance to the ear canal.
+- Then place the vibrating fork on the mastoid process
+- Then ask which is loudest
 
-- Repeat for both ears
+In normal hearing the test is positive - and air conduction is louder than bone conduction
 
 ##### Weber's Test
+Used in conjunction with Rinne's test to rule out unilateral deafness
 
-Place tuning fork on forehead
+- Place tuning fork in the centre of the patient's forehead and ask whether they can hear this equally on both sides or more on one side.
+- If its louder in one ear it could mean either an ipsilateral conductive hearing loss or contralateral sensorineural hearing loss
 
-## Accessory Nerve
+## Accessory Nerve (11)
 
 ##### Test Power of Shoulder Shrug and Neck Turning
+Accessory supplies trapezius and sternocleidomastoid muscles
 
 ## To Complete the Exam
 

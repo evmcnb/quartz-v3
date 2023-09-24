@@ -1,0 +1,1 @@
+Hashimoto's Disease, also known as Hashimoto's Thyroiditis, is an autoimmune disorder that affects the thyroid gland. It is the most common cause of [[hypothyroidism]], where the immune system mistakenly attacks and damages the thyroid, leading to reduced thyroid hormone production.
