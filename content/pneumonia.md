@@ -60,7 +60,7 @@ ABCDE
 - Type 1 [[Respiratory Failure]] ($PaO_2 < 8kPa$)
 - Hypotension <- vasodilation/dehydration <- sepsis
 - [[Atrial Fibrillation]] - common in elderly, usually resolves with treatment
-- [[pleural effusion]] - inflammation of pleura leading to fluid build up
+- [[Pleural Effusion]] - inflammation of pleura leading to fluid build up
 - [[Empyema]] - pus in pleural space, should be drained with chest drain
 - [[Lung Abscess]]
 - [[Pericarditis]] and [[myocarditis]]

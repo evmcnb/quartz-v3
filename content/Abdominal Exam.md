@@ -207,7 +207,7 @@ A distended bladder can be palpated in the **suprapubic area** arising from be
 -   **Renal bruits:** auscultate 1-2 cm superior to the umbilicus and slightly lateral to the midline on each side. A bruit in this location may be associated with renal artery stenosis.
 
 ## Legs
-Assess the patient’s **lower legs** for evidence of **pitting oedema** which may suggest **hypoalbuminemia** (e.g. [[liver cirrhosis]], protein-losing enteropathy).
+Assess the patient’s **lower legs** for evidence of **pitting oedema** which may suggest **hypoalbuminemia** (e.g. [[Liver Cirrhosis]], protein-losing enteropathy).
 
 
 ## To Complete the Exam
