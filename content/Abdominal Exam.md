@@ -91,7 +91,7 @@ The left supraclavicular lymph node (Virchow's node) receives lymphatic drainage
 
 #### Inspect
 
--   **Spider naevi:** skin lesions caused by increased levels of circulating oestrogen. Can be a normal finding in pregnancy or in women taking the combined oral contraceptive pill. If more than 5 are present it is more likely to be associated with pathology such as [[liver cirrhosis]].
+-   **Spider naevi:** skin lesions caused by increased levels of circulating oestrogen. Can be a normal finding in pregnancy or in women taking the combined oral contraceptive pill. If more than 5 are present it is more likely to be associated with pathology such as [[Liver Cirrhosis]].
 -   **Gynaecomastia:** enlargement of male breast tissue caused by increased levels of circulating oestrogen (e.g. liver cirrhosis). Other causes include medications such as digoxin and spironolactone.
 -   **Hair loss:** also caused by increased levels of circulating oestrogen. General malnourishment can also result in hair loss.
 
@@ -100,7 +100,7 @@ Position the patient lying flat on the bed.
 
 #### Inspect
 - Scars - past surgery
-- Abdominal distension - **six f's**: fat, fluid, flatus, faeces, foetus or fucking large tumour
+- Abdominal distension - **six f's**: fat, fluid, flatus, faeces, foetus or funking large tumour
 - Caput medusae - engorged paraumbilical veins associated with portal hypertension
 - Striae -stretch marks - [[Liver Cirrhosis|ascites]], intrabdominal malignancy, [[Cushing's Syndrome]], obesity [[Pregnancy]]
 - Hernias - ask patient to cough
@@ -156,7 +156,7 @@ In healthy individuals you should not be able to palpate the spleen.
 3. If kidney ballotable describe size and consistency
 4. Repeat on other side
 In healthy individuals the kidneys are not usually ballotable but in low BMI patients might be possible
--   Bilaterally enlarged, ballotable kidneys can occur in [[polycystic kidney disease]] or [[amyloidosis]].
+-   Bilaterally enlarged, ballotable kidneys can occur in [[Polycystic Kidney Disease]] or [[amyloidosis]].
 -   A unilaterally enlarged, ballotable kidney can be caused by a renal tumour.
 
 ##### Palpate the Aorta
@@ -207,7 +207,7 @@ A distended bladder can be palpated in the **suprapubic area** arising from be
 -   **Renal bruits:** auscultate 1-2 cm superior to the umbilicus and slightly lateral to the midline on each side. A bruit in this location may be associated with renal artery stenosis.
 
 ## Legs
-Assess the patient’s **lower legs** for evidence of **pitting oedema** which may suggest **hypoalbuminemia** (e.g. [[liver cirrhosis]], protein-losing enteropathy).
+Assess the patient’s **lower legs** for evidence of **pitting oedema** which may suggest **hypoalbuminemia** (e.g. [[Liver Cirrhosis]], protein-losing enteropathy).
 
 
 ## To Complete the Exam

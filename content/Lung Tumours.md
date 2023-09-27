@@ -41,7 +41,7 @@ Small cell
 
 - **[[clubbing]]** of fingers
 - anaemia
-- [[pleural effusion]]
+- [[Pleural Effusion]]
 - hepatomegaly
 - metastasis - lymphadenopathy
 

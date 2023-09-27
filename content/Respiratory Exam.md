@@ -168,7 +168,7 @@ Can be assessed either anteriorly or posteriorly
 
 - **Resonant:** a normal finding
 - **Dullness:** suggests increased tissue density (e.g. cardiac dullness, consolidation, tumour, lobar collapse).
-- **Stony dullness:** typically caused by an underlying [[pleural effusion]]
+- **Stony dullness:** typically caused by an underlying [[Pleural Effusion]]
 - **Hyper-resonance:** the opposite of dullness, suggestive of decreased tissue density (e.g. [[pneumothorax]]).
 
 ### Auscultate Lung Fields

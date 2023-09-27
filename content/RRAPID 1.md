@@ -29,7 +29,7 @@ Response to obstruction
 - Pulmonary oedema 
 - Asthma 
 - Pulmonary embolism
-- Exacerbation of [[Respiratory/COPD|COPD]] 
+- Exacerbation of [[COPD]] 
 - Chest Trauma
 
 - Look - RR, central cyanosis, working to breath, chest injury, ability to clear secretions by coughing, sweating 
