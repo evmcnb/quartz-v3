@@ -25,9 +25,9 @@ globalGraph:
   enableZoom: true
   depth: -1 # set to -1 to show full graph
   scale: 1.4
-  repelForce: 10
+  repelForce: 5
   centerForce: 0.52
-  linkDistance: 50
+  linkDistance: 25
   fontSize: 0.5
   opacityScale: 3
 
