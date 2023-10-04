@@ -146,10 +146,10 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 
 
-![width:530px](dorsalcol.png)
+![width:530px](z_attachments/dorsalcol.png)
 <small><center>Dorsal column</center></small>
 
-![width:560px](spinothalamic.png)
+![width:560px](z_attachments/spinothalamic.png)
 <small><center>Spinothalamic</center></small>
 
 ---
@@ -163,7 +163,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 - <span style="color:pink;">Rostral spinal nucleus</span> - simple touch + pressure
 - <span style="color:lightblue;">Caudal spinal nucleus</span> - pain and temperature
 
-![width:600px](trigeminalnuc.png)
+![width:600px](z_attachments/trigeminalnuc.png)
 
 
 ---
@@ -230,7 +230,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 - <span style="color:lightgreen">Cerebrocerebellum (Neocerebellum)</span> - motor planning
 
 
-![width:560px](cerebellum.png)
+![width:560px](z_attachments/cerebellum.png)
 
 ---
 
@@ -268,7 +268,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 **Auditory pathway**
 
-![width:750](auditorypathway.png)
+![width:750](z_attachments/auditorypathway.png)
 
 ---
 
@@ -286,7 +286,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 
 
-![width:1000px](bacteria.png)
+![width:1000px](z_attachments/bacteria.png)
 
 ---
 
@@ -2519,7 +2519,7 @@ Signs: diffuse usually bilateral bone pains and weakness, muscle weakness, high 
 
 # Calcium biochemistry
 
-![width:600px|575](calcium%20diagram.png)
+![width:600px|575](z_attachments/calcium%20diagram.png)
 
 - Calcium values dependant on albumin (protein bound component)
 - If albumin low cannot use adjusted calcium so use ionised calcium instead
@@ -2901,7 +2901,7 @@ Long standing reflux leads to metaplasia of squamous mucosa to columnar mucosa/i
 
 - Pre malignant condition for adenocarinoma
 
-![width:700](barretsprogression.png)
+![width:700](z_attachments/barretsprogression.png)
 
 ---
 
