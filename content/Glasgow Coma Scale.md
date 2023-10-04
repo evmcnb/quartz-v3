@@ -1,7 +1,14 @@
+---
+title: Glasgow Coma Scale
+date created: Wednesday, October 4th 2023, 4:35:16 pm
+date modified: Wednesday, October 4th 2023, 5:01:54 pm
+tags:
+  - OSCE
+  - Examination
+---
 The **Glasgow Coma Scale (GCS)** is a neurological assessment tool used to evaluate a patient's level of consciousness and neurological functioning.
 
-The GCS consists of three components: eye opening, verbal response, and motor response, with each component being assigned a score. The scores from these three components are then added together to obtain the total GCS score, which can range from 3 to 15. A higher score indicates a higher level of consciousness and neurological function.
-
+The GCS consists of three components: eye opening, verbal response, and motor response, with each component being assigned a score. The scores from these three components are then added together to obtain the total GCS score, which can range from 3 to 15. A higher score indicates a higher level of consciousness and neurological function. 
 ## GCS Components and Scoring
 
 |Component|Score|Description|
