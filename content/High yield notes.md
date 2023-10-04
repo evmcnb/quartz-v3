@@ -1,15 +1,7 @@
 ---
-marp: true
-theme: gaia
-class:
-  - invert
 title: High yield notes
 date created: Wednesday, October 4th 2023, 3:53:36 pm
-date modified: Wednesday, October 4th 2023, 3:57:00 pm
-tags: Notes
-
-# Control and movement
-
+date modified: Wednesday, October 4th 2023, 4:41:44 pm
 ---
 > [!Warning]
 > These notes were written before the creation of this website
