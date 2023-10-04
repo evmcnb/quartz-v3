@@ -79,4 +79,3 @@ For a bleed, coiling (endovascular embolization) can be used to stop further ble
 - Bladder and bowel care
 - **Physiotherapy** - monitor progress 
 - Monitor mood
-- 

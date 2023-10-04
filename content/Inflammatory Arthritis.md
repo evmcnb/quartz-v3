@@ -10,6 +10,8 @@ Anyone at any age can get inflammatory arthritis
 
 #### Rheumatoid Arthritis
 
+^ab6a7d
+
 - Autoimmune
 - Most common presents at 40-50s y/o
 - 3:1 F:M
