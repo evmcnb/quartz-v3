@@ -7,7 +7,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 A rapid irregular atrial rhythm at 300-600 bpm. The AV node blocks most of these impulses and only responds intermittently (hence irregular QRS). Cardiac output is reduced by 10-20% as ventricles are not primed properly by atria
 
-Main risk is from clots forming from pooling blood in atria leading to ischaemic [[cerebral infarction]]
+Main risk is from clots forming from pooling blood in atria leading to ischaemic [[Stroke]]
 
 ## Causes/Factors
 

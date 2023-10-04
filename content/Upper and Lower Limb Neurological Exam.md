@@ -75,7 +75,7 @@ Assess tone in the muscles comparing each side
 3. Move all the muscle groups in all directions
 4. Feel for abnormalities of tone 
 
-Spasticity is associated with pyramidal tract lesions ([[stroke]]) and rigidity extrapyramidal lesions
+Spasticity is associated with pyramidal tract lesions ([[Stroke]]) and rigidity extrapyramidal lesions
 
 Spasticity is velocity dependent - the fast the movement the worse it is
 Rigidity is velocity independent - it feels the same no matter the speed that you move the limb
@@ -85,7 +85,7 @@ The two main type of rigidity are:
 - Lead pipe rigidity - uniformly increased tone throughout the movement of the muscle. Associated with neuroleptic malignant syndrome 
 
 #### Ankle clonus
-Involuntary rhythmic muscular contractions associated with UMN lesions of descending pathways ([[stroke]], [[Multiple Sclerosis|MS]], [[cerebral palsy]]). Up to 5 "beats" could be considered normal. 
+Involuntary rhythmic muscular contractions associated with UMN lesions of descending pathways ([[Stroke]], [[Multiple Sclerosis|MS]], [[cerebral palsy]]). Up to 5 "beats" could be considered normal. 
 1. Position the patient's leg so that the knee and ankle are slightly flexed, supporting the leg with your hand under their knee
 2. Rapidly dorsiflex and partially evert the foot to stretch the gastrocnemius muscle
 3. Keep the foot in this position and observe for clonus
@@ -185,7 +185,7 @@ Use a distal joint e.g. thumb or big two and hold at the edges to move to preven
 
 **Spinal cord damage** results in sensory loss both at and below the level of involvement in a dermatomal pattern due to its impact on the sensory tracts running through the cord.
 
-**Thalamic lesions** (e.g. [[stroke]]) result in contralateral sensory loss.
+**Thalamic lesions** (e.g. [[Stroke]]) result in contralateral sensory loss.
 
 **Myopathies** often involve symmetrical proximal muscle weakness.
 

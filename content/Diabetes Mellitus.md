@@ -66,5 +66,5 @@ Hypoglycaemia - due to too high insulin -> coma and brain damage, thrombosis, ca
 **Macrovascular**
 
 - [[myocardial infarction]]
-- [[cerebral infarction]]
+- [[Stroke]]
 - [[peripheral vascular disease]]
