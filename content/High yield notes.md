@@ -783,7 +783,7 @@ Diffuse
 
 ## Sore throat
 
-**Pharyngitis & Tonsillitis** - virus, Group A Strep (S. pyogenes)
+**[[Tonsillitis & Pharyngitis]]** - virus, Group A Strep (S. pyogenes)
 
 Centor criteria (if bacteria): 1. Tonsillar exudate 2. Tender anterior cervical lymphadenopathy 3. Fever 4. **Absence of cough**
 
