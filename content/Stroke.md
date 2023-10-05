@@ -1,6 +1,8 @@
 ---
-tags: [Neurology, Cardiovascular]
-title: cerebral infarction
+tags:
+  - Neurology
+  - Cardiovascular
+title: Stroke
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ---
@@ -8,7 +10,12 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 Two types - ischemia or haemorrhagic
 
 **Ischemic** - clot blocks supply to distal parts of brain to where that clot got lodged
+![[z_attachments/Pasted image 20231005084306.png]]
+
+
 **Haemorrhagic** - bleeding in the brain causing lack of perfusion (plus irritation to that part of brain)
+![[z_attachments/Pasted image 20231005084356.png]] 
+
 
 Ischemia can lead to haemorrhagic (haemorrhagic transformation of ischemic stroke )
 
