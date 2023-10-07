@@ -2700,7 +2700,7 @@ Pleomorphic salivary adenoma
 
 ---
 
-# [[Ex]]
+# [[exzema]]
 
 A reaction pattern rather than a specific disease
 
