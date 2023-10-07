@@ -18,7 +18,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 #### Clinical Signs
 
-- Age - younger [[Cystic Fibrosis]], older [[COPD]], interstitial lung disease or malignancy
+- Age - younger [[Cystic Fibrosis]], older [[COPD]], [[interstitial lung disease]] or malignancy
 - Cyanosis
 - Shortness of breath
 - Cough - wet: [[pneumonia]], [[bronchiectasis]], [[COPD]], [[Cystic Fibrosis]] dry: [[asthma]], [[interstitial lung disease]]
