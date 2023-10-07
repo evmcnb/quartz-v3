@@ -1,6 +1,7 @@
 ---
-tags: Respiratory
-title: interstitial lung disease
+tags:
+  - Respiratory
+title: Interstitial lung disease
 date created: Saturday, October 7th 2023, 4:21:02 pm
 date modified: Saturday, October 7th 2023, 4:21:14 pm
 ---
