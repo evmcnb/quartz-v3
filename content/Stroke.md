@@ -10,11 +10,11 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 Two types - ischemia or haemorrhagic
 
 **Ischemic** - clot blocks supply to distal parts of brain to where that clot got lodged
-![[z_attachments/Pasted image 20231005084306.png]]
+![[z_attachments/Pasted image 20231005084306.png|299]]
 
 
 **Haemorrhagic** - bleeding in the brain causing lack of perfusion (plus irritation to that part of brain)
-![[z_attachments/Pasted image 20231005084356.png]] 
+![[z_attachments/Pasted image 20231005084356.png|342]] 
 
 
 Ischemia can lead to haemorrhagic (haemorrhagic transformation of ischemic stroke )
