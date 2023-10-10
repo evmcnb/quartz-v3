@@ -8,10 +8,11 @@ title: Chest X-Ray Interpretation
 date created: Tuesday, October 10th 2023, 10:10:52 am
 date modified: Tuesday, October 10th 2023, 10:11:10 am
 ---
-> [! Info]
+> [!info]
 > All of the images will have no pathology unless indicated otherwise
 
 ###### Quick check
+
 ![[z_attachments/Pasted image 20231010115405.png|450]]
 
 
@@ -26,13 +27,16 @@ date modified: Tuesday, October 10th 2023, 10:11:10 am
 #### Rotation
 - The medial parts of the two clavicles should be equal distance from the spine
 - Spinous processes should be vertical
+
 ![[z_attachments/Pasted image 20231010101726.png|300]]
+
 ![[z_attachments/Pasted image 20231010101811.png|300]]
 #### Inspiration
 - 5 to 7 anterior ribs or at least 9 posterior ribs
 - Inspiratory effort could be gauged
 - Poor inspiration can **mimic** **cardiomegaly** 
 - Crowding of vessels at the base of the lungs can mimic consolidation or collapse and often occurs in acutely unwell patients
+
 ![[z_attachments/Pasted image 20231010101859.png|325]]
 
 #### Projection
@@ -43,6 +47,7 @@ date modified: Tuesday, October 10th 2023, 10:11:10 am
 #### Exposure
 - Correct definition and quality in image. 
 - Can tell if can see vertebrae behind the heart
+
 ![[z_attachments/Pasted image 20231010111552.png|325]]
 
 
@@ -62,6 +67,7 @@ date modified: Tuesday, October 10th 2023, 10:11:10 am
 #### Breathing
 
 Zones are used instead of lobes when localising a lesion
+
 ![[z_attachments/Pasted image 20231010113437.png|350]]
 
 Lack of any lung markings $\rightarrow$ [[pneumothorax]]
@@ -78,6 +84,7 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 - Infections: varicella pneumonias, septic emboli, abscess, hydatid
 - Granulomas: [[Tuberculosis]], [[Sarcoidosis]], histoplasmosis
 - Pneumoconiosis (except asbestosis)
+
 ![[z_attachments/Pasted image 20231010115306.png|325]]
 
 
@@ -85,6 +92,7 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 - Acute interstitial oedema
 - Infection: acute (viral, bacterial), chronic (TB, histoplasmosis)
 - Fibrosis: interstitial pneumonia, drugs (methotrexate, bleomycin, crack cocaine), connective tissue disorders, systemic sclerosis, [[Industrial dust diseases]], [[interstitial lung disease]]
+
 ![[z_attachments/Pasted image 20231010120103.png|325]]
 
 
@@ -94,6 +102,7 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 - Water - heart, renal or liver failure, ARDS, smoke inhalation, heroin, $O_2$ toxicity, near drowning
 - Cells - lymphoma, adenocarcinoma
 - Protein - alveolar proteinosis, ARDS, fat emboli
+
 ![[z_attachments/Pasted image 20231010120504.png|325]]
 
 _Ring opacities_ - either from a CT cross section referring to [[bronchiectasis]]/[[bronchitis]] or cavitating lesions on CXR
@@ -138,10 +147,12 @@ _White out of whole hemithorax_ - [[pneumonia]], large pleural effusion, ARDS, p
 ##### [[Tuberculosis]]
 Ghon lesion - left middle lobe
 Calcified lymph nodes
+
 ![[z_attachments/Pasted image 20231010122720.png|425]]
 
 ##### Miliary tuberculosis
 Uncontrolled haematogenous spread
+
 ![[z_attachments/Pasted image 20231010122917.png|425]]
 
 ##### [[pneumothorax]]
@@ -151,6 +162,7 @@ Uncontrolled haematogenous spread
 ![[z_attachments/Pasted image 20231010123127.png|425]]
 
 **Sail sign** - left lower lobe collapse
+
 ![[z_attachments/Pasted image 20231010123145.png|425]]
 
 ##### [[Pleural Effusion]]
@@ -161,6 +173,7 @@ Uncontrolled haematogenous spread
 - More anterior ribs seen 
 - May see floating heart sign 
 - Bullous emphysema
+
 ![[z_attachments/Pasted image 20231010123331.png|425]]
 
 ##### [[Heart Failure]]
@@ -169,6 +182,7 @@ Uncontrolled haematogenous spread
 - **C**ardiomegaly 
 - **D**ilated upper lobe vessels
 - Pleural **E**ffusion
+
 ![[z_attachments/Pasted image 20231010123442.png|400]]
 ##### Hiatus hernia
 ![[z_attachments/Pasted image 20231010123705.png|425]]
