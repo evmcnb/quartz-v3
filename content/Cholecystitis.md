@@ -36,8 +36,8 @@ Inflammation of gallbladder
 
 ## Diagnostic Tests
 
-- WCC, FBC, CRP
-- US (and/or CT/MRI abdo)
+- WCC, FBC, CRP, LFTs
+- USS (and/or CT/MRI abdo)
 
 - magnetic resonance cholangiopancreatography (MRCP)
 - endoscopic ultrasound (EUS)

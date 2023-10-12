@@ -15,13 +15,15 @@ Gut organisms invade the appendix wall after lumen obstruction by lymphoid hyper
 
 Classical presentation of:
 
-1. Periumbilical pai that moves to right iliac fossa
+1. Periumbilical pain that moves to right iliac fossa
 2. Peritonism with guarding and rebound
 3. Anorexia is important - vomiting rarely before pain
 
 ## Signs
 
 - Tachycardia, fever
+- Mcburney's point - between umbilicus and right iliac fossa
+- Rovsing's sign - push on left iliac fossa and pain exhibits itself on right
 
 ## Diagnostic Tests
 
