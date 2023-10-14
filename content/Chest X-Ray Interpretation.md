@@ -8,7 +8,7 @@ title: Chest X-Ray Interpretation
 date created: Tuesday, October 10th 2023, 10:10:52 am
 date modified: Tuesday, October 10th 2023, 10:11:10 am
 ---
-> [!info]
+> [!info] Note for this page
 > All of the images will have no pathology unless indicated otherwise
 
 ###### Quick check
@@ -178,7 +178,7 @@ Uncontrolled haematogenous spread
 
 ##### [[Heart Failure]]
 - **A**lveolar oedema - bat wing opacities in middle
-- (Kerley) **B** lines - thickened interlobular septum which extend inwards 
+- (Kerley) **B** lines - thickened interlobular septum which extend inwards. Horizontal line that extends to the periphery
 - **C**ardiomegaly 
 - **D**ilated upper lobe vessels
 - Pleural **E**ffusion
