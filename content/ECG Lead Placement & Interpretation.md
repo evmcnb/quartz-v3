@@ -43,7 +43,7 @@ tags:
 ![[z_attachments/Pasted image 20231014212759.png|625]]
 
 3. Determine if QRS complex is narrow (normal, <120 ms) or wide ($\geq$ 120 ms)
-	- Common causes of wide complex: bundle branch block, ventricular origin of rhythm, left ventricular hypertrophy, pacemaker
+	- Common causes of wide complex: bundle branch block, ventricular origin of rhythm,  pacemaker, (LVH)
 
 4. Evaluate atrial activity
 	- Are there P waves - what is their morphology?

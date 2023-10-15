@@ -55,3 +55,19 @@ Rhythm control - convert the hearth rhythm back into sinus rhythm
 - Electric (DC) cardioversion
 
   _No real difference in prognosis between rate or rhythm control_
+
+Anticoagulation - CHA$_2$DS$_2$-VASc score to determine whether to anticoagulate in AF
+
+**C**ongestive cardiac failure (1 point)
+**H**ypertension (1)
+**A**ge 65-74 (1)
+**A**ge 74+ (2)
+**D**iabetes (1)
+**S**troke/TIA/thromboembolism (2)
+**Va**scular disease (1)
+**S**ex **C**ategory (1 if female)
+
+A score of 2 = annual stroke risk of ~2-4%
+3 = 3-6% risk
+
+Increased chance of bleeding but bleeding is a better outcome than a stroke
