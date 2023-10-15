@@ -30,11 +30,13 @@ tags:
 
 #### 2. Interpret the ECG
 
-##### Assess the rhythm
+##### Assess the rhythm and rate
 
 1. Measure the rate and determine if normal, tachycardic  or bradycardic
 	- _max sinus rate $\approx$ 220 - age_
 	- A rate of 140-150 suggests possibility of atrial flutter with 2:1 AV block
+	- 300/number of big squares = heart rate
+	- 5 squares = 1 second
 
 2. Determine if rhythm is regular, regularly irregular, or irregularly irregular (R-R interval)
 
