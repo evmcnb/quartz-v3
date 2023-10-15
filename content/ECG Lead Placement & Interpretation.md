@@ -32,7 +32,7 @@ tags:
 
 ##### Assess the rhythm
 
-1. Measure the rate and determine if normal, tachycardic  or bradycardic (<50)
+1. Measure the rate and determine if normal, tachycardic  or bradycardic
 	- _max sinus rate $\approx$ 220 - age_
 	- A rate of 140-150 suggests possibility of atrial flutter with 2:1 AV block
 
