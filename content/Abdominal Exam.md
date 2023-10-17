@@ -16,9 +16,8 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ## General Inspection
 
 #### Clinical Signs
-- Body habitus
+- Body habitus - slim, obese, cachexic
 - Scars
-- Cachexia
 - Jaundice
 - Abdominal distension
 - Masses
@@ -26,6 +25,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 #### Objects and Equipment
 - Stoma bags - location and type
+- Vomit bowl
 - Surgical drains - note location and type/volume of contents
 - Feeding tubes NG or NJ 
 - Medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access 
@@ -37,9 +37,9 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ## Hands
 
 #### Inspection
-- [[Koilonychia]] & [[leukonychia]]
+- [[Koilonychia]] & [[leukonychia]] (5+)
 - Palmar erythema (redness)
-- Dupuytren's contracture - thickening of palmar fascia
+- Dupuytren's contracture - thickening of palmar fascia $\rightarrow$ alcoholic liver disease
 
 ##### Finger [[Clubbing]]
 Most likely causes to come up in abdo exam OSCE is [[inflammatory bowel disease]], [[Coeliac Disease]], [[Liver Cirrhosis]] and lymphoma of GI tract
@@ -63,8 +63,8 @@ Place dorsal aspect of your hand onto patients to assess temperature
 **Inspect** the patient’s **arms** for the following:
 
 -   **Bruising:** may suggest underlying clotting abnormalities secondary to liver disease (e.g. cirrhosis).
--   **Excoriations:** scratch marks that may be caused by the patient trying to relieve pruritis. In the context of an abdominal examination, this may suggest underlying cholestasis.
--   **Needle track marks:** important to note as intravenous drug use can be associated with an increased risk of viral hepatitis.
+-   **Excoriations:** scratch marks that may be caused by the patient trying to relieve pruritis (increased bile salts). In the context of an abdominal examination, this may suggest underlying cholestasis.
+-   **Needle track marks:** increased risk of viral hepatitis.
 
 #### Axillae
 Whilst supporting the patient’s arm, **inspect** each **axilla** for the following:
@@ -130,7 +130,7 @@ If any **masses** are identified during deep palpation, assess the following c
 
 ##### Palpate Liver
 1. Begin in right iliac fossa starting using flat edge of right hand
-2. Ask patient to take deep breath and begin to palpate and see if can feel edge of liver
+2. Ask patient to take deep breath in palpate on the inspiration and see if can feel edge of liver
 3. Repeat process moving 1-2cm superiorly each time
 4.  If you are able to identify the **liver edge**, assess the following characteristics:
 	-   **Degree of extension below the costal margin:** if greater than 2 cm this suggests hepatomegaly.
