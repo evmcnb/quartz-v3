@@ -1,8 +1,11 @@
 ---
-tags: [Cardiovascular]
+tags:
+  - Cardiovascular
 title: peripheral vascular disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+aliases:
+  - peripheral arterial disease
 ---
 
 aka Peripheral arterial disease
@@ -35,6 +38,8 @@ Peripheral arterial disease (PAD) is where a build-up of fatty deposits in the a
 
 - Reduced Ankle Brachial index
 - MRA (magnetic resonance angiogram)
+
+![[z_attachments/Pasted image 20231017170401.png|350]]
 
 ## Management
 
