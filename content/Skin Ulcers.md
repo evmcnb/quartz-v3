@@ -1,6 +1,7 @@
 ---
 tags:
   - Dermatology
+  - Cardiovascular
 title: Skin Ulcer
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
@@ -13,8 +14,8 @@ Erosion - loss of area of epidermis
 | Characteristic         | Venous Ulcers                | Arterial Ulcers              |
 |----------------------- |----------------------------- |----------------------------- |
 | Location               | Typically found on the lower | Usually occur on the lower  |
-|                       | leg, near the ankle.          | extremities, especially the |
-|                       |                             | toes, heels, or lateral     |
+|                       | leg, near the ankle. Medial         | extremities, especially the |
+|                       | malleolus                            | toes, heels, or lateral     |
 |                       |                             | malleolus.                   |
 | Etiology               | Result from venous            | Caused by poor arterial      |
 |                       | insufficiency, often due to  | blood supply, often due to  |
@@ -80,7 +81,7 @@ Venous - impaired blood flow in the veins (typically of the legs)
 - high BP
 - multiple pregnancies
 
-Arterial - poor arterial blood supply to affected area 
+Arterial - poor arterial blood supply to affected area, usually very distal
 
 - associated with [[peripheral vascular disease]]
 - smoking

@@ -8,6 +8,10 @@
 - Gain consent to continue
 - Ask if patient in any **pain** before continuing
 
+#### Gather equipment
+
+- 
+
 ## General Inspection
 
 #### Clinical Signs
