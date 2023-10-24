@@ -87,7 +87,7 @@ Demonstrating/explaining the correct technique is very important:
 7. Note the time
 8. Line up the strip and compare to correct section at correct time 
 
-![[z_attachments/Pasted image 20231024115739.png]]
+![[z_attachments/Pasted image 20231024115739.png|425]]
 
 9. Note any abnormalities
 10. Dispose of waste - urine down sluice or toilet, container, strip and gloves into clinical waste
