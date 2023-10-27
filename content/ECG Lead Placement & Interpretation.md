@@ -153,6 +153,10 @@ Torsades de pointes
 
 ![[z_attachments/Pasted image 20231014221843.png|500]]
 
+
+#### Supraventricular tachycardia (SVT)
+
+![[z_attachments/Pasted image 20231027154135.png]]
 #### Ventricular Fibrillation
 
 ![[z_attachments/Pasted image 20231014221920.png|675]]
@@ -167,10 +171,13 @@ Torsades de pointes
 
 ![[z_attachments/Pasted image 20231014222050.png]]
 
+#### Pericarditis
+
+![[z_attachments/Pasted image 20231027154234.png]]
 
 #### Digoxin effect
 
-![[z_attachments/Pasted image 20231014222212.png]]
+![[z_attachments/Pasted image 20231014222212.png]] ^20b905
 
 #### Left Ventricular Hypertrophy
 
