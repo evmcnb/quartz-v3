@@ -3,13 +3,13 @@ title: High yield notes
 date created: Wednesday, October 4th 2023, 3:53:36 pm
 date modified: Wednesday, October 4th 2023, 4:41:44 pm
 ---
+
 > [!Warning]
 > These notes were written before the creation of this website
 >
 > As such, the layout of this page may be hard to follow
 
-
-# Movement - Upper limb
+## Movement - Upper limb
 
 - Rotator cuff muscles: supraspinatus, infraspinatus, teres minor, subscapularis
 - Radial supplies all extensors
@@ -21,7 +21,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Movement - Lower limb
+## Movement - Lower limb
 
 #### Thigh
 
@@ -35,7 +35,6 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-
 #### Leg
 
 - Anterior: deep fibular | Lateral: superficial fibular | Posterior: Tibial
@@ -44,33 +43,27 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 - Medial rotation of femur in extension - locked and stable
 
-
-
-
 #### Foot
 
 ![width:550px](https://teachmeanatomy.info/wp-content/uploads/Diagram-of-the-Sensory-or-Cutaneous-Innervation-of-the-Sole-of-the-Foot.jpg)
 
 ---
 
-# Movement - Head and Neck
+## Movement - Head and Neck
 
 - Digastric anterior belly supplied by CN V3
 - Digastric posterior belly supplied by CN VII
 - Both insert onto intermediate tendon
 - Lateral rectus inv. abducens CN VI
 
-
 - Origin of **rectus** muscles common tendinous ring
 - Origin of **oblique** muscles sphenoid (sup) and orbital floor (inf)
 - Superior oblique - depresses, abducts and medially rotates
 - Inferior oblique - elevates, abducts and laterally rotates
 
-
-
 ---
 
-# Control - Bony Anatomy
+## Control - Bony Anatomy
 
 - Pterion formed of joining of parietal, frontal, sphenoid and temporal
   - Trauma $\rightarrow$ ruptured middle meningeal $\rightarrow$ extradural
@@ -94,7 +87,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Control - Vasculature
+## Control - Vasculature
 
 | Artery                              | Area                                                                                   |
 | ----------------------------------- | -------------------------------------------------------------------------------------- |
@@ -110,7 +103,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Control - Brain anatomy
+## Control - Brain anatomy
 
 ##### Fibre types
 
@@ -120,13 +113,13 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Control Pathways
+## Control Pathways
 
 ![width:900px](z_attachments/pathways.png)
 
 ---
 
-# Control - Ascending Pathways
+## Control - Ascending Pathways
 
 ##### <span style="color:#d654f0;">Dorsal column</span>
 
@@ -143,8 +136,6 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 **Lateral tract** - pain and temperature
 **Anterior tract** - crude touch + pressure
-
-
 
 ![width:530px](z_attachments/dorsalcol.png)
 <small><center>Dorsal column</center></small>
@@ -165,15 +156,14 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ![width:600px](z_attachments/trigeminalnuc.png)
 
-
 ---
 
-# Control - Decending Pathways
+## Control - Decending Pathways
 
 **Pyrimidal tracts** - voluntary movement
 
-
 - <span style="color:#1db000;"> <b>Lateral corticospinal </b></span> - 80%
+
   - Voluntary movement of limbs
   - <span style="color:#eb6734;">Contrallateral
   - Descussate at pyramids </span>
@@ -193,7 +183,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Control - Autonomic division
+## Control - Autonomic division
 
 - Only carried within segmental spinal nerves:
 
@@ -207,7 +197,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-## Control - Spinal reflexes
+### Control - Spinal reflexes
 
 | Reflex                     | Sensory afferent                          | Proposed function                                                              |
 | -------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------ |
@@ -216,9 +206,10 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 | Flexor withdrawal          | Free nerve endings - A-delta + C afferent | Withdraws limb from offending stimuli, **maintains balance during withdrawal** |
 
 ---
-## Cerebellum
 
-# Always and completely <span style="color:#e878ff;">ipsilateral</span>
+### Cerebellum
+
+## Always and completely <span style="color:#e878ff;">ipsilateral</span>
 
 ---
 
@@ -228,7 +219,6 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 - <span style="color:pink">Spinocerebellum (Paleocerebellum)</span> - Lateral decending motor execution
 - **Vermis** - Medial decending motor execution
 - <span style="color:lightgreen">Cerebrocerebellum (Neocerebellum)</span> - motor planning
-
 
 ![width:560px](z_attachments/cerebellum.png)
 
@@ -245,7 +235,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Control - visual pathway
+## Control - visual pathway
 
 <div class="twocols">
 
@@ -258,7 +248,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Control - ear
+## Control - ear
 
 - Ossicles: **M**alleus, **I**ncus, **S**tapes (MIS)
 - Oval window transmits the waves, round window releases them
@@ -280,23 +270,22 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 - Receptive speech (Wernicke's area) - sensory, understanding
 
 ---
-# Clinical Pathology
+
+## Clinical Pathology
 
 ---
-
-
 
 ![width:1000px](z_attachments/bacteria.png)
 
 ---
 
-# _Staph Aureus_ <span style="color:red">+ve</span>
+## _Staph Aureus_ <span style="color:red">+ve</span>
 
 | Niche | Main Infections                                         | Other                       |
 | ----- | ------------------------------------------------------- | --------------------------- |
 | Nose  | Skin/soft tissue, bacteraemia, bone/joint, endocarditis | 50% of people carry in nose |
 
-# _Staph Epidermidis_ <span style="color:red">+ve</span>
+## _Staph Epidermidis_ <span style="color:red">+ve</span>
 
 | Niche | Main Infections             | Other                                     |
 | ----- | --------------------------- | ----------------------------------------- |
@@ -304,13 +293,13 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# _Strep pyogenes_ (Group A Strep) <span style="color:red">+ve</span>
+## _Strep pyogenes_ (Group A Strep) <span style="color:red">+ve</span>
 
 | Niche   | Main Infections                                                    | Other                                                       |
 | ------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
 | Pharynx | Scarlet fever, sore throat, necrotising fasciitis, puerpeal sepsis | Often associated with secondary immunological presentations |
 
-# _Strep pneumoniae_ <span style="color:red">+ve</span>
+## _Strep pneumoniae_ <span style="color:red">+ve</span>
 
 | Niche   | Main Infections       | Other                         |
 | ------- | --------------------- | ----------------------------- |
@@ -318,7 +307,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# _C. diff._ <span style="color:red">+ve</span>
+## _C. diff._ <span style="color:red">+ve</span>
 
 | Niche | Main Infections          | Other                                                      |
 | ----- | ------------------------ | ---------------------------------------------------------- |
@@ -326,7 +315,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# _E. coli_ <span style="color:purple">-ve</span>
+## _E. coli_ <span style="color:purple">-ve</span>
 
 | Niche | Main Infections                          | Other                                                                                                            |
 | ----- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -334,13 +323,13 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# _Pseudomonas aeruginosa_ <span style="color:purple">-ve</span>
+## _Pseudomonas aeruginosa_ <span style="color:purple">-ve</span>
 
 | Niche | Main Infections  | Other                                  |
 | ----- | ---------------- | -------------------------------------- |
 | Water | VAP, bacteraemia | Opportunistic bacillus - green pigment |
 
-# _Neisseria meningitidis_ <span style="color:purple">-ve</span>
+## _Neisseria meningitidis_ <span style="color:purple">-ve</span>
 
 | Niche   | Main Infections                  | Other                           |
 | ------- | -------------------------------- | ------------------------------- |
@@ -348,13 +337,13 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# _Neisseria gonorrhoeae_ <span style="color:purple">-ve</span>
+## _Neisseria gonorrhoeae_ <span style="color:purple">-ve</span>
 
 | Niche           | Main Infections                   | Other                                                                    |
 | --------------- | --------------------------------- | ------------------------------------------------------------------------ |
 | No colonisation | Gonorrhoea, Ophthalmia Neonatorum | Can rarely cause invasive infections (e.g. septic arthritis). Diplococci |
 
-# _Chlamydia trachomatis_ <span style="color:purple">-ve</span>
+## _Chlamydia trachomatis_ <span style="color:purple">-ve</span>
 
 | Niche           | Main Infections | Other         |
 | --------------- | --------------- | ------------- |
@@ -362,24 +351,25 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# _Haemophilus influenzae_ <span style="color:purple">-ve</span>
+## _Haemophilus influenzae_ <span style="color:purple">-ve</span>
 
 | Niche   | Main Infections                              | Other                                                            |
 | ------- | -------------------------------------------- | ---------------------------------------------------------------- |
 | Pharynx | RTIs, meningitis, epiglottitis, otitis media | Capsulated types (e.g. type b) cause meningitis and epiglottitis |
 
-# _Mycobacterium tuberculosis_ <span style="color:green">AFB</span>
+## _Mycobacterium tuberculosis_ <span style="color:green">AFB</span>
 
 | Niche           | Main Infections | Other                  |
 | --------------- | --------------- | ---------------------- |
 | No colonisation | TB              | Don't gram stain (AFB) |
 
 ---
-# Fungal Pathogens
+
+## Fungal Pathogens
 
 ---
 
-# Dermatophytes
+## Dermatophytes
 
 - Moulds
 - Cause superficial infections - cause "tinea" diseases
@@ -387,7 +377,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Malassezia
+## Malassezia
 
 - Dimorphic - change between moulds or yeasts
 - Commensal on everyone's skin
@@ -395,7 +385,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Candida
+## Candida
 
 - Yeast (dimorphic)
 - Cause thrush - disease of oral and vaginal mucosa (fluconazole)
@@ -405,7 +395,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Aspergillus
+## Aspergillus
 
 - Mould
 - Inhaled by everyone but only become a disease in those with immuno/respiratory complications
@@ -415,18 +405,19 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Immunology - Transplant rejection
+## Immunology - Transplant rejection
 
 **Direct alloantigen recognition** - grafted APCs present alloantigens to recipient T cells
 
 **Indirect alloantigen recognition** - grafted cells have alloantigens on surface which recipient APCs bind to and present to T cells
 
 ---
-# Parasites
+
+## Parasites
 
 ---
 
-# Ascariasis
+## Ascariasis
 
 - Distribution - typically 3-8 year olds
 - Life cycle - **direct**
@@ -436,7 +427,7 @@ date modified: Wednesday, October 4th 2023, 4:41:44 pm
 
 ---
 
-# Schistosomiasis
+## Schistosomiasis
 
 Caused by helminths
 
@@ -450,7 +441,7 @@ Main parasitic cause of granulomatous chronic inflammation
 
 ---
 
-# Strongyloidiasis
+## Strongyloidiasis
 
 Caused by a nematode (helminths)
 
@@ -462,7 +453,7 @@ Caused by a nematode (helminths)
 
 ---
 
-# Echinococcosis/Hyatid disease
+## Echinococcosis/Hyatid disease
 
 - Distribution - global
 - Life cycle - indirect via dogs and sheep
@@ -474,7 +465,7 @@ Can form liver or lung cysts
 
 ---
 
-# Malaria
+## Malaria
 
 P. knowlesi, P. falciparum, P. ovale, P. vivax, P. malariae
 
@@ -486,8 +477,7 @@ P. knowlesi, P. falciparum, P. ovale, P. vivax, P. malariae
 
 ---
 
-# Cryptosporidium
-
+## Cryptosporidium
 
 Common opportunistic pathogen in T cell deficiency
 
@@ -495,7 +485,7 @@ Common opportunistic pathogen in T cell deficiency
 
 ---
 
-# Trichomonas
+## Trichomonas
 
 - STI
 - It infects the genitals and may also lead to infection in the: vagina. urethra
@@ -504,7 +494,7 @@ Common opportunistic pathogen in T cell deficiency
 
 ---
 
-# Giardia
+## Giardia
 
 Similar to cryptosporidiasis but without without reservoir in farm animals
 
@@ -515,12 +505,12 @@ Similar to cryptosporidiasis but without without reservoir in farm animals
 - Treatment - metronidazole
 
 ---
-# Viruses
+
+## Viruses
 
 ---
 
-# Herpes viruses
-
+## Herpes viruses
 
 | Virus | Transmission   | Clinical                             | Latency in          |
 | ----- | -------------- | ------------------------------------ | ------------------- |
@@ -532,8 +522,7 @@ Similar to cryptosporidiasis but without without reservoir in farm animals
 
 ---
 
-# Respiratory viruses
-
+## Respiratory viruses
 
 | Virus      | Transmission | Clinical                                              | Other                       |
 | ---------- | ------------ | ----------------------------------------------------- | --------------------------- |
@@ -543,7 +532,7 @@ Similar to cryptosporidiasis but without without reservoir in farm animals
 
 ---
 
-# Hepatitis viruses
+## Hepatitis viruses
 
 | Hepatitis | Transmission     | Clinical                             | Other                                                     |
 | --------- | ---------------- | ------------------------------------ | --------------------------------------------------------- |
@@ -553,10 +542,9 @@ Similar to cryptosporidiasis but without without reservoir in farm animals
 | C         | Sexual, vertical | Acute & chronic, cirrhosis           | IV drug users                                             |
 | D         | Sexual, vertical |                                      | Requires Hep B for disease                                |
 
-
 ---
 
-# Transmitted via GIT
+## Transmitted via GIT
 
 | Virus         | Transmission | Clinical                                       | Other                               |
 | ------------- | ------------ | ---------------------------------------------- | ----------------------------------- |
@@ -566,7 +554,7 @@ Similar to cryptosporidiasis but without without reservoir in farm animals
 
 ---
 
-# Childhood viruses
+## Childhood viruses
 
 | Virus          | Transmission | Clinical                                                 | Other                                                       |
 | -------------- | ------------ | -------------------------------------------------------- | ----------------------------------------------------------- |
@@ -576,11 +564,12 @@ Similar to cryptosporidiasis but without without reservoir in farm animals
 | Parvovirus B19 | Resp droplet | Erythema infectiosum (red rash on face), aplastic crisis | Infects erythrocyte progenitors                             |
 
 ---
-# Respiratory
+
+## Respiratory
 
 ---
 
-# [[Asthma]]
+## [[Asthma]]
 
 - Reversible intermittent narrowing of _conducting airways_
 
@@ -593,21 +582,21 @@ SOB, wheeze, cough, hyperinflation
 
 ---
 
-# [[Bronchitis]]
+## [[Bronchitis]]
 
 - Inflammation of the bronchials - chronic form is part of COPD
 - Acute form usually caused by virus in children (Haemophilus influenzae in bacterial)
 
 - Mainly inflammation that causes airway narrowing
 
-# [[Emphysema]]
+## [[Emphysema]]
 
 - Damage to alveoli by breaking down walls between them
 - Destruction of elastic fibres
 
 ---
 
-# [[COPD]]
+## [[COPD]]
 
 Combination of **chronic bronchitis** and **emphysema**
 
@@ -616,7 +605,7 @@ Combination of **chronic bronchitis** and **emphysema**
 
 ---
 
-# [[Bronchiectasis]]
+## [[Bronchiectasis]]
 
 Permanent dilation of bronchi and bronchioles due to wall damage secondary to **chronic necrotising infection**
 
@@ -626,7 +615,7 @@ Permanent dilation of bronchi and bronchioles due to wall damage secondary to **
 
 ---
 
-# Chronic Interstitial Lung Diseases
+## Chronic Interstitial Lung Diseases
 
 Mixed group often scarring +/- inflammation in multiple areas in both lungs that reduces compliance (stiff lungs) = _restrictive_
 
@@ -664,7 +653,7 @@ Mixed group often scarring +/- inflammation in multiple areas in both lungs that
 
 ---
 
-# [[Cystic Fibrosis]]
+## [[Cystic Fibrosis]]
 
 - Abnormally thickened mucous due to chloride channel deletion of a phenylalanine residue - all tubes/mucous places have issues
 - Dehydrated mucus that blocks lumen $\rightarrow$ infections, inflammation and scarrinng (S. aureus in childhood, Pseudomonas aeruginosa)
@@ -673,7 +662,7 @@ Mixed group often scarring +/- inflammation in multiple areas in both lungs that
 
 ---
 
-# Primary Malignant [[Lung Tumours]]
+## Primary Malignant [[Lung Tumours]]
 
 - 90% are carcinomas
 - Non-small cell carcinoma 85%
@@ -700,7 +689,7 @@ Main morphological difference between the two is nuclear characteristics and amo
 
 ---
 
-# Secondary Lung Tumours
+## Secondary Lung Tumours
 
 - More common than primary
 - Multiple discrete nodules
@@ -712,7 +701,7 @@ Main morphological difference between the two is nuclear characteristics and amo
 
 ---
 
-# Pleural pathologies
+## Pleural pathologies
 
 ### [[Pleural effusion]]
 
@@ -727,7 +716,7 @@ Exudates - inflammation, neoplasms
 
 ---
 
-# [[Pneumothorax]]
+## [[Pneumothorax]]
 
 Closed
 
@@ -751,7 +740,7 @@ Needs decompression to relieve pressure - via needle in intercostal splace or ch
 
 ---
 
-## [[Pleural fibrosis]]
+### [[Pleural fibrosis]]
 
 Usually secondary to pleural inflammation/ asbestos associated
 
@@ -768,7 +757,7 @@ Diffuse
 
 ---
 
-# Pleural neoplasms
+## Pleural neoplasms
 
 - Primary - benign rare, malignant **mesothelioma** common, others uncommon
 - Secondary malignant - breast, lung, others common
@@ -781,7 +770,7 @@ Diffuse
 
 ---
 
-## Sore throat
+### Sore throat
 
 **[[Tonsillitis & Pharyngitis]]** - virus, Group A Strep (S. pyogenes)
 
@@ -793,7 +782,7 @@ Hib was commonest cause now S. pneumoiae and pyogenes
 
 ---
 
-# Ear
+## Ear
 
 **[[Otitis Externa]]** - 90% bacterial, S. aurerus, becomes maligant/life threatening when spreads to skull base
 
@@ -803,7 +792,7 @@ Hib was commonest cause now S. pneumoiae and pyogenes
 
 ---
 
-# [[Pneumonia]]
+## [[Pneumonia]]
 
 Two anatomical patterns: bronchopneumonia following bronchi and lobar pneumonia 90% S. pneumoniae
 
@@ -840,7 +829,7 @@ Aspiration - anaerobes
 
 ---
 
-# Mycobacterium Tuberculosis
+## Mycobacterium Tuberculosis
 
 - Can become dormant or disseminate depending on host immune system
 - Risk at extremes of ages + immunocompromised
@@ -924,11 +913,12 @@ Aspiration - anaerobes
 **Sofosbuvir, -previr** - HCV
 
 ---
-# Urogenital
+
+## Urogenital
 
 ---
 
-# [[Renal Cell Carcinoma]]
+## [[Renal Cell Carcinoma]]
 
 Cancer from renal tubular epithelium. Two most common types:
 
@@ -939,13 +929,13 @@ Family history of Von Hippel-Lindau
 
 ---
 
-# [[Wilms' tumour]]
+## [[Wilms' tumour]]
 
 aka Nephroblastoma
 
 - Children under 5 with genetic syndromes what affect WT1 gene eg Beckwith-Weidemann syndrome (large tongue)
 
-# [[Vesicoureteral reflux]]
+## [[Vesicoureteral reflux]]
 
 When urine flows backwards from the bladder to the ureter.
 
@@ -953,7 +943,7 @@ When urine flows backwards from the bladder to the ureter.
 
 ---
 
-# [[Urolithiasis]]
+## [[Urolithiasis]]
 
 Stones forming in the lumen of the urinary tract, anywhere from renal calyx $\rightarrow$ bladder. Types:
 
@@ -964,20 +954,20 @@ Stones forming in the lumen of the urinary tract, anywhere from renal calyx $\ri
 
 ---
 
-# [[Urothelial Carcinoma]]
+## [[Urothelial Carcinoma]]
 
 From transitional epithelium. Accounts for 90% of bladder carcinoma. Higher risk in:
 
 - Dye and rubber industry workers
 - Male 60+
 
-# [[Neurogenic bladder]]
+## [[Neurogenic bladder]]
 
 Inability to properly empty bladder due to neurological damage. UMN $\rightarrow$ spastic, LMN $\rightarrow$ flaccid. Secondary infections and stones possible
 
 ---
 
-# [[Benign Prostatic Hyperplasia]]
+## [[Benign Prostatic Hyperplasia]]
 
 Increased number of both stromal and glandular cells in the prostate.
 Growth can compress urethra leading to:
@@ -988,12 +978,12 @@ Growth can compress urethra leading to:
 
 ---
 
-# [[Prostatic adenocarcinoma]]
+## [[Prostatic adenocarcinoma]]
 
 - BRCA1/2 mutations & pesticide exposure
   Same compression symptoms as BPH but possible metastases to bone $\rightarrow$ bone pain
 
-# [[Cryptorchidism]]
+## [[Cryptorchidism]]
 
 Undescended testis - more common in premature babies
 
@@ -1002,7 +992,7 @@ Undescended testis - more common in premature babies
 
 ---
 
-# [[Seminoma]]
+## [[Seminoma]]
 
 Malignant neoplasm of germ cells in seminiferous tubules
 
@@ -1014,8 +1004,7 @@ Malignant neoplasm of germ cells in seminiferous tubules
 
 ---
 
-# Kidney Failure
-
+## Kidney Failure
 
 | Stage | GFR                | Description                                       | Treatment                                   |
 | ----- | ------------------ | ------------------------------------------------- | ------------------------------------------- |
@@ -1025,10 +1014,9 @@ Malignant neoplasm of germ cells in seminiferous tubules
 | 4     | 15-29              | Severely reduced                                  | Planning for end stage renal failure        |
 | 5     | <15 or on dialysis | Very severe or endstage / established             | Dialysis/transplant                         |
 
-
 ---
 
-# [[Chronic Kidney Disease]]
+## [[Chronic Kidney Disease]]
 
 - DM and hypertension top causes
 - Failling GFR $\rightarrow$ inability to excrete toxins/ electrolytes/ fluid balance
@@ -1039,52 +1027,50 @@ Malignant neoplasm of germ cells in seminiferous tubules
 
 ---
 
-# Renal Manifestations of Diabetes
+## Renal Manifestations of Diabetes
 
 - Damaged basement membrane = extracellular matrix production **Kimmelstiel-Wilson nodules**
 - Small vessel damage = ischaemia and tubular damage
 
 Often asymptomatic CKD / nephrotic syndrome
 
-# Syndromes
+## Syndromes
 
 - <span style="color:lightgreen">Nephrotic</span> - **_proteinuria_**, hypoalbuminaemia, oedema
 - <span style="color:blue">Nephritic</span> - **_haematuria_**, hypertension, oedema
 
 ---
 
-# [[Amyloidosis]]
+## [[Amyloidosis]]
 
 _AL amyloid_ due to myeloma
 _AA amyloid_ due to chronic inflammatory conditions
 
 Depositions of protein in glomerulus = impaired filtration
 
-# [[Tubulointerstitial Nephritis]]
+## [[Tubulointerstitial Nephritis]]
 
 - Type IV hypersensitivity reaction against tubules due to drugs or infection
 - Presents with AKI
 
 ---
 
-# [[Glomerulonephritis]]
+## [[Glomerulonephritis]]
 
-
-| Name                               | Cause                 | Most common presentation                                                                                |
-| ---------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------- |
-| Minimal change disease             | ? autoimmune          | children with <span style="color:lightgreen">nephrotic</span>, little to no decrease in renal function  |
-| IgA nephropathy                    | autoimmune            | Teens/young adults with <span style="color:blue">nephritic</span>.                                      |
-| Membranous nephropathy             | autoimmune            | Adults with <span style="color:lightgreen">nephrotic</span> may have PMH of hepatitis B or cancer       |
-| Focal segmental glomerulosclerosis | ? autoimmune          | Adults with <span style="color:lightgreen">nephrotic</span> may have PMH of HIV or anabolic steroid use |
-| Lupus nephritis                    | autoimmune (Type III) | Other signs of Lupus. Variable renal presentation                                                       |
+| Name                                       | Cause                 | Most common presentation                                                                                      |
+| ------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Minimal change disease                     | ? autoimmune          | children with <span style="color:lightgreen">nephrotic</span>, little to no decrease in renal function        |
+| IgA nephropathy                            | autoimmune            | Teens/young adults with <span style="color:blue">nephritic</span>.                                            |
+| Membranous nephropathy                     | autoimmune            | Adults with <span style="color:lightgreen">nephrotic</span> may have PMH of hepatitis B or cancer             |
+| Focal segmental glomerulosclerosis         | ? autoimmune          | Adults with <span style="color:lightgreen">nephrotic</span> may have PMH of HIV or anabolic steroid use       |
+| Lupus nephritis                            | autoimmune (Type III) | Other signs of Lupus. Variable renal presentation                                                             |
 | Post infectious glomerulonephritis         | autoimmune (Type III) | Children with impetigo or strep throat                                                                        |
 | Granulomatosis with polyangiitis (Wegners) | autoimmune (Type III) | <span style="color:blue">Haematuria</span> and rapid fall in eGFR. Also nose and lung symptoms.               |
 | Goodpastures disease (anti GBM)            | autoimmune (Type II)  | <span style="color:blue">Haematuria</span> and a rapid fall in eGFR. Also haemoptysis due to lung involvement |
 
-
 ---
 
-# [[Polycystic Kidney Disease]]
+## [[Polycystic Kidney Disease]]
 
 Autosomal dominant PCKD - PKD1/2 mutation
 Presentation:
@@ -1099,14 +1085,14 @@ Autosomal recesesive PCDK
 
 ---
 
-# Cystitis
+## Cystitis
 
 Can be catheter associated (CA-UTI)
 
 - Current or recent cathterised patients
 - Can have unexplained systemic symptoms
 
-# Pyelonephritis
+## Pyelonephritis
 
 - Infection of kidney and/or renal pelvis
 - Symptoms of lower UTI + loin/abdo pain
@@ -1114,7 +1100,7 @@ Can be catheter associated (CA-UTI)
 
 ---
 
-# Prostatitis
+## Prostatitis
 
 Acute:
 
@@ -1123,11 +1109,12 @@ Acute:
 - Retention
 
 ---
-# Immunology
+
+## Immunology
 
 ---
 
-# Allergic Disease Testing
+## Allergic Disease Testing
 
 Specific IgE testing
 
@@ -1141,7 +1128,7 @@ Skin Prick Test
 
 ---
 
-# Innate imune system
+## Innate imune system
 
 Phagocytic cells:
 
@@ -1180,7 +1167,7 @@ Chemokines:
 
 ---
 
-# Autoimmune Thyroid Disease
+## Autoimmune Thyroid Disease
 
 **[[Hashimoto's thyroiditis]]**
 
@@ -1193,19 +1180,19 @@ Chemokines:
 
 ---
 
-# [[Myasthenia gravis]]
+## [[Myasthenia gravis]]
 
 - Auto-antibodies block ACh receptor
 - Muscle weakness esp facial muscles
 
-# Pernicious anaemia
+## Pernicious anaemia
 
 - Auto-antibodies against intrinsic factor which is needed to bind and transport B12
 - Leads to macrocytic anaemia
 
 ---
 
-# Innate immunity & defects
+## Innate immunity & defects
 
 **Pathogen recognition receptors** - recognise anything with common pathogen associated molecular patterns (PAMPs).
 
@@ -1217,20 +1204,20 @@ Toll like receptors are a type of PRR:
 
 ---
 
-# [[Chronic granulomatous disease]]
+## [[Chronic granulomatous disease]]
 
 - NADPH complex needed for phagocytosis mutated (gp91phox X linked)
 - Recurrent abscesses - lung, liver, bone, skin with unusual organisms
 - Treatment haemopoeitic stem cell transplant
 
-# Complement deficiency
+## Complement deficiency
 
 - C2, C4 deficiency - SLE, infections, myositis
 - C5-C9 (MAC cannot form) - repeated bacterial meningitis
 
 ---
 
-# Defects in adaptive immunity
+## Defects in adaptive immunity
 
 **X linked agammaglobulinaemia**
 
@@ -1256,7 +1243,7 @@ Causes
 
 ---
 
-# Diagnosis of autoimmune
+## Diagnosis of autoimmune
 
 **[[Inflammatory Arthritis#Rheumatoid Arthritis|Rheumatoid Arthritis]]**
 
@@ -1288,7 +1275,7 @@ Causes
 
 ---
 
-# Immunotherapeutics
+## Immunotherapeutics
 
 **Immunomodulation** - the act of manipulating the immune system using drugs to achieve a desired immune response
 
@@ -1300,7 +1287,7 @@ Replacement therapies and immune stimulation:
 
 ---
 
-# Immunosupression
+## Immunosupression
 
 - Cortocosteroids - $\downarrow$ neutrophil margination, $\downarrow$ inflammatory cytokines,$\downarrow$ T cell proliferation, $\downarrow$ Ig production
 - Antimetabolites - azathioprine, mycophenolate
@@ -1310,27 +1297,28 @@ Replacement therapies and immune stimulation:
 
 ---
 
-# Rituximab
+## Rituximab
 
 - mAb against CD-20 B cell surface
 - Lymphomas, leukaemias, transplant rejection, autoimmune disorders
 
-# JAK iknhibitors
+## JAK iknhibitors
 
 - reduce inflammation
 - stops the fuel for diseases like eczema, psoriasis, and vitiligo
 
 ---
-# OB-GYN
+
+## OB-GYN
 
 ---
 
-# Breast screening
+## Breast screening
 
 - Every 3 years invited, 50-71 y/o
 - Triple assessment - clinical, imaging, pathology - TNM staging
 
-# Fibrocystic change
+## Fibrocystic change
 
 - Benign hormonally mediated breast changes
 - Cyst formation, mild calcification, stromal fibrosis and mild epithelial hyperplasia without atypia
@@ -1339,12 +1327,12 @@ Replacement therapies and immune stimulation:
 
 ---
 
-# Fibroadenomas
+## Fibroadenomas
 
 - Well defined mobile breast mass/lump
 - Proliferation of both epithelial and stromal components
 
-# Ductal carcinoma in situ
+## Ductal carcinoma in situ
 
 - Malignant clonal proliferation of cells within structures
 - Precursoro of inbasive carcinoma
@@ -1358,7 +1346,7 @@ Replacement therapies and immune stimulation:
 - Used to determine prognosis following surgery for breast cancer
 - Calculated using size of tumour; number of involved lymph nodes, and grade of tumour
 
-## Molecular markers
+### Molecular markers
 
 - Cancer may express Estrogen Receptor (ER), Progesterone Receptor (PR), HER2 (Human Epidermal growth factor Receptor)
 - Caner may change with hormones
@@ -1366,13 +1354,13 @@ Replacement therapies and immune stimulation:
 
 ---
 
-# [[Endometriosis]]
+## [[Endometriosis]]
 
 - Ectopic endometrial tissue
 - Bleeding into tissues $\rightarrow$ fibrosis
 - Surgical ablation of lesions is definitive treatment
 
-# Endometrial polyps
+## Endometrial polyps
 
 - Endometrial overgrowths
 - Almost all benign - but risk of malignancy increases with age
@@ -1380,12 +1368,12 @@ Replacement therapies and immune stimulation:
 
 ---
 
-# Endometrial hyperplasia
+## Endometrial hyperplasia
 
 - Obesity, PCOS, estrogen exposure - treatment by reducing exposur
 - Simple with normal stroma:gland complex $\uparrow$glands:$\downarrow$stroma
 
-# Endometrial cancer
+## Endometrial cancer
 
 - 2 types of adenocarcinomas (Type 1 endometrioid, Type 2 serous)
 - FIGO staging
@@ -1394,13 +1382,13 @@ Replacement therapies and immune stimulation:
 
 ---
 
-# Leiomyoma
+## Leiomyoma
 
 - Benign smooth muscle tumour aka uterine fibroids
 - Can be asymptomatic
 - Very common gyne condition
 
-# [[Polycystic Ovarian Syndrome]]
+## [[Polycystic Ovarian Syndrome]]
 
 - Endocrine disorder characterised by hyperandrogenism + insulin resistance
 - $\uparrow$ LH $\downarrow$ FSH $\rightarrow$ hyperandrogenism
@@ -1408,7 +1396,7 @@ Replacement therapies and immune stimulation:
 
 ---
 
-# Ovarian Cancer
+## Ovarian Cancer
 
 - Surface epithelial tumours - serous, mucinous, endometrioid
 - Germ cell tumours - arise from oocyte, _teratomas_ most common
@@ -1422,7 +1410,7 @@ FIGO staging
 
 ---
 
-# Infections in Pregnancy
+## Infections in Pregnancy
 
 **T**oxoplasmosis
 **O**ther (syphilis, HIV, Coxsackie, HBV, VZV)
@@ -1443,40 +1431,42 @@ FIGO staging
 - E. coli, Group A + B strep
 - Broad spec IV antibiotics until apyrexial for 48h
 
-# Neonate sepsis
+## Neonate sepsis
 
 - Early onset first 72 hour - Group B strep/E coli., colonised during delivery
 - Late onset after 72h same organisms but healthcare associated
 
 ---
 
-# Infections in children
+## Infections in children
 
 URT infections
+
 - Pharyngitis
 - Acute tonsillitis
 - Croup - inflammation and narrowing of subglottic region (larynx)
 - Acute otitis media
 
 LRT infections:
+
 - pneomonia
 - bronchiolitis (RSV)
 - acute bronchitis
 
 ---
 
-# Pertussis
+## Pertussis
 
 - Highly communicable acute resp infection caused by B. pertussis
 - Whooping cough - vaccine available
 
 1. Catarrheal phase - cold like
 2. Paroxysmal phase - series of rapid forced expirations. V young infants apneic/cyanosed
-3.  Convalescent phase
+3. Convalescent phase
 
 ---
 
-# [[Meningitis]]
+## [[Meningitis]]
 
 Non-specific clinical presentation in infants
 
@@ -1492,12 +1482,12 @@ Bacterial:
 
 ---
 
-# Meningococcemia
+## Meningococcemia
 
 - Mortality 5-10% (90% if DIC), morbidity 10%
 - Maculopapular rash
 
-# [[Urinary Tract Infection]]
+## [[Urinary Tract Infection]]
 
 - 7% of girls 2% boys
 - 7% of febrile neonates - classic UTI symptoms but hard to get clean urine sample in children
@@ -1505,7 +1495,7 @@ Bacterial:
 
 ---
 
-# Rashes
+## Rashes
 
 **Impetigo** - classically ruptured honey-coloured vesicles. S aureus or Strep. pyogenes
 
@@ -1514,7 +1504,8 @@ Bacterial:
 **Chicken pox** - very itchy fluid filled vesicles caused by VZV, manage symptoms only aciclovir if very bad
 
 ---
-# Haematology
+
+## Haematology
 
 ---
 
@@ -1575,7 +1566,7 @@ New IgG formed against RBC antigens other than ABO.
 
 ---
 
-# [[Acute myeloid leukaemia]]
+## [[Acute myeloid leukaemia]]
 
 Accumulation and proliferation of immature myeloid cells
 
@@ -1595,14 +1586,14 @@ Poor overall prognosis and worsens with age. Most common type in adults
 
 ---
 
-# Myelodysplastic syndromes
+## Myelodysplastic syndromes
 
 - Similar to AML with ineffective haematopoiesis
 - Low risk only treat if symptomatic, high risk treat like AML
 
 ---
 
-# [[Acute lymphoblastic leukaemia]]
+## [[Acute lymphoblastic leukaemia]]
 
 Rapid growth and accumulation of immature lymphocytes
 
@@ -1611,15 +1602,14 @@ Rapid growth and accumulation of immature lymphocytes
 
 Treatment philosophy:
 
-
 1. induction (8wk)
 2. intensification / CNS prophylaxis (4wk)
-3. consolidation (20wk) 
+3. consolidation (20wk)
 4. maintenance (2 year) - low dose lower risk 20%
 
 ---
 
-# [[Chronic myeloid leukaemia]]
+## [[Chronic myeloid leukaemia]]
 
 Slow growing cancer of mature myeloid cells which don't function properly
 
@@ -1630,13 +1620,13 @@ Slow growing cancer of mature myeloid cells which don't function properly
 
 ---
 
-# [[Chronic lymphoblastic leukaemia]]
+## [[Chronic lymphoblastic leukaemia]]
 
 - Excessive proliferation of mature B cells
 - Most common leukaemia
 - Associated with autoimmune conditions
 
-# [[Multiple myeloma]]
+## [[Multiple myeloma]]
 
 - Plasma cell proliferation usually in older people Rx steroids
 - CRAB diagnostic criteria: Calcium $\uparrow$, Renal insufficiency, Anaemia, Bone lesions
@@ -1644,11 +1634,11 @@ Slow growing cancer of mature myeloid cells which don't function properly
 
 ---
 
-# [[Lymphoma]]
+## [[Lymphoma]]
 
 B or T cell usually solid malignancy in a lymph node
 
-### B cell lymphoma
+#### B cell lymphoma
 
 **Hodgkin's lymphoma**
 
@@ -1661,7 +1651,7 @@ B or T cell usually solid malignancy in a lymph node
 
 ---
 
-# Von Willebrand Disease
+## Von Willebrand Disease
 
 Most common heritable bleeding disorder - defect in quality or quantity of vWF. Each type or more severe
 Type 1 - quantitative defect, autosomal dominant
@@ -1674,7 +1664,7 @@ Treatment with DDAVP, TXA
 
 ---
 
-# The Hemophilias
+## The Hemophilias
 
 - X linked disorders so typically expressed in males, carried by females (but can show some symptoms rarely)
 - Severity is consistent between family members
@@ -1689,7 +1679,7 @@ Rx with replacement clotting protein, DDAVP - Emicizumab - mimics FVIII
 
 ---
 
-# Sickle Cell Trait
+## Sickle Cell Trait
 
 - Normal blood count
 - Hb Electrophoresis: Hb-S 45%, Hb-A 55%
@@ -1700,7 +1690,7 @@ Usually structural with a single base substitution
 
 ---
 
-# Sick Cell Disease
+## Sick Cell Disease
 
 - Anaemic, Hb-S >95% Hb-A 0%
 - Clinical - vaso-occlusive crisis
@@ -1714,18 +1704,18 @@ Treatment
 
 ---
 
-# Thalassaemias
+## Thalassaemias
 
 Change in globin gene expression leads to reduced rate of synthesis of normal globin chains. Pathology due to excess of unaffected chain in blood.
 
-## $\alpha$-thalassaemia
+### $\alpha$-thalassaemia
 
 - Recessive disorder - 4 genes in control. Pathology from excess $\beta$
 - Hb Barts (all 4 genes $a^0$) - hydrops fetalis incompatible with life
 
 ---
 
-## $\beta$-thalassaemia
+### $\beta$-thalassaemia
 
 - Similar to alpha - microcytic hypochromic RBCs
 
@@ -1739,7 +1729,7 @@ Need blood but causes Fe toxicity so iron chelation needed too
 
 ---
 
-# Haematological changes in pregnancy
+## Haematological changes in pregnancy
 
 - Plasma volume $\uparrow$ 50%, RBC $\uparrow$ 25%, so dilutation occurs, maximally at 32 weeks.
 - Increases folic acid requirements
@@ -1749,7 +1739,7 @@ Need blood but causes Fe toxicity so iron chelation needed too
 
 ---
 
-# Neonate Haematology
+## Neonate Haematology
 
 Where is blood made in utero
 
@@ -1773,9 +1763,9 @@ $\alpha^2$ + $\delta^2$ = HbA$_2$
 
 ---
 
-# Aquired bleeding disorders
+## Aquired bleeding disorders
 
-## Disseminated Intravascular Coagulation
+### Disseminated Intravascular Coagulation
 
 Excess clotting uses up all clotting factors which leads to excessive bleeding. Microvascular thrombosis $\rightarrow$ tissue ischaemia
 
@@ -1785,7 +1775,7 @@ Treat underlying cause and give platelet transfusions
 
 ---
 
-## Liver disease
+### Liver disease
 
 Makes clotting factor components and protein C and S. Damage to the liver can lead to:
 
@@ -1797,7 +1787,7 @@ Limited treatment options - platelet tx, FFP/prothrombin complex, cryoprecipitat
 
 ---
 
-## Renal disease
+### Renal disease
 
 Drugs accumulating in renal failure (penicillins) can bind to platelets and block their receptors.
 
@@ -1810,7 +1800,7 @@ Correct anaemia and avoid antiplatelet drugs
 
 ---
 
-## Vitamin K deficiency
+### Vitamin K deficiency
 
 FII, VII, IX, X deficiency
 
@@ -1820,9 +1810,9 @@ FII, VII, IX, X deficiency
 
 ---
 
-# Anticoagulants
+## Anticoagulants
 
-## Heparin
+### Heparin
 
 Increases the ability of antithrombin molecule to irreversibly inhibit **thrombin, IXa, Xa, XIa**.
 
@@ -1834,7 +1824,7 @@ Increases the ability of antithrombin molecule to irreversibly inhibit **thrombi
 
 ---
 
-## Warfarin
+### Warfarin
 
 Vitamin K antagonist with lots of interactions with drugs and food. FII, VII, IX, X, protein C +S all vit K dependant.
 
@@ -1844,7 +1834,7 @@ Vitamin K antagonist with lots of interactions with drugs and food. FII, VII, IX
 
 ---
 
-## Direct oral anticoagulants
+### Direct oral anticoagulants
 
 Predictable dose response and minimal interactions unlike warfarin. Fast onset and offset. **Cannot use with mechanical heart valves**
 
@@ -1853,15 +1843,15 @@ Predictable dose response and minimal interactions unlike warfarin. Fast onset a
 
 ---
 
-# Anti-platelets
+## Anti-platelets
 
-## Aspirin
+### Aspirin
 
 Inactivates platelet cyclooxygenase reducing thromboxane A2.
 
 - Irreversible effect 4-5 days
 
-## P2Y$_{12}$ antagonist
+### P2Y$_{12}$ antagonist
 
 Prevent platelet aggregation by blocking P2Y12 receptor
 
@@ -1869,9 +1859,9 @@ Prevent platelet aggregation by blocking P2Y12 receptor
 
 ---
 
-# Haematological emergencies
+## Haematological emergencies
 
-## Thrombotic Thrombocytopenic Purpura
+### Thrombotic Thrombocytopenic Purpura
 
 Type of microangiopathic haemolytic anaemia, antibodies against ADAMTS13 enzyme. So vWF cannot be broken down leading to many clots
 
@@ -1881,7 +1871,7 @@ Type of microangiopathic haemolytic anaemia, antibodies against ADAMTS13 enzyme.
 
 ---
 
-# Anaemia
+## Anaemia
 
 **Macro**cytic - B12, folate, metabolic, haemolysis, reticulocytes
 **Normo**cytic - chronic disease/ inflammation
@@ -1927,11 +1917,11 @@ Other causes:
 
 <!-- _class: lead invert -->
 
-# Cardiovascular pathology
+## Cardiovascular pathology
 
 ---
 
-# [[myocardial infarction]]
+## [[myocardial infarction]]
 
 Death of cardiac muscle from prolonged ischaemia
 
@@ -1954,7 +1944,7 @@ Blood markers:
 
 ---
 
-# Hypertension
+## Hypertension
 
 Sustained systolic **140+** or diastolic **90+**
 
@@ -1966,7 +1956,7 @@ Can lead to left sided hypertrophic cardiomyopathy
 
 ---
 
-# [[cor pulmonale]]
+## [[cor pulmonale]]
 
 - Right sided hypertensive heart disease
 - Right ventricular hypertrophy, dilation and potentially failure
@@ -1980,20 +1970,20 @@ Causes:
 
 ---
 
-# Aneuryms
+## Aneuryms
 
 Localised abnormal dilation of blood vessel or the wall of the heart
 
 **True aneurysm** - all three layers of artery are involved
 **False/pseudoaneurysm** - breach in vascular wall leading to an extravascular hematoma which communicates with intravascular
 
-# Dissection
+## Dissection
 
 When blood enters the wall of an artery as a hematoma dissecting between the layers. May arise in aneurysmal arteries
 
 ---
 
-# Left [[Heart Failure]]
+## Left [[Heart Failure]]
 
 Insufficient left ventricular output - very common, usually caused by anything that increases pressure or reduces efficacy of pumping: IHD, hypertensive HD, valvular HD
 
@@ -2005,7 +1995,7 @@ Low cardiac output $\rightarrow$ low BP $\rightarrow$ sympathetic overdrive $\ri
 
 ---
 
-# Right [[Heart Failure]]
+## Right [[Heart Failure]]
 
 Insufficient right ventricular output - uncommon, usually caused by pulmonary hypertension - COPD, pulmonary fibrosis, bronchiectasis, recurrent PEs
 
@@ -2013,28 +2003,28 @@ Pulmonary hypertension secondary to lung diseases $\rightarrow$ $\uparrow$ workl
 
 ---
 
-# Valvular Heart Disease
+## Valvular Heart Disease
 
-### [[Aortic Stenosis]]
+#### [[Aortic Stenosis]]
 
 - Most common VHD
 - Usually senile calcific aortic stenosis
 - Congenital bicuspid valve
 - Chronic rheumatic disease
 
-### Aortic Regurgitation
+#### Aortic Regurgitation
 
 - Anything that dilates root of aorta - Marfan's syndrome, ankylosing spondylitis. Congenital abnormalities of the leaflet
 
 ---
 
-### [[Mitral stenosis]]
+#### [[Mitral stenosis]]
 
 - Commonly secondary to rheumatic heart disease
 
 Reduced flow through valve $\rightarrow$ increases pressure in left atrium $\rightarrow$ left atrium size increase $\rightarrow$ pulmonary oedema and dyspnoea
 
-### Mitral Regurgitation
+#### Mitral Regurgitation
 
 - Commonly due to mitral valve prolapse or IHD
   - One leaflet prolapses into left atrium during systole
@@ -2042,23 +2032,23 @@ Reduced flow through valve $\rightarrow$ increases pressure in left atrium $\rig
 
 ---
 
-# Congenital Heart Disease
+## Congenital Heart Disease
 
-### ASD
+#### ASD
 
-### VSD
+#### VSD
 
-### Coarctation of the aorta
+#### Coarctation of the aorta
 
 High pressure blood before point of coarctation low pressure beyond
 
-### Tetralogy of fallot
+#### Tetralogy of fallot
 
 - Pulmonary stenosis, right ventricular hypertrophy, overriding aorta, ventricular septal defect
 
 ---
 
-# Peripheral Vascular Disease
+## Peripheral Vascular Disease
 
 Atherosclerosis of arteries supply limbs leading to narrowing of the vessel and BF restriction - same mechanisms as athersclerosis
 
@@ -2067,7 +2057,7 @@ Atherosclerosis of arteries supply limbs leading to narrowing of the vessel and 
 
 ---
 
-# Giant Cell Arteritis (Temporal)
+## Giant Cell Arteritis (Temporal)
 
 Type of vasculitis (hypersensitivity type IV) affecting large arteries in head - can lead to blindness
 
@@ -2077,7 +2067,7 @@ Type of vasculitis (hypersensitivity type IV) affecting large arteries in head -
 
 ---
 
-# [[Endocarditis]]
+## [[Endocarditis]]
 
 Infection and inflammation of the endocardium, mainly involving valves
 
@@ -2091,7 +2081,7 @@ Candida, Aspergillus - Rare
 
 ---
 
-# [[Pericarditis]]
+## [[Pericarditis]]
 
 Inflammation of pericardial sac - reduces effectiveness of contractions
 **Acute** - serofibrinous, caseous, haemorrhagic & purulent
@@ -2103,7 +2093,7 @@ Other- uraemia, neoplasia, trauma
 
 ---
 
-# [[Myocarditis]]
+## [[Myocarditis]]
 
 Inflammation of myocardium
 Electrical dysfunctions - arrhythmias/sudden death
@@ -2113,7 +2103,7 @@ Mechanical dysfunction - heart failure
 
 ---
 
-# Rheumatic Fever
+## Rheumatic Fever
 
 Complication of Group A Strep pharyngitis (Strep pyogenes)
 
@@ -2125,24 +2115,24 @@ Complication of Group A Strep pharyngitis (Strep pyogenes)
 
 ---
 
-# Cardiomyopathy
+## Cardiomyopathy
 
-### Dilated
+#### Dilated
 
 - Dilated and thin walled ventricle anything that weakens heart - can't empty $\rightarrow$ DCM $\rightarrow$ heart failure, thrombus $\pm$ emboli, arrythmias
 
-### Hypertrophic (obstructive)
+#### Hypertrophic (obstructive)
 
 - Genetics cause heart muscle to grow too much $\rightarrow$ heart failure and electrical disruption
 
 ---
 
-### Restrictive
+#### Restrictive
 
 - Impaired ventricular filling
 - Secondary to infiltration - amyloidosis, sarcoidosis, metastatic tumours, IEoM
 
-### Arrythmogenic
+#### Arrythmogenic
 
 - Mostly young males
 - Mutation in cell adhesion gene so fibrofatty tissue forms to try and repair damage which interferes with electrical conductivity
@@ -2150,7 +2140,7 @@ Complication of Group A Strep pharyngitis (Strep pyogenes)
 
 ---
 
-### CSF abnormalities in meningitis
+#### CSF abnormalities in meningitis
 
 | Condition         | Appearance             | Cells               | Protein | Glucose |
 | ----------------- | ---------------------- | ------------------- | ------- | ------- |
@@ -2161,10 +2151,9 @@ Complication of Group A Strep pharyngitis (Strep pyogenes)
 
 ---
 
-# Acute progressive viral encephalitis
+## Acute progressive viral encephalitis
 
 - Highest case fatality of any infectious disease
-
 
 1. Prodromal phase - fever, nausea, vomiting, headache, fatigue, tingling at site of wound
 2. Furious phase- agitation, disorientation, seizures, hydrophobia - can't treat past here
@@ -2173,7 +2162,7 @@ Complication of Group A Strep pharyngitis (Strep pyogenes)
 
 ---
 
-# [[Neurosyphilis]]
+## [[Neurosyphilis]]
 
 - CNS invasion occurs early in 30-40%
   Asymptomatic neurosyphilis can occur at any stage
@@ -2182,11 +2171,11 @@ Complication of Group A Strep pharyngitis (Strep pyogenes)
 
 <!-- _class: lead invert -->
 
-# Endocrine
+## Endocrine
 
 ---
 
-# Hormones
+## Hormones
 
 **Neurocrine** - secretion of hormones into the bloodstream by neurons
 **Endocrine** - secretion of hormones into the bloodstream by endocrine glands
@@ -2195,7 +2184,7 @@ Complication of Group A Strep pharyngitis (Strep pyogenes)
 
 ---
 
-# Pituitary
+## Pituitary
 
 Anterior:
 
@@ -2208,11 +2197,11 @@ Local effects may put pressure on optic chiasm
 
 ---
 
-# Thyroid
+## Thyroid
 
 TRH from hypothalamus stimulates pituitary TSH for thyroid to release T3 T4
 
-### [[Hypothyroidism]]
+#### [[Hypothyroidism]]
 
 - Commonest cause is Hashimoto's thyroiditis (autoimmune)
 - Serum thyroid antibodies elevated
@@ -2220,13 +2209,13 @@ TRH from hypothalamus stimulates pituitary TSH for thyroid to release T3 T4
 
 ---
 
-### [[Hyperthyroidism]]
+#### [[Hyperthyroidism]]
 
 - Excess T3, T4 - very rarely due to excess TSH
 - Commonest causes is Grave's disease - antibodies that stimulate TSH receptor on thyroid
 - F > M
 
-### Multinodular Goitre
+#### Multinodular Goitre
 
 - Enlargement of thyroid with varying degrees of nodularity
 - Most patients are euthyroid
@@ -2235,13 +2224,13 @@ TRH from hypothalamus stimulates pituitary TSH for thyroid to release T3 T4
 
 ---
 
-# Thyroid follicular adenoma
+## Thyroid follicular adenoma
 
 - Commonest cause of solitary thyroid nodule
 - Solid mass with fibrous capsule - normally non functioning
 - Wide age range but F > M
 
-# Thyroid follicular carcinoma
+## Thyroid follicular carcinoma
 
 - Well differentiated malignant tumour with good prognosis
 - 20% of carcinomas
@@ -2249,7 +2238,7 @@ TRH from hypothalamus stimulates pituitary TSH for thyroid to release T3 T4
 
 ---
 
-# Papillary thyroid carcinoma
+## Papillary thyroid carcinoma
 
 - Well differentiated carcinoma with excellent prognosis. Younger mostly female
 - Most common carcinoma
@@ -2258,7 +2247,7 @@ TRH from hypothalamus stimulates pituitary TSH for thyroid to release T3 T4
 
 ---
 
-# Adrenal Gland
+## Adrenal Gland
 
 Cortex:
 
@@ -2281,21 +2270,21 @@ Tumour of neuroendocrine chromaffin cells - excessive release of catecholamines 
 
 ---
 
-# [[Cushing's Syndrome]]
+## [[Cushing's Syndrome]]
 
 Where too much cortisol is present. Dynamic suppression test needed - dextamethasone should reduce ACTH and cortisol. Classic features - moon face central shoulders, purple striae
 
-### Disease
+#### Disease
 
 Pituitary tumour releasing ACTH $\rightarrow \uparrow$ cortisol release
 
-### Syndrome
+#### Syndrome
 
 - Any other cause - steroids, adrenal cortex tumour, ectopic tumour eg small cell lung carcinoma
 
 ---
 
-# Conn's syndrome
+## Conn's syndrome
 
 - Hyperaldosteronism - primary and secondary
 - Adrenal cortic hyperplasia, adenoma,
@@ -2304,7 +2293,7 @@ Via the RAAS - renal retion of $H_2O$ and Na+ so high blood pressure, headache a
 
 ---
 
-# [[Addison's Disease]]
+## [[Addison's Disease]]
 
 Primary adrenal cortical insufficiency - not enough steroid hormones
 
@@ -2315,8 +2304,7 @@ Triad of **hyperpigmentation**, **postural hypotension** and **hyponatraemia**
 
 ---
 
-# Hypoglycaemia
-
+## Hypoglycaemia
 
 ![](https://pbs.twimg.com/media/FD1mgIjWYAUtJPh.png)
 
@@ -2327,7 +2315,7 @@ When hypoglycaemic <~3 mmol/L:
 
 ---
 
-### Insulinomas
+#### Insulinomas
 
 - F >> M
 - most common tumour of islet of Langerhans
@@ -2335,11 +2323,11 @@ When hypoglycaemic <~3 mmol/L:
 
 ---
 
-# [[Diabetes Mellitus]]
+## [[Diabetes Mellitus]]
 
 Cannot regulate glucose correctly. HbA1C 41-48 pre diabetes
 
-### Type 1
+#### Type 1
 
 - Autoimmune destruction of beta cells
 - Can occur at any age but usually around puberty
@@ -2350,7 +2338,7 @@ Cannot regulate glucose correctly. HbA1C 41-48 pre diabetes
 
 ---
 
-### Type 2
+#### Type 2
 
 - Cells become insensitive to insulin due to over exposure - usually due to a high sugar diet
 - Symptoms present over few months with minimal weight loss
@@ -2359,7 +2347,7 @@ Cannot regulate glucose correctly. HbA1C 41-48 pre diabetes
 
 ---
 
-### Gestational Diabetes
+#### Gestational Diabetes
 
 - New in pregnancy
 - HbA1c not recommended
@@ -2371,7 +2359,7 @@ Secondary causes can be anything that affects the pancreas
 
 ---
 
-# Bone
+## Bone
 
 Cortical bone - hard outer layer
 Trabecular bone - spongy inner layer
@@ -2383,7 +2371,7 @@ Osteoclasts - breakdown old bone in response to PTH
 
 ---
 
-## Bone biomarkers
+### Bone biomarkers
 
 Alkaline phosphatase
 
@@ -2412,9 +2400,9 @@ Bone density T-scores
 
 ---
 
-# Bone disorders
+## Bone disorders
 
-### [[osteoporosis]]
+#### [[osteoporosis]]
 
 Decreased bone mass + deranged bone microachitecture = failure of structual integrity
 
@@ -2428,7 +2416,7 @@ Treat with antiresportivs (RANK-Li, bisphosponates) + anabolic (PTH analoge)
 
 ---
 
-### Hypercalcaemia
+#### Hypercalcaemia
 
 <div class="twocols">
 
@@ -2463,7 +2451,7 @@ Dehydration
 
 ---
 
-# PHPT: Adenomas
+## PHPT: Adenomas
 
 **Adenomas** - 85% of cases of primary HPT
 
@@ -2475,7 +2463,7 @@ Dehydration
 
 ---
 
-# Paget's Disease of Bone
+## Paget's Disease of Bone
 
 <div class="twocols">
 
@@ -2492,7 +2480,7 @@ Dehydration
 
 ---
 
-# Osteomalacia
+## Osteomalacia
 
 Lack of mineralisation of bone
 
@@ -2505,7 +2493,7 @@ Signs: diffuse usually bilateral bone pains and weakness, muscle weakness, high 
 
 ---
 
-#### Summary Table
+##### Summary Table
 
 | Disease      | ALP        | Ca             | Phos         | PTH            |
 | ------------ | ---------- | -------------- | ------------ | -------------- |
@@ -2517,7 +2505,7 @@ Signs: diffuse usually bilateral bone pains and weakness, muscle weakness, high 
 
 ---
 
-# Calcium biochemistry
+## Calcium biochemistry
 
 ![width:600px|575](z_attachments/calcium%20diagram.png)
 
@@ -2526,12 +2514,12 @@ Signs: diffuse usually bilateral bone pains and weakness, muscle weakness, high 
 
 ---
 
-# Phosphate biochemistry
+## Phosphate biochemistry
 
 - Predominantly intracellular
 - ATP, DNA backbone, membrane phospholipids
 
-### Homeostasis of calcium and phosphate
+#### Homeostasis of calcium and phosphate
 
 - PTH and vitamin D and metabolites controlling factors
 
@@ -2539,7 +2527,7 @@ Balance of - GI absorption, bone storage/resorption, renal excretion/reabsorptio
 
 ---
 
-# PTH
+## PTH
 
 Net effect:
 
@@ -2553,14 +2541,14 @@ Kidneys also increase active form of vitamin D to absorb more from gut
 
 ---
 
-# Other regulators
+## Other regulators
 
 - Calcitonin - opposes the effect of PTH by acting on osteoclasts to inhibit bone resorption. Function is usually insignificant
 - Oestrogen inhibits bone resorption
 
 ---
 
-# Hypocalcaemia
+## Hypocalcaemia
 
 - EDTA contamination of the tube
 - Vitamin D deficiency
@@ -2577,9 +2565,10 @@ Signs and symptoms
 - Cramps
 - Convulsions
 - Psychosis
+
 ---
 
-# Phosphate deficiency
+## Phosphate deficiency
 
 Low intake - malnutrition, malabsorption, alcoholism
 
@@ -2587,7 +2576,7 @@ Excess loss - hyperparathyroidism, renal tubular damage (Fanconi syndrome), diar
 
 Extracellular/intracellular fluid redistribution - alkalosis, refeeding
 
-### Refeeding syndrome
+#### Refeeding syndrome
 
 - $\downarrow$ insulin, $\uparrow$ glucagon. Fat and protein metabolism. Intracellular stores of electrolytes used up
 
@@ -2596,7 +2585,7 @@ Extracellular/intracellular fluid redistribution - alkalosis, refeeding
 - Upon refeeding $\uparrow$ insulin, $\uparrow$ glycolysis, requiring K, PO4 and magnesium movement into cells with glucose.
 - This causes severe hypokalaemia, hypophosphatemia and hypomagnesemia $\rightarrow$ heart dysfunction and resp failure
 
-### Signs and symptoms of low PO4
+#### Signs and symptoms of low PO4
 
 - Haemolysis, thrombocytopenia and poor granulocyte function
 - Severe muscle weakness, respiratory muscle failure and rhabdomyolysis
@@ -2605,7 +2594,7 @@ Treatment with oral or IV phosphate
 
 ---
 
-# Hyperphosphataemia
+## Hyperphosphataemia
 
 Symptoms usually due to hypocalcaemia
 
@@ -2617,7 +2606,7 @@ Causes:
 
 ---
 
-# Magnesium depletion
+## Magnesium depletion
 
 - Cofactor for ATP, neuromuscular excitability, enzyme function, regulates ion channels
 - Required for PTH release
@@ -2631,7 +2620,7 @@ Can be due to:
 
 ---
 
-### Hypermagnesaemia
+#### Hypermagnesaemia
 
 Rare as kidneys have a large capacity to excrete excess MG
 
@@ -2641,11 +2630,11 @@ Rare as kidneys have a large capacity to excrete excess MG
 
 <!-- _class: lead invert -->
 
-# Skin and musculoskeletal pathology
+## Skin and musculoskeletal pathology
 
 ---
 
-# Lichen planus
+## Lichen planus
 
 A rash that can affect parts of the body including mouth and hands
 
@@ -2657,27 +2646,27 @@ A rash that can affect parts of the body including mouth and hands
 
 ---
 
-# Vocal cord nodules/polyps
+## Vocal cord nodules/polyps
 
 Singers disease as caused by excessive + improper use of voice. Can also be caused by infection, hypothyroidism + smoking
 
 - Nodule nearly always bilateral
 - Polyp 90% unilateral
 
-# Sinusitis
+## Sinusitis
 
 - Lots of different, allergic most common
 
 ---
 
-# Sinonasal polyps
+## Sinonasal polyps
 
 Non-neoplastic swellings of sinonasal mucosa - surgery to treat
 
 - Nasal obstruction, rhinorrhea, headaches
 - Bilateral polyps, asthma and aspirin intolerance - Samter tirad
 
-# Oral Cavity Carcinoma
+## Oral Cavity Carcinoma
 
 Majority arise in areas of pre-existing epithelial dysplasia
 
@@ -2685,13 +2674,13 @@ Majority arise in areas of pre-existing epithelial dysplasia
 
 ---
 
-# Laryngeal Carcinoma
+## Laryngeal Carcinoma
 
 - 25 % of head and neck cancers
 - Smoking alcohol, M>F
 - Hoarseness, dyspnea
 
-# Salivary gland tumours
+## Salivary gland tumours
 
 Pleomorphic salivary adenoma
 
@@ -2700,7 +2689,7 @@ Pleomorphic salivary adenoma
 
 ---
 
-# [[exzema]]
+## [[exzema]]
 
 A reaction pattern rather than a specific disease
 
@@ -2713,7 +2702,7 @@ Chronic - thick leathery skin due to itching
 
 ---
 
-# [[Psoriasis]]
+## [[Psoriasis]]
 
 Well defined red oval plaques on extensor surfaces - fine silvery scale - autoimmune so treat with Anti-TNF & Abatacept
 
@@ -2726,7 +2715,7 @@ Micropscopy
 
 ---
 
-# [[Systemic Lupus Erythematosus]]
+## [[Systemic Lupus Erythematosus]]
 
 Autoimmune connect tissue disorder
 
@@ -2741,13 +2730,13 @@ Discoid LE only affects skin
 
 ---
 
-# Dermatomyositis
+## Dermatomyositis
 
 - Histiologically similar to SLE with photosensative rash
 - Proximal muscle weakness
 - 25% association with underlying visceral cancer
 
-# [[Bullous diseases]]
+## [[Bullous diseases]]
 
 Formation of fluid filled blisters - autoantibodies
 
@@ -2756,7 +2745,7 @@ Pemphigoid - sub-epidermal bulla, elderly don't easily rupture
 
 ---
 
-# Dermatitis Herpetiformis
+## Dermatitis Herpetiformis
 
 - Small intensely itchy blisters on extensor surfaces
 - Often young pateitns a/w Coeliac disease
@@ -2764,7 +2753,7 @@ Pemphigoid - sub-epidermal bulla, elderly don't easily rupture
 
 ---
 
-# Skin Tumours
+## Skin Tumours
 
 Very common. May rise from all elements of skin
 
@@ -2777,7 +2766,7 @@ Very common. May rise from all elements of skin
 
 ---
 
-# Basal cell carcinoma
+## Basal cell carcinoma
 
 - Commonest malignant tumour - very rare to metastasise
 - Can be locally aggressive - tracks down nerves
@@ -2786,7 +2775,7 @@ Very common. May rise from all elements of skin
 
 ---
 
-# Squamous cell carcinoma
+## Squamous cell carcinoma
 
 Nodule with ulcerated crusted surface - invasive islands of squamous cells showing atypia
 
@@ -2796,12 +2785,12 @@ Nodule with ulcerated crusted surface - invasive islands of squamous cells showi
 
 ---
 
-# Naevi (moles)
+## Naevi (moles)
 
 - Local benign collections of melanocytes
 - Atypical mole syndrome may increaser risk of melanoma
 
-# Melanoma
+## Melanoma
 
 All malignant, but much rarer than BCC and SCC - BRAF mutation
 
@@ -2810,20 +2799,20 @@ All malignant, but much rarer than BCC and SCC - BRAF mutation
 
 ---
 
-# Viral warts
+## Viral warts
 
 Small asymptomatic growths of skin caused by HPV.
 
 - Treat with topical therapy - salicylic acid, silver nitrate, cyro
 
-# Pilonidal cyst
+## Pilonidal cyst
 
 - Cysts or abscesses in natal cleft causd by ingrowing hair
 - Treatment with hot compress, analgesia, antibiotics
 
 ---
 
-# Cellulitis
+## Cellulitis
 
 Infection affecting inner layers of skin caused by Staph aureus Group A Strep (Strep pyogenes)
 
@@ -2831,13 +2820,13 @@ Infection affecting inner layers of skin caused by Staph aureus Group A Strep (S
 - Exclude other causes eg DVT
 - Treat with rest antibiotics and source control
 
-# Orbital cellulitis
+## Orbital cellulitis
 
 - Organisms: S. aureus, S. pyogenes, S. pneumoniae + H. influenzae
 
 ---
 
-# [[Necrotising fasciitis]]
+## [[Necrotising fasciitis]]
 
 Rapidly progressive, live threatening, tracking along fascia cutting off blood supply $\rightarrow$ necrosis
 
@@ -2847,7 +2836,7 @@ Type 2: Group A strep (S. pyogenes), younger age, associated with cut/injury. "D
 
 ---
 
-# [[Osteomyelitis]]
+## [[Osteomyelitis]]
 
 Infection of bone - acute pain swelling, pathological fracture
 
@@ -2864,7 +2853,7 @@ Treat with antibiotics
 
 ---
 
-# Septic Arthritis
+## Septic Arthritis
 
 Usualy bacterial infection of joint.
 
@@ -2876,18 +2865,18 @@ _S. aureus, Streps, Haemphilus, N. gonorrhoeae, E coli_
 
 ---
 
-# Prosthetic Joint infection
+## Prosthetic Joint infection
 
 Infection of tissues and bone surrounding prosthetic joint - _Staph aureus_ and _Staph epidermidis_
 
 ---
 
-# Oesophagitis
+## Oesophagitis
 
 - Usually viral (HSV, CMV) or fungal (candida). Can be cheimcal
 - Commonest form caused by reflux of gastric acid/bile
 
-# Reflux oesophagitis
+## Reflux oesophagitis
 
 - Risk factors: defective lower oesophageal sphincter, hiatus hernia, increase intra-abdo pressure, increased gastric fluid volume
 - Leading symptom heart burn
@@ -2895,7 +2884,7 @@ Infection of tissues and bone surrounding prosthetic joint - _Staph aureus_ and 
 
 ---
 
-# Barrett's oesophagus
+## Barrett's oesophagus
 
 Long standing reflux leads to metaplasia of squamous mucosa to columnar mucosa/intestinal morphology
 
@@ -2905,7 +2894,7 @@ Long standing reflux leads to metaplasia of squamous mucosa to columnar mucosa/i
 
 ---
 
-# Oesophageal carcinoma
+## Oesophageal carcinoma
 
 Squamous cell carcinoma - other carcinogens - HPV, alcohol, burns...
 Adenocarcinoma - caused by Barrett's oesophagus - mainly caucasians
@@ -2915,14 +2904,14 @@ Adenocarcinoma - caused by Barrett's oesophagus - mainly caucasians
 
 ---
 
-# Gastritis
+## Gastritis
 
 Can be due to either increased aggression/attack on stomach or impaired defences.
 
 **Acute** - usually due to NSAIDs, alcohol or initial H. pylori infection
 **Chronic** - autoimmune (anti-parietal/intrinsic factor), H. pylori, chemical
 
-###### Helicobacter pylori
+####### Helicobacter pylori
 
 - Gram -ve spiral bacterium
 - Damages epithelium usually in antrum rather than body
@@ -2930,7 +2919,7 @@ Can be due to either increased aggression/attack on stomach or impaired defences
 
 ---
 
-# Peptic ulcer disease
+## Peptic ulcer disease
 
 Localised defect extending at least into submucosa
 
@@ -2944,7 +2933,7 @@ Complications
 - Stricturing - hour-glass deformity
 - ***
 
-# Gastric Cancer
+## Gastric Cancer
 
 Most commonly adenocarcinoma, less freq endocrine tumours, lymphomas, stromal tumours. TNM staging
 
@@ -2957,7 +2946,7 @@ Factors: diet, H. pylori, bile reflux, hypochlorhydria
 
 ---
 
-# [[Coeliac Disease]]
+## [[Coeliac Disease]]
 
 Immune mediated enteropathy when ingestation of wheat, rye or barley - anything containing **gliadin**
 
@@ -2970,7 +2959,7 @@ Treatment with gluten free diet
 
 ---
 
-# Benign Liver tumours
+## Benign Liver tumours
 
 **Hepatocyte adenoma** - may be multiple, often driven by exogenous steroids, can be fatal if rupture
 
@@ -2982,7 +2971,7 @@ Treatment with gluten free diet
 
 ---
 
-# Malignant Liver tumours
+## Malignant Liver tumours
 
 **Hepatocellular carcinoma** - usually in cirrhosis (Hep C/B), alpha fetoprotein (AFP) as tumour marker
 
@@ -2992,7 +2981,7 @@ Treatment with gluten free diet
 
 ---
 
-# Secondary Liver tumours
+## Secondary Liver tumours
 
 Majority of liver tumours as secondary. Most commonly from: lung, breast, colon, pancreas.
 
@@ -3001,13 +2990,13 @@ Majority of liver tumours as secondary. Most commonly from: lung, breast, colon,
 
 ---
 
-# Gallstones
+## Gallstones
 
 Cholesterol, bile salts, bacterial growth & calcification can slowly form a stone (calculus). Middle-aged, overweight female $\uparrow$ risk
 
 **Complications** - perforation, chronic cholecystitis, jaundice, pancreatitis
 
-# Chronic [[cholecystitis]]
+## Chronic [[cholecystitis]]
 
 - due to chemical/bacteria
 - over time fibrosis + ulceration
@@ -3015,10 +3004,9 @@ Cholesterol, bile salts, bacterial growth & calcification can slowly form a ston
 - RUQ pain, fever, jaundice
 - Tx - cholecystectomy
 
-
 ---
 
-# [[inflammatory bowel disease]]
+## [[inflammatory bowel disease]]
 
 Common features:
 
@@ -3035,9 +3023,7 @@ Common features:
 
 ---
 
-
-
-| <!-- -->                                  | [[Ulcerative Colitis]]                                      | [[Crohn's Disease]]                       |
+| <!-- -->                                  | [[Ulcerative Colitis]]                                  | [[Crohn's Disease]]                   |
 | ----------------------------------------- | ------------------------------------------------------- | ------------------------------------- |
 | **Distribution**                          | Rectum/colon                                            | Any part of GIT                       |
 | **Histology**                             | Mucosa/sub-mucosa continuous inflammation, no granuloma | Transmural, granulomas, can be patchy |
@@ -3047,10 +3033,9 @@ Common features:
 | **Recurrence after surgery**              | No                                                      | Common                                |
 | **Peri-anal disease, Fistulae, abcesses** | No                                                      | Yes                                   |
 
-
 ---
 
-# Ischaemic bowel disease
+## Ischaemic bowel disease
 
 - Transient - 80%
 - Acute fulminant & gangrenous
@@ -3065,7 +3050,7 @@ Acute onset cramping abdo pains, urge to defaecate, bloody diarrhoea, usually im
 
 ---
 
-# Diverticular disease
+## Diverticular disease
 
 High intralumen pressure (due to lack of fibre) cause protrusions of mucosa and submucosa through the bowel wall - commonly sigmoid colon. Common in developed world
 
@@ -3077,7 +3062,6 @@ Acute complications
 - Abscess
 - Perforation + haemorrhage
 
-
 Chronic Complications
 
 - intestinal obstruction-
@@ -3085,7 +3069,7 @@ Chronic Complications
 
 ---
 
-# Colorectal polyps
+## Colorectal polyps
 
 Kinda opposite to diverticulitis - mucosal protrusion into lumen. Solitary or multiple, pedunculated, sessile or flat, small or large, due to pathology deeper in bowel wall
 
@@ -3095,7 +3079,7 @@ Kinda opposite to diverticulitis - mucosal protrusion into lumen. Solitary or mu
 
 ---
 
-# Colorectal cancer
+## Colorectal cancer
 
 3rd most common cancer (behind lung, breast/prostate) - TNM
 
@@ -3110,7 +3094,7 @@ Most common moderately well differentiated adenocarcinoma (mucious in 10-20%) in
 
 ---
 
-# [[Jaundice]]
+## [[Jaundice]]
 
 Bilirubin produced in spleen is unconjugated (insoluble). Needs to be processed by liver to make it soluble. If this doesn't happen unconjugated bilirubin builds up causes jaundice
 
@@ -3124,9 +3108,9 @@ Blood tests: LFTs (ALT, AST, ALP, bilirubin, albumin)
 
 ---
 
-# [[Hepatitis]]
+## [[Hepatitis]]
 
-## Acute
+### Acute
 
 Inflammation, virus, drugs, autoimmune, toxin/metabolic
 
@@ -3136,7 +3120,7 @@ Symptoms: asymptomatic, malaise, jaundice, encephalopathy
 
 ---
 
-## Chronic
+### Chronic
 
 Caused by something that doesn't go away - often a/w fibrosis, balance of damage and attempts at repair
 
@@ -3148,14 +3132,14 @@ Caused by something that doesn't go away - often a/w fibrosis, balance of damage
 
 ---
 
-### Viral
+#### Viral
 
 - Hepatitis viruses
 - EBV
 - CMV
 - HSV
 
-### Alcohol
+#### Alcohol
 
 - Fatty change (steatosis) - may be due to alcohol AFLD
 - Cirrhosis
@@ -3164,7 +3148,7 @@ Significant driver of mortality from liver disease
 
 ---
 
-### [[Non-alcoholic Fatty Liver Disease]]
+#### [[Non-alcoholic Fatty Liver Disease]]
 
 Now the most common cause of liver disease
 
@@ -3172,7 +3156,7 @@ Now the most common cause of liver disease
 - a/w _"Metabolic syndrome"_ - obesity, T2DM, hyperlipidaemia
 - Tx address cause of metabolic syndrome
 
-### Hepato-toxic drugs
+#### Hepato-toxic drugs
 
 - Iatrogenic - rare but still commonest cause of acute liver failure
 - Self-administered - paracetamol overdose (glutathione depletion)
@@ -3184,7 +3168,7 @@ Any drug can cause liver injury. But the same drug can cause different injury in
 **Intrinsic** - every time, predictable eg paracetamol
 **Idiosyncratic** - rare, unpredictable eg metabolic or immunological
 
-### Inherited - Haemochromatosis
+#### Inherited - Haemochromatosis
 
 Inborn error of iron metabolism causing accumulation in:
 
@@ -3201,7 +3185,7 @@ Inborn error of iron metabolism causing accumulation in:
 
 ---
 
-### Inherited - Wilson's disease
+#### Inherited - Wilson's disease
 
 Inborn error of copper metabolism that usually presents at a younger age. Copper accumulates in:
 
@@ -3214,7 +3198,7 @@ Treat with copper chelation and excretion enhancement (penicillamine)
 
 ---
 
-### Inherited - Alpha 1 antitrypsin deficiency
+#### Inherited - Alpha 1 antitrypsin deficiency
 
 Abnormal anti-protease which cannot be exported from hepatocyte
 
@@ -3223,7 +3207,7 @@ Abnormal anti-protease which cannot be exported from hepatocyte
 
 ---
 
-### Autoimmune liver disease
+#### Autoimmune liver disease
 
 - F > M with autoantibodies and plasma cells interfacing
 - Can cause acute liver failure (transplant) or chronic disease (cirrhosis)
@@ -3235,7 +3219,7 @@ Abnormal anti-protease which cannot be exported from hepatocyte
 
 ---
 
-# Hepatic failure
+## Hepatic failure
 
 Acute - rare severe rapid liver injury
 
@@ -3250,7 +3234,7 @@ Chronic - end stage chronic liver disease
 
 ---
 
-# Liver function tests
+## Liver function tests
 
 | Test                                | Description                                                                                                                                              |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3263,12 +3247,12 @@ Chronic - end stage chronic liver disease
 
 ---
 
-# [[Pancreatitis]]
+## [[Pancreatitis]]
 
 Acute - gland reverts to normal if underlying cause removed
 Chronic - irreversible loss of tissue
 
-### Acute
+#### Acute
 
 - Relatively common - damage to exocrine parenchyma
 - Gallstones (50%), alcohol (25%), idopathic (10%)
@@ -3283,7 +3267,7 @@ Chronic - irreversible loss of tissue
 
 ---
 
-# Chronic pancreatitis
+## Chronic pancreatitis
 
 - Irreversible destruction of exocrine tissue (replaced with fibrosis that can mimic carcinoma) followed by destruction of endocrine -
 - Malnutrition and diabetes, pain
@@ -3297,7 +3281,7 @@ Chronic - irreversible loss of tissue
 
 ---
 
-# Pancreatic ductal adenocarcinoma
+## Pancreatic ductal adenocarcinoma
 
 - Most common pancreatic cancer - usually in head of pancreas
 - $\uparrow$ risk with chronic pancreatitis, DM, alcohol
@@ -3305,7 +3289,7 @@ Chronic - irreversible loss of tissue
 
 ---
 
-# Pancreatic carcinoma
+## Pancreatic carcinoma
 
 - Almost universially fatal
 - Cancers in head can invade common bile duct and pancreatic duct $\rightarrow$ + surrounding structures
@@ -3313,7 +3297,7 @@ Chronic - irreversible loss of tissue
 
 ---
 
-# Pancreatic Neuroendocrine Tumours
+## Pancreatic Neuroendocrine Tumours
 
 - Uncommon
 - Derived from islet cells - so symptoms depend of endocrine effects
@@ -3322,7 +3306,7 @@ Chronic - irreversible loss of tissue
 
 ---
 
-# Metabolic changes following trauma
+## Metabolic changes following trauma
 
 1. Shock - blood loss, poor blood flow, low oxygen supply - catecholamines
 
@@ -3332,7 +3316,7 @@ Chronic - irreversible loss of tissue
 
 ---
 
-# Foodbourne GI infections
+## Foodbourne GI infections
 
 Ingestion of toxins from pathogen - rapid onset of womiting nausea, diarrhoea, etc. Non-communicable. From improper food handling
 
