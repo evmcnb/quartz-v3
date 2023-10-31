@@ -1,8 +1,11 @@
 ---
-tags: Cardiovascular
+tags:
+  - Cardiovascular
 title: Cardiovascular drugs
 date created: Thursday, October 26th 2023, 11:57:16 am
 date modified: Thursday, October 26th 2023, 10:13:46 pm
+aliases:
+  - Cardio drugs
 ---
 # Anti-arhythmic classes
 
