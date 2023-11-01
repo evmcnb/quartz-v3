@@ -2168,9 +2168,6 @@ Complication of Group A Strep pharyngitis (Strep pyogenes)
   Asymptomatic neurosyphilis can occur at any stage
 
 ---
-
-<!-- _class: lead invert -->
-
 ## Endocrine
 
 ---

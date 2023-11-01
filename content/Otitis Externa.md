@@ -31,8 +31,6 @@ Ear canal is the only skin-lined cul-de-sac in the body
 
 - Inflammation of the external ear canal presenting with a combination of otalgia, pruritus and non-mucoid ear discharge
 
-## Signs
-
 ## Diagnostic Tests
 
 - History
@@ -40,6 +38,9 @@ Ear canal is the only skin-lined cul-de-sac in the body
 - Ear swab or pus sample for culture
 
 ## Management
+
+- Topical antibiotic
+- Corticosteroid
 
 ## Complications/red Flags
 
