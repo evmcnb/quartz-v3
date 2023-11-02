@@ -9,7 +9,7 @@ Pleural effusion is a medical condition characterized by the accumulation of exc
 
 Pleural effusion can result from various underlying causes, including:
 
-1. **Infections:** Bacterial, viral, or fungal infections affecting the lungs, such as [[pneumonia]] or [[tuberculosis]].
+1. **Infections:** Bacterial, viral, or fungal infections affecting the lungs, such as [[pneumonia]] or [[Tuberculosis]].
 2. **Congestive [[Heart Failure]]:** Weakened heart function can lead to fluid accumulation in the lungs.
 3. **Cancer:** Lung cancer, breast cancer, and other cancers can cause pleural effusion.
 4. **[[pulmonary embolism]]:** Blood clots in the lungs can lead to inflammation and fluid buildup.
