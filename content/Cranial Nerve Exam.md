@@ -14,9 +14,9 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 - Gain consent to continue
 - Ask if patient in any **pain** before continuing
 
-## Olfactory Nerve (1) and Glossopharyngeal (9)
+## Olfactory Nerve (1) and 
 
-##### Have You Noticed Any Change in Smell or Taste?
+- **Have You Noticed Any Change in Smell?**
 
 ## Optic Nerve (2)
 
@@ -43,15 +43,6 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ##### Check Pupillary Reflexes
 
 - Direct and consensual
-
-
-#### Vagus (10) and Hypoglossal (12)
-
-While you have the light in your hand might as well assess other things that require it
-
-- Ask patient to open their mouth and say ahh
-- Ask patient to stick out their tongue
-- Check for any deviation
 
 ##### Say You Would Assess Colour Using Ishihara Chart
 
@@ -128,6 +119,17 @@ Used in conjunction with Rinne's test to rule out unilateral deafness
 - Place tuning fork in the centre of the patient's forehead and ask whether they can hear this equally on both sides or more on one side.
 - If its louder in one ear it could mean either an ipsilateral conductive hearing loss or contralateral sensorineural hearing loss
 
+## Glossopharyngeal (9)
+
+- **Have you experienced any changes in taste?**
+
+#### Vagus (10) and Hypoglossal (12)
+
+While you have the light in your hand might as well assess other things that require it
+
+- Ask patient to open their mouth and say ahh - palate should rise equally (vagus)
+- Ask patient to stick out their tongue and move side to side (hypoglossal)
+- Check for any deviation
 ## Accessory Nerve (11)
 
 ##### Test Power of Shoulder Shrug and Neck Turning
@@ -139,5 +141,3 @@ Accessory supplies trapezius and sternocleidomastoid muscles
 - **Thank the patient** for their time.
 - **Dispose of PPE** appropriately and **wash your hands**.
 - **Summarise** your findings.
-
-## Further Assessments and Investigations

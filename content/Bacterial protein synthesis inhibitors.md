@@ -9,6 +9,7 @@ date modified: Wednesday, October 4th 2023, 12:31:40 pm
 ## Aminoglycosides
 _Gentamicin, Tobramycin, Amikacin_
 - For Gram -ve infections ($\downarrow$ activity against most Gram +ve and anaerobes)
+- Gentamicin used for eye infections, [[Otitis Externa]] along with other combination uses
 - Poor GI absorption
 - **Tobramycin** has $\uparrow$ activity against Pseudomonas
 - Amikacin has least resistance
