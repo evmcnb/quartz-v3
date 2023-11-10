@@ -40,6 +40,7 @@ Ear canal is the only skin-lined cul-de-sac in the body
 ## Management
 
 - Topical antibiotic
+- Gentamicin
 - Corticosteroid
 
 ## Complications/red Flags

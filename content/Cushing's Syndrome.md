@@ -30,7 +30,7 @@ Pituitary adenoma releasing ACTH $\rightarrow \uparrow$ cortisol release
 - High blood pressure
 - Skin changes - fragile with stretch marks
 - Mood changes - irritability & anxiety
-- Osteoporosis
+- [[osteoporosis]]
 - Menstrual irregularities
 - Hirsutism
 - Glucose intolerance
@@ -56,6 +56,6 @@ Pituitary adenoma releasing ACTH $\rightarrow \uparrow$ cortisol release
 
 ## Complications/red Flags
 
-- Osteoporosis
+- [[osteoporosis]]
 - Suppressed immune function $\rightarrow$ increased infection risk
 - Cardiovascular complications - due to the high blood pressure

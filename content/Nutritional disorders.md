@@ -40,13 +40,13 @@ Causes blindness, very common in tropics. Conjunctivae become dry and develop ov
 | Vit D\*                | Jejunum as free vit      | [[Rickets]]                                      |
 | Vit E\*                | Small intestine          | Haemolysis, neurological deficit                 |
 | Vit K\*                | Small intestine          | Bleeding disorders                               |
-| Folic acid             | Jejunum                  | [[Macrocytic anaemia]]                           |
+| Folic acid             | Jejunum                  | [[Anaemia]]                           |
 | Nicotinamide           | Jejunum                  | Pellagra                                         |
 | Calcium                | Duodenum + jejunum       | See hypo/hypercalcemia                           |
 | Copper                 | Stomach + jejunum        | Menkes' kinky hair syndrome                      |
 | Fluoride               | Stomach                  | Dental caries                                    |
 | Iodide                 | Small intestine          | Goitre; cretinism                                |
-| Iron                   | Duodenum + jejunum       | [[Microcytic anaemia]]                           |
+| Iron                   | Duodenum + jejunum       | [[Anaemia]]                           |
 | Magnesium              | Small intestine          | See hypo/hypermagnesemia                         |
 | Phosphate              | Small intestine          | [[osteoporosis]]                                 |
 | Selenium               | Small intestine          | Cardiomyopathy                                   |

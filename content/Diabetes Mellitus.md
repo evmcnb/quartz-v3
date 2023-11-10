@@ -5,7 +5,7 @@ date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ---
 
-- type 1 diabetes – where the body's immune system attacks and destroys the cells that produce insulin
+- type 1 diabetes – where the body's immune system attacks and destroys the cells that produce insulin ^7f5ee9
   - Latent autoimmune diabetes in adults
 - type 2 – where the body does not produce enough insulin, or the body's cells do not react to insulin
   - Maturity onset DM of the young (MODY)

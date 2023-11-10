@@ -40,6 +40,7 @@ Complicated
 ## Management
 
 - If not unwell watch and treat symptomatically
+- Amoxicillin 
 
 ## Complications/red Flags
 

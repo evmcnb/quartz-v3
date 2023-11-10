@@ -60,6 +60,6 @@ Hyperthyroidism is a medical condition characterized by excessive production of 
 ## Complications/Red Flags
 
 - **Thyroid Storm:** A life-threatening condition characterized by a sudden, severe worsening of hyperthyroid symptoms, which requires immediate medical attention.
-- **Osteoporosis:** Long-term hyperthyroidism can lead to bone loss and an increased risk of fractures.
+- **[[osteoporosis]]:** Long-term hyperthyroidism can lead to bone loss and an increased risk of fractures.
 - **Heart Problems:** Untreated hyperthyroidism can strain the heart, leading to heart rhythm abnormalities and potential heart failure.
 - **[[Pregnancy]] Complications:** Hyperthyroidism during pregnancy requires careful management to prevent harm to both the mother and the baby.
