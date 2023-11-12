@@ -30,7 +30,7 @@ Defined as when cardiac output is inadequate for the body's normal requirements.
 **Low-output heart failure** - $\downarrow$ CO which fails to increase on exercise. Causes
 - Excessive pre-load: mitral regurgitation or fluid overload
 - Pump failure: systolic/diastolic heart failure, $\downarrow$ HR (eg $\beta$ blockers)
-- Chronic excess afterload: aortic stenosis, hypertension
+- Chronic excess afterload: aortic stenosis, [[Essential hypertension|hypertension]]
 
 **High-output heart failure** - rare, normal or increase CO with demand
 ## Causes/Factors

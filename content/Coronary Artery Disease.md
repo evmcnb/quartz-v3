@@ -15,7 +15,7 @@ Coronary artery disease is a narrowing or blockage of your coronary arteries usu
 
 **_Atherosclerosis_**
 
-- hypertension
+- [[Essential hypertension|Hypertension]]
 - hypercholesterolemia
 - high LDL-A
 - poor exercise

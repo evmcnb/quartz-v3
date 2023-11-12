@@ -13,6 +13,7 @@ Where a blood clot forms in a deep vein usually due to pooling of that blood due
   - Stasis of blood
   - Endothelial damage
   - Hypercoagulability
+
 - Age
 - Genetic ([[Factor V Leiden]])
 - [[Pregnancy]]
@@ -21,7 +22,7 @@ Where a blood clot forms in a deep vein usually due to pooling of that blood due
 - Cancer
 - past DVT
 - smoking
-- hypertension (sheering force on vessels)
+- [[Essential hypertension|Hypertension]] (sheering force on vessels)
 - [[Diabetes Mellitus]]
 - obesity
 

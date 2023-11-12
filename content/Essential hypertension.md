@@ -6,6 +6,7 @@ date created: Tuesday, October 17th 2023, 4:07:47 pm
 date modified: Thursday, October 26th 2023, 10:23:10 pm
 aliases:
   - hypertension
+  - Hypertension
 ---
 95% of all hypertension without a clear underlying medical cause. It is the most important risk factor for pre-mature death and CVD. 
 

@@ -21,7 +21,7 @@ date modified: Wednesday, August 2nd 2023, 10:19:48 pm
 - **Hematuria:** Blood in the urine, giving it a pink or brown color.
 - **Only mild proteinuria** 
 - **Oedema** 
-- **Hypertension** 
+- **[[Essential hypertension|Hypertension]]** 
 - **Reduced urine output:** renal failure
 
 ## Diagnostic Tests

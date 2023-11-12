@@ -21,7 +21,7 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 - Age
 - Family history of [[Coronary Artery Disease]]
 - Smoking
-- Hypertension
+- [[Essential hypertension|Hypertension]]
 - [[Familial hypercholesterolaemia]]
 - Hyperlipidaemia
 - Obesity

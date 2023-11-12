@@ -7,19 +7,20 @@ tags:
 ---
 ## Lead Placement
 
-| Lead       | Position                                                              |
-| ---------- | --------------------------------------------------------------------- |
-| V1         | Right 4th intercostal space                                           |
-| V2         | Left 4th intercostal space                                            |
-| V4         | 5th intercostal space mid-clavicular line                             |
-| V3         | Midway between V2 and V4                                              |
-| V6         | Left mid-axillary line                                                |
-| V5         | Midway between V4 and V6 at level of V4                               |
-| Limb leads | Bony prominence on each limb (ulnar styloid process/medial malleolus) |
+| Lead       | Position                                                              | Heart territory |
+| ---------- | --------------------------------------------------------------------- | --------------- |
+| V1         | Right 4th intercostal space                                           | Anterioseptal   |
+| V2         | Left 4th intercostal space                                            |       Anterioseptal          |
+| V4         | 5th intercostal space mid-clavicular line                             |           Lateral      |
+| V3         | Midway between V2 and V4                                              |    Anterioseptal             |
+| V6         | Left mid-axillary line                                                |        Lateral         |
+| V5         | Midway between V4 and V6 at level of V4                               |     Lateral            |
+| Limb leads | Bony prominence on each limb (ulnar styloid process/medial malleolus) |                 |
 
 
 ![[z_attachments/Pasted image 20231014210912.png|300]]
 
+![[z_attachments/Pasted image 20231112163511.png|475]]
 ## Interpretation
 
 #### 1. Confirm details

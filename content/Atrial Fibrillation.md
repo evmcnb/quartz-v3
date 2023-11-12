@@ -11,7 +11,7 @@ Main risk is from clots forming from pooling blood in atria leading to ischaemic
 
 ## Causes/Factors
 
-- Hypertension
+- [[Essential hypertension|Hypertension]]
 - [[Coronary Artery Disease]]
 - Excessive alcohol consumption
 - [[Hyperthyroidism]]

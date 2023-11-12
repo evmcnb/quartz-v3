@@ -41,7 +41,7 @@ Two most common:
 ###### Paraneoplastic Syndromes
 
 - Weight loss "cancer cachexia"
-- Hypertension
+- [[Essential hypertension|Hypertension]]
 - Polycythaemia
 
 ## Diagnostic Tests

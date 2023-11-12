@@ -37,7 +37,7 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 - **Migraine**
 
 ## Modifiable risk factors
-- Hypertension
+- [[Essential hypertension|Hypertension]]
 - Smoking
 - [[Diabetes Mellitus]]
 - [[Atrial Fibrillation]]

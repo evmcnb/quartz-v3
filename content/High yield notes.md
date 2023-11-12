@@ -1944,7 +1944,7 @@ Blood markers:
 
 ---
 
-## Hypertension
+## [[Essential hypertension|Hypertension]]
 
 Sustained systolic **140+** or diastolic **90+**
 

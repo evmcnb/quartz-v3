@@ -20,7 +20,7 @@ Peripheral arterial disease (PAD) is where a build-up of fatty deposits in the a
 
 - Smoking
 - Obesity
-- hypertension
+- [[Essential hypertension|hypertension]]
 - etc
 
 ## Symptoms

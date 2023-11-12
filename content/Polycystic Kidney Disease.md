@@ -28,7 +28,7 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 
 ## Symptoms
 
-- **Hypertension:** Elevated blood pressure.
+- **[[Essential hypertension|Hypertension]]:** Elevated blood pressure.
 - **Pain:** Abdominal or back pain due to enlarged kidneys and cysts.
 - **Hematuria:** Blood in the urine.
 - **Urinary Tract Infections:** Due to cysts obstructing normal urine flow.

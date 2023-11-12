@@ -28,7 +28,7 @@ Glomerulonephritis, often referred to as GN, is a group of kidney diseases that 
 - [[Acute Kidney Injury]]
 - **haematuria** present
 - proteinuria (non-nephrotic)
-- hypertension
+- [[Essential hypertension|hypertension]]
 - Post-streptococcal
 - Vasculitis
 

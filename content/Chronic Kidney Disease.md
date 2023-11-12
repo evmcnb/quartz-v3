@@ -16,7 +16,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ## Causes/Factors
 
 - [[Diabetes Mellitus]]
-- Hypertension
+- [[Essential hypertension|Hypertension]]
 - Age 75+
 - [[Glomerulonephritis]]
 - Obstruction of kidney (without acute effect)
