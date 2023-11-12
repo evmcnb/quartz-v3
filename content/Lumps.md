@@ -160,4 +160,4 @@ If a lump is intradermal you cannot draw the skin over it, while if the lump is 
 - Fast-growing benign, self-limitting papule plugged with keratin
 - May be confused with [[Squamous cell carcinoma]]
 
-![[z_attachments/Pasted image 20231110132935.png]]
+![[z_attachments/Pasted image 20231110132935.png|475]]
