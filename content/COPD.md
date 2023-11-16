@@ -13,13 +13,13 @@ date modified: Wednesday, August 2nd 2023, 7:11:14 pm
 
 Pink puffers and blue bloaters - likely ends of the spectrum:
 
-**Pink puffers**
+**Pink puffers - emphysema**
 
 - have $\uparrow$ alveolar ventilation near normal $PaO_2$ and a normal or low $PaCO_2$
 - breathless but not cyanosed
 - may progress to [[Respiratory Failure#Type I]]
 
-**Blue bloaters**
+**Blue bloaters - chronic bronchitis**
 
 - have $\downarrow$ alveolar ventilation with a low $PaO_2$ and a normal or low $PaCO_2$
 - cyanosed but not breathless
