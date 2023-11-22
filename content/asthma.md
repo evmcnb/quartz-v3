@@ -38,13 +38,17 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 - Sputum culture
 - ABG: $\downarrow PaO_2$ but also $\downarrow PaCO_2$ (hyperventilation)- \*\*if $\uparrow PaCO_2$ failing respiratory
 - Spirometry: decreased $FEV_1/FVC$ ratio
+- Peak flow - less than predicated or best
+	- Moderate - 50-75%
+	- Acute severe - 33-50%
+	- Life-threatening - <33%
 
 ## Management
 
 - Lifestyle/environment changes
-- SABA
-- $\beta_2$ agonist
-- Corticosteroids
+- SABA/LABA
+- Corticosteroids - prednisolone 40mg od for exacerbation  
+
 - Magnesium sulphate
 - Aminophylline
 - Anti-IgE antibody (v rarely)
