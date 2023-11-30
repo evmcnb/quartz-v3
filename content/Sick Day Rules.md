@@ -13,5 +13,5 @@ OSCE stations could sneakily ask you write up a drug chart for a dehydrated pati
 
 **M**etformin - dehydration increases the risk of lactic acidosis
 **A**CEi/**A**RBs - impair kidney function
-**N**SAIDs - impair kidney function
+**N**SAIDs - impair kidney function, may cause fluid retention
 **D**iuretics - worsen dehydration 

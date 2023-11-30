@@ -2462,8 +2462,6 @@ Dehydration
 
 ## Paget's Disease of Bone
 
-<div class="twocols">
-
 - Rapid bone turnover and formation - $\uparrow$ ALP
 - Abnormal bone remodelling mainly in over 50 year old
 - Bone pain, deformity, fractures, arthritis
@@ -2471,7 +2469,6 @@ Dehydration
 
 ![right](pagets.png)
 
-</div>
 
 - Most commonly affects pelvis, femur and lower lumbar vertebrae
 

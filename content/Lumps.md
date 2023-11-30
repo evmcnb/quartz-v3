@@ -4,7 +4,25 @@ title: Lumps
 date created: Friday, November 10th 2023, 12:48:36 pm
 date modified: Friday, November 10th 2023, 12:48:56 pm
 ---
+## Terminology
 
+| Term            | Definition                                                                                                 |
+| --------------- | ---------------------------------------------------------------------------------------------------------- |
+| Abscess         | local accumulation of pus                                                                                  |
+| Bulla           | raised circumscribed lesion >5mm containing serous fluid (blister) above the dermis                        |
+| Comedone        | plug of dead epithelial material blocking pore: open (blackhead) or closed (whitehead)                     |
+| Erythema        | blanchable redness of the skin that can be localised or generalised (dilation of BVs and capillaries)      |
+| Excoriation     | scratch which has broken the surface of skin                                                               |
+| Lichenification | skin thickening with exaggerated skin markings as a result of repeated rubbing                             |
+| Macule          | flat well-defined area of altered skin pigmentation. Areas >10mm are described as patches                  |
+| Nodule          | solid, palpable usually subcutaneous lesion >5mm                                                           |
+| Papule          | raised well defined lesion <5mm                                                                            |
+| Plaque          | raised flat-topped lesion >20mm                                                                            |
+| Purpura         | non blanching violaceous (purplish) discolouration of the skin due to blood that has extravasated from BVs |
+| Pustule         | raised well defined lesion containing pus                                                                  |
+| PUVA            | psoralen plus Ultraviolet A                                                                                |
+| Vesicle         | blister <5mm                                                                                               |
+| Weal            | transient lraised lesion with a pale centre and pink margin                                                                                                            |
 # History & Exam
 
 - How long has it been there? 
