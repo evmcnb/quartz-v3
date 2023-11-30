@@ -2683,11 +2683,11 @@ Pleomorphic salivary adenoma
 
 ---
 
-## [[exzema]]
+## [[Atopic dermatitis (eczema)]]
 
 A reaction pattern rather than a specific disease
 
-Acute - red weeping +/- smmall vesicles
+Acute - red weeping +/- small vesicles
 Subacute - red less exudate crusting
 Chronic - thick leathery skin due to itching
 
