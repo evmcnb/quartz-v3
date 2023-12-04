@@ -18,50 +18,44 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 #### Clinical Signs
 
-- Age - younger [[Cystic Fibrosis]], older [[COPD]], [[interstitial lung disease]] or malignancy
-- Cyanosis
+- <span style="color:#ff0000">Cyanosis</span>
 - Shortness of breath
-- Cough - wet: [[pneumonia]], [[bronchiectasis]], [[COPD]], [[Cystic Fibrosis]] dry: [[asthma]], [[interstitial lung disease]]
+- <span style="color:#ff0000">Cough</span> - wet: [[pneumonia]], [[bronchiectasis]], [[COPD]], [[Cystic Fibrosis]] dry: [[asthma]], [[interstitial lung disease]]
 - Wheeze/stridor
-- Pallor
-- Oedema
-- Cachexia - malignancy and other end-stage respiratory diseases
+- <span style="color:#ff0000">Pallor</span>
+- <span style="color:#ff0000">Oedema</span>
+- <span style="color:#ff0000">Cachexia</span> - <span style="color:#00ffff">malignancy and other end-stage respiratory diseases</span>
 
 #### Objects and Equipment
 
-- Oxygen delivery devices - type & rate
-- Sputum pot
-- Other medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access
-- Cigs or vapes
-- Mobility aids
-- Vital sign charts
-- Fluid balance charts
-- Prescription
-
+- <span style="color:#ff0000">Oxygen delivery devices</span> - type & rate
+- <span style="color:#ff0000">Sputum pot</span>
+- <span style="color:#ff0000">Other medical equipment </span>- oxygen, ECG, medications, catheters (note volume and colour), IV access
+- <span style="color:#ff0000">Cigs or vapes</span>
 ## Hands
 
 #### Inspection
 
-- **Colour:** cyanosis of the hands may suggest underlying hypoxaemia.
-- **Tar staining:** caused by smoking, a significant risk factor for respiratory disease (e.g. COPD, lung cancer).
-- **Skin changes:** bruising and thinning of the skin can be associated with long-term steroid use (e.g. asthma, COPD, interstitial lung disease).
-- **Joint swelling or deformity:** may be associated with rheumatoid arthritis which has several extra-articular manifestations that affect the respiratory system (e.g. pleural effusions/pulmonary fibrosis).
+- <span style="color:#ff0000">Colour</span>: cyanosis of the hands may suggest underlying <span style="color:#00ffff">hypoxaemia</span>.
+- **<span style="color:#ff0000">Tar staining:</span>** caused by smoking, a significant risk factor for respiratory disease (e.g. <span style="color:#00ffff">COPD, lung cancer</span>).
+- **<span style="color:#ff0000">Skin changes:</span>** bruising and thinning of the skin can be associated with <span style="color:#00ffff">long-term steroid use (e.g. asthma, COPD, interstitial lung disease)</span>.
+- <span style="color:#ff0000">Joint swelling or deformity:</span> may be associated with <span style="color:#00ffff">rheumatoid arthritis</span> which has several extra-articular manifestations that affect the respiratory system (e.g. <span style="color:#00ffff">pleural effusions/pulmonary fibrosis</span>).
 
 ##### Finger [[Clubbing]]
 
-Most likely causes to come up in abdo exam OSCE is [[Lung Tumours]], [[interstitial lung disease]], [[Cystic Fibrosis]], [[bronchiectasis]]
+Most likely causes to come up in resp exam OSCE is [[Lung Tumours]], [[interstitial lung disease]], [[Cystic Fibrosis]], [[bronchiectasis]]
 
 - Schamroth’s window test
 
 ##### Fine Tremor
 
-Ask the patient to hold out their hands in an outstretched position and observe for a fine tremor which is typically associated with **beta-2-agonist** use (e.g. salbutamol).
+Ask the patient to hold out their hands in an <span style="color:#ff0000">outstretched position and observe for a fine tremor</span> which is typically associated with **beta-2-agonist** use (e.g. <span style="color:#00ffff">salbutamol</span>).
 
 ##### Asterixis (flapping tremor)
 
-In context of resp exam most likely underlying cause is $CO_2$ retention due to [[Respiratory Failure#Type II|Type II respiratory failure]]. [[Hepatic encephalopathy]] and uraemia are other causes
+In context of resp exam most likely underlying cause is $CO_2$ <span style="color:#ff0000">retention</span> due to [[Respiratory Failure#Type II|Type II respiratory failure]]. [[Hepatic encephalopathy]]<span style="color:#00ffff"> and uraemia are other causes</span>
 
-- Ask patient to stick arms out and cock hands back for 30 seconds
+- <span style="color:#ff0000">Ask patient to stick arms out and cock hands back for 30 seconds</span>
 
 ##### Temperature
 
@@ -69,11 +63,30 @@ Place dorsal aspect of your hand onto patients to assess temperature
 
 ##### Radial Pulse - Rhythm and Rate
 
+<span style="color:#ff0000">Bounding and tachycardic</span> in <span style="color:#00ffff">CO2 retention</span>
 - 30 seconds and x2
 
 ##### Respiratory Rate
 
 Whilst still palpating the radial pulse assess the patient's respiratory rate. Note any asymmetries in expiratory and inspiratory phases
+- Report <span style="color:#ff0000">breathing pattern and respiratory effort.</span><span style="color:#00ffff"> Asymmetries in breathing , tachypnoea, bradypnoea 
+</span>
+
+## Face
+
+#### General
+
+- <span style="color:#ff0000">Plethoric complexion</span>: a congested red-faced appearance associated with <span style="color:#00ffff">polycythaemia</span> (e.g. [[COPD]]) and $CO_2$ <span style="color:#00ffff">retention</span> (e.g. [[Respiratory Failure#Type II|type II respiratory failure]]).
+
+#### Eyes
+
+- <span style="color:#ff0000">Conjunctival pallor</span>: suggestive of underlying anaemia*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
+- <span style="color:#ff0000">Ptosis, miosis and enophthalmos</span>: all features of [[Horner's Syndrome]] (anhydrosis is another important sign associated with the syndrome). <span style="color:#00ffff">Horner’s syndrome</span> occurs when the <span style="color:#00ffff">sympathetic trunk is damaged by pathology such as lung cancer affecting the apex of the lung</span> (e.g. Pancoast tumour).
+
+#### Mouth
+
+- <span style="color:#ff0000">Central cyanosis</span>: bluish discolouration of the lips and/or the tongue associated with <span style="color:#00ffff">hypoxaemia</span>.
+- <span style="color:#ff0000">Oral candidiasis</span>: a fungal infection commonly associated with<span style="color:#00ffff"> steroid inhaler</span> use (due to local immunosuppression). It is characterised by <span style="color:#00ffff">pseudomembranous white slough</span> which can be easily wiped away to reveal underlying erythematous mucosa.
 
 ## Neck
 
@@ -81,7 +94,7 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 
 ##### Jugular Venous Pressure
 
-Indirect measure of central venous pressure (IJV connects to right atrium without any valves). Raised JVP indicates **venous hypertension** $\rightarrow$ pulmonary hypertension $\rightarrow$ [[Heart Failure|right-sided heart failure]]
+Indirect measure of <span style="color:#00ffff">central venous pressure</span> (IJV connects to right atrium without any valves). Raised JVP indicates **venous hypertension** $\rightarrow$ pulmonary hypertension $\rightarrow$ [[Heart Failure|right-sided heart failure]]
 
 1. Position the patient in a semi-recumbent position (at 45°).
 2. Ask the patient to turn their head slightly to the left
@@ -90,16 +103,16 @@ Indirect measure of central venous pressure (IJV connects to right atrium withou
 
 ##### Hepatojugular Reflux Test (not Performed in an OSCE)
 
-The hepatojugular reflux test involves the application of pressure to the liver whilst observing for a sustained rise in JVP.
+The hepatojugular reflux test involves the <span style="color:#ff0000">application of pressure to the liver</span> whilst observing for a sustained rise in JVP.
 
 - In healthy individuals, this rise should last **no longer than 1-2 cardiac cycles** (it should then fall).
-- If the rise in JVP is **sustained** and **equal to or greater than 4cm** this is deemed a **positive result**.
+- If the rise in JVP is <span style="color:#00ffff">sustained and equal to or greater than 4cm</span> this is deemed a **positive result**.
 
 A **positive hepatojugular reflux result** suggests the **right ventricle is unable to accommodate an increased venous return**, but it is **not diagnostic** of any specific condition.
 
 ##### Trachea Position
 
-Anything that can shift the mediastinum can cause tracheal deviation
+<span style="color:#00ffff">Anything that can shift the mediastinum can cause tracheal deviation</span>
 
 1. Ensure patient neck is comfortable - position chin slightly downwards
 2. Dip your index finger into the thorax beside the trachea
@@ -111,49 +124,38 @@ Anything that can shift the mediastinum can cause tracheal deviation
 
 ##### Lymph Nodes
 
-Position patient upright and examine from behind if possible. Use pads of the 2nd, 3rd and 4th fingers to press and roll the lymph nodes to feel.
+Position patient upright and examine from behind if possible. <span style="color:#ff0000">Use pads of the 2nd, 3rd and 4th fingers to press and roll the lymph nodes to feel.</span>
 
-1. Inspect for any obvious evidence of lymphadenopathy
-2. Start in submental area and progress through various lymph node chains
-   ![|325](z_attachments/325.png)
+1. Submental
+2. Sub-mandibular
+3. Post and pre-auricular
+4. Occipital
+5. Anterior and posterior cervical
+6. Supraclavicular 
+
+![|325](z_attachments/325.png)
 
 Causes include [[Lung Tumours]] [[Tuberculosis]] and [[sarcoidosis]]
-
-## Face
-
-#### General
-
-- **Plethoric complexion:** a congested red-faced appearance associated with polycythaemia (e.g. [[COPD]]) and $CO_2$ retention (e.g. [[Respiratory Failure#Type II|type II respiratory failure]]).
-
-#### Eyes
-
-- **Conjunctival pallor:** suggestive of underlying anaemia*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
-- **Ptosis, miosis and enophthalmos:** all features of [[Horner's Syndrome]] (anhydrosis is another important sign associated with the syndrome). Horner’s syndrome occurs when the sympathetic trunk is damaged by pathology such as lung cancer affecting the apex of the lung (e.g. Pancoast tumour).
-
-#### Mouth
-
-- **Central cyanosis:** bluish discolouration of the lips and/or the tongue associated with hypoxaemia.
-- **Oral candidiasis:** a fungal infection commonly associated with steroid inhaler use (due to local immunosuppression). It is characterised by pseudomembranous white slough which can be easily wiped away to reveal underlying erythematous mucosa.
 
 ## Chest
 
 #### Inspection
 
-- Scars - check both axillae too
-- Chest wall deformities
+- <span style="color:#ff0000">Scars</span> - check both axillae too
+- <span style="color:#ff0000">Chest wall deformities</span>
   - Asymmetry
   - Pectus excavatum - caved-in or sunken appearance
   - Pectus carinatum - protrusion of the sternum and ribs
-  - hyperexpansion (barrel chest) associated with [[asthma]] and [[COPD]]
+  - <span style="color:#ff0000">hyperexpansion</span> (<span style="color:#ff0000">barrel chest</span>) associated with [[asthma]] <span style="color:#00ffff">and</span> [[COPD]]
 
 ##### Apex Beat
 
-- Typically located in 5th intercostal space in midclavicular line
+- Typically located in <span style="color:#ff0000">5th intercostal space in midclavicular line</span>
 - Displacement of apex beat from its usual location can occur due to anything that shifts mediastinum
 
 ##### Assess Chest Expansion
 
-Can be assessed either anteriorly or posteriorly
+<span style="color:#ff0000">Can be assessed either anteriorly or posteriorly</span>
 
 1. Place hands around patients chest inferior to the nipples
 2. Warp fingers around other side
@@ -161,39 +163,37 @@ Can be assessed either anteriorly or posteriorly
 4. Ask patient to breath in
 5. Movement of thumbs should move symmetrically upwards & outwards
 
+<span style="color:#00ffff">Pneumothorax/pleural effusion/collapsed lobe</span>
+### Percussion of Chest
+
 ![|400](z_attachments/400.png)
 ![|400](z_attachments/400-1.png)
 
-### Percussion of Chest
-
 - **Resonant:** a normal finding
-- **Dullness:** suggests increased tissue density (e.g. cardiac dullness, consolidation, tumour, lobar collapse).
-- **Stony dullness:** typically caused by an underlying [[Pleural Effusion]]
-- **Hyper-resonance:** the opposite of dullness, suggestive of decreased tissue density (e.g. [[pneumothorax]]).
+- <span style="color:#ff0000">Dullness</span>: suggests <span style="color:#00ffff">increased tissue density</span> (e.g. <span style="color:#00ffff">cardiac dullness, consolidation, tumour, lobar collapse</span>).
+- <span style="color:#ff0000">Stony dullness</span>: typically caused by an underlying [[Pleural Effusion]]
+- <span style="color:#ff0000">Hyper-resonance</span>: the opposite of dullness, suggestive of <span style="color:#00ffff">decreased tissue density</span> (e.g. [[pneumothorax]]).
 
 ### Auscultate Lung Fields
 
-Ask the patient to relax and breathe deeply in and out through their mouth
+<span style="color:#ff0000">Ask the patient to relax and breathe deeply in and out through their mouth</span>
 
-- Apices should be auscultated through the bell
-- Auscultate symmetrically
-  Normal vesicular breathing:
+Normal vesicular breathing:
   ![[z_attachments/normal breathing.mp3|normal breathing]]
-
 #### Quality of Breath Sounds
 
-- **Vesicular:** the normal quality of breath sounds in healthy individuals.
-- **Bronchial:** harsh-sounding (similar to auscultating over the trachea), inspiration and expiration are equal and there is a pause between. This type of breath sound is associated with consolidation.
+- Vesicular: the normal quality of breath sounds in healthy individuals.
+- <span style="color:#ff0000">Bronchial</span>: <span style="color:#00ffff">harsh-sounding</span> (similar to auscultating over the trachea), inspiration and expiration are equal and there is a pause between. This type of breath sound is associated with <span style="color:#00ffff">consolidation</span>.
 
 #### Added Sounds
 
-- **Wheeze:** often associated with [[asthma]], [[COPD]] and [[bronchiectasis]] - **lower airways**
+- <span style="color:#ff0000">Wheeze</span>: often associated with [[asthma]], [[COPD]] and [[bronchiectasis]] - <span style="color:#00ffff">lower airways</span>
   ![[z_attachments/wheeze.mp3|wheeze]]
-- **Stridor:** a high-pitched extra-thoracic breath sound resulting from turbulent airflow through narrowed **upper airways**. Stridor has a wide range of causes, including foreign body inhalation (acute) and subglottic stenosis (chronic).
+- <span style="color:#ff0000">Stridor</span>: a <span style="color:#00ffff">high-pitched extra-thoracic breath</span> sound resulting from turbulent airflow through <span style="color:#00ffff">narrowed upper airways</span>. Stridor has a wide range of causes, including foreign body inhalation (acute) and subglottic stenosis (chronic).
   ![[z_attachments/inspiratory stridor.mp3|inspiratory stridor]]
-- **Coarse crackles:** associated with [[pneumonia]], [[bronchiectasis]] and pulmonary oedema.
+- <span style="color:#ff0000">Coarse crackles</span>: associated with [[pneumonia]], [[bronchiectasis]] <span style="color:#00ffff">and pulmonary oedema</span>.
   ![[z_attachments/coarse crackles.mp3|coarse crackles]]
-- **Fine end-inspiratory crackles:**  associated with [[pulmonary fibrosis]]
+- <span style="color:#ff0000">Fine end-inspiratory crackles</span>:  associated with [[pulmonary fibrosis]]
   ![[z_attachments/fine crackles.mp3|fine crackles]]
 
 ##### Vocal Resonance
@@ -201,9 +201,9 @@ Ask the patient to relax and breathe deeply in and out through their mouth
 1. Ask the patient to say "99" each time stethoscope is placed down in the same tone
 2. Auscultate all major regions comparing each side
 
-**Increased volume** over an area suggests increased tissue density (e.g. consolidation, tumour, lobar collapse).
+<span style="color:#ff0000">Increased volume</span> over an area suggests <span style="color:#00ffff">increased tissue density</span> (e.g. consolidation, tumour, lobar collapse).
 
-**Decreased volume** over an area suggests the presence of fluid or air outside of the lung (e.g. pleural effusion, pneumothorax).
+<span style="color:#ff0000">Decreased volume</span> over an area suggests the <span style="color:#00ffff">presence of fluid or air outside of the lung</span> (e.g. <span style="color:#00ffff">pleural effusion, pneumothorax</span>).
 
 # Repeat All of above for Posterior Chest
 
@@ -211,9 +211,9 @@ Except apex beat and chest expansion if already done
 
 ## Final Steps
 
-- Assess for **sacral** and **pedal oedema**
-- Assess calves for signs of [[Deep Vein Thrombosis]]
-- Inspect for evidence of [[erythema nodosum]], which can be associated with [[sarcoidosis]]
+- Assess for <span style="color:#ff0000">sacral and pedal oedema</span> - <span style="color:#00ffff">HF</span>
+- <span style="color:#ff0000">Assess calves</span> for signs of [[Deep Vein Thrombosis]]
+( - Inspect for evidence of [[erythema nodosum]], which can be associated with [[sarcoidosis]])
 
 ## To Complete the Exam
 

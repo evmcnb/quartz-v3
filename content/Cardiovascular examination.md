@@ -18,37 +18,33 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 #### Clinical Signs
 
-- **Cyanosis**
-- **Shortness of breath** (congestive [[Heart Failure]], [[Pericarditis]] [[pneumonia]], [[pulmonary embolism]])
-- Pallor - not very sensitive - paleness -> anaemia (haemorrhage, chronic disease) or poor perfusion (congestive [[Heart Failure]])
-- **Malar flush** - plum red discolouration of the cheeks associated with [[Mitral stenosis]]
-- **Oedema** - lots of causes, usually in limbs (pedal) or abdomen (ascites). Usually in context of CVS exam congestive [[Heart Failure]]
+- **<span style="color:#ff0000">Cyanosis</span>**
+- **<span style="font-weight:bold; color:#ff0000">Shortness of breath</span>** (congestive [[Heart Failure]], [[Pericarditis]] [[pneumonia]], [[pulmonary embolism]])
+- <span style="color:#ff0000">Pallor</span> - not very sensitive - paleness -> <span style="color:#00ffff">anaemia</span> (haemorrhage, chronic disease) or <span style="color:#00ffff">poor perfusion</span> (congestive [[Heart Failure]])
+- **<span style="font-weight:bold; color:#ff0000">Malar flush</span>** - plum red discolouration of the cheeks associated with [[Mitral stenosis]]
+- <span style="font-weight:bold; font-weight:bold; color:#ff0000">Oedema</span> - lots of causes, usually in limbs (pedal) or abdomen (ascites). Usually in context of CVS exam congestive [[Heart Failure]]
 
 #### Objects and Equipment
 
-- Medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access
-- Mobility aids
-- Pillows - congestive [[Heart Failure]] patients typically suffer from orthopnoea
-- Vital sign charts
-- Fluid balance charts
-- Prescription
+- Oxygen
+- Bedside equipment - ECG, ECHO machine
+- GTN spray/medication
 
 ## Hands
 
 #### Inspection
 
-- Colour - pallor -> poor peripheral perfusion and cyanosis
-- Tar staining
-- Xanthomata - yellow cholesterol-rich deposits
-- Arachnodactyly - fingers and toes abnormally long and slender, feature of [[Marfan's syndrome]] mitral/aortic valve prolapse & aortic dissection
-- [[Splinter haemorrhages]] - local trauma, infective endocarditis, sepsis, vasculitis
-- [[Janeway lesions and Osler's nodes]]
+- <span style="color:#ff0000">Colour</span> - pallor -> poor peripheral perfusion and <span style="color:#00ffff">cyanosis</span>
+- <span style="color:#ff0000">Tar staining</span> -<span style="color:#00ffff"> smoking, risk factor for CVD</span>
+- <span style="color:#ff0000">Xanthomata</span> - yellow cholesterol-rich deposits
+- <span style="color:#ff0000">Arachnodactyly</span> - fingers and toes abnormally long and slender, <span style="color:#00ffff">feature of</span> [[Marfan's syndrome]] <span style="color:#00ffff">mitral/aortic valve prolapse & aortic dissection</span>
+- [[Splinter haemorrhages]] - <span style="color:#00ffff">local trauma, infective endocarditis, sepsis, vasculitis</span>
+- [[Janeway lesions and Osler's nodes]] - infective [[Endocarditis]] 
+- <span style="color:#ff0000"> Pale palmar creases</span> - <span style="color:#00ffff">anaemia</span>
 
 ##### Finger [[Clubbing]]
 
-Could indicate congenital cyanotic heart disease, infective [[Endocarditis]], and [[atrial myxoma]]
-
-- Schamroth’s window test
+- <span style="color:#ff0000">Schamroth’s window test</span> -<span style="color:#00ffff"> congenital cyanotic heart disease, infective</span> [[Endocarditis]], <span style="color:#00ffff">and</span> [[atrial myxoma]]
 
 #### Palpation
 
@@ -64,16 +60,17 @@ Place dorsal aspect of your hand onto patients to assess temperature
 
 ##### Radial Pulse - Rhythm and Rate
 
-- 30 seconds and x2
+-<span style="color:#ff0000"> Palpate for 30 seconds</span> - 60 if irregular
+
 - Irregular rhythm is most commonly caused by [[Atrial Fibrillation]]
 
 ##### Radio-radial Delay
 
-Palpate both radial pulse together. If out of sync +ve test. Causes include:
+<span style="color:#ff0000">Palpate both radial pulse together</span>. If out of sync +ve test. Causes include:
 
-- Subclavian artery stenosis (e.g. compression by a cervical rib)
-- Aortic dissection
-- Aortic coarctation
+- <span style="color:#00ffff"> Subclavian artery stenosis</span> (e.g. compression by a cervical rib)
+- <span style="color:#00ffff">Aortic dissection</span>
+- <span style="color:#00ffff">Aortic coarctation</span>
 
 ##### Collapsing Pulse
 
@@ -81,21 +78,43 @@ A collapsing pulse is a forceful pulse that **rapidly increases** and subseq
 **_Ask patient if in any pain in shoulder as going to have to move it rapidly_**
 Causes of a collapsing pulse:
 
-- Normal physiological states (e.g. fever, pregnancy)
-- Cardiac lesions (e.g. aortic regurgitation, patent ductus arteriosus)
-- High output states (e.g. anaemia, arteriovenous fistula, thyrotoxicosis)
+- [[Aortic regurgitation]]
+- <span style="color:#00ffff">Thyrotoxicosis</span>
+- [[Anaemia]]
+- [[Pregnancy]]
+- <span style="color:#00ffff">AV fistula</span>
 
 ##### Blood Pressure
 
+**Tell the examiner that you would like to take one**
 In a cardiovascular examination OSCE station, you are **unlikely** to have to carry out a thorough blood pressure assessment due to time restraints, however, you should demonstrate that you have an awareness of what this would involve.
 
-## Neck
+## Face
+
+- <span style="color:#ff0000">General colour</span>
+- <span style="color:#ff0000">Malar flush</span> - [[Mitral stenosis]]
+
+##### Eyes
+
+- <span style="color:#ff0000">Xanthelasma</span> - yellow bits on eyelids - <span style="color:#00ffff">hypercholesterolemia</span>
+- <span style="color:#ff0000">Corneal arcus</span> - blue-grey ring around iris - <span style="color:#00ffff">hypercholesterolemia</span>
+  -  <span style="color:#ff0000">Pallor of conjunctivae</span> – <span style="color:#00ffff">pull down eyelid, anaemia</span>
+
+#### Lips and tongue
+
+- <span style="color:#ff0000"> Blue lips</span> - peripheral cyanosis
+- <span style="color:#ff0000">Blue under the tongue </span>- central cyanosis - <span style="color:#00ffff">hypoxaemia</span> - possible shunt?
+- <span style="color:#ff0000">General dental hygiene</span> - [[Endocarditis]]
+- <span style="color:#ff0000"> Angular stomatitis</span> - <span style="color:#00ffff">anaemia</span><span style="color:#00ffff"> </span>
+- <span style="color:#ff0000">High-arched palate</span> - [[Marfan's syndrome]]
+
+## Neck<span style="color:#ff0000"></span>
 
 #### Carotid Pulse
 
 ##### Auscultate
 
-Prior to palpating the carotid artery need to rule out the presence of a **bruit**.
+Prior to palpating the carotid artery need to rule out the presence of a <span style="color:#ff0000">bruit</span> - which indicates <span style="color:#00ffff">carotid stenosis</span>
 
 1. Place bell of stethoscope over carotid pulse
 2. Ask patient to take a deep breath in and hold
@@ -114,7 +133,7 @@ If no bruits were identified, proceed to **carotid pulse palpation**:
 
 ##### Jugular Venous Pressure
 
-Indirect measure of central venous pressure (IJV connects to right atrium without any valves). Causes include [[Heart Failure]], [[Tricuspid regurgitation]] and constrictive [[Pericarditis]]
+Indirect measure of <span style="color:#ff0000">central venous pressure</span> (IJV connects to right atrium without any valves). <span style="color:#00ffff">Causes include Right</span> [[Heart Failure]], [[Tricuspid regurgitation]]<span style="color:#00ffff"> and constrictive</span> [[Pericarditis]]
 
 1. Position the patient in a semi-recumbent position (at 45°).
 2. Ask the patient to turn their head slightly to the left
@@ -130,22 +149,6 @@ The hepatojugular reflux test involves the application of pressure to the liver 
 
 A **positive hepatojugular reflux result** suggests the **right ventricle is unable to accommodate an increased venous return**, but it is **not diagnostic** of any specific condition. Constrictive [[pericarditis]], right and left ventricular failure and restrictive [[cardiomyopathy]] can cause a positive result
 
-## Face
-
-#### Eyes
-
-- **Conjunctival pallor:** suggestive of underlying anaemia. Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
-- **Corneal arcus:** a hazy white, grey or blue opaque ring located in the peripheral cornea. In older patients, the condition is considered benign, however, if patient <50 - underlying hypercholesterolaemia.
-- **Xanthelasma:** yellow, raised cholesterol-rich deposits around the eyes - hypercholesterolaemia.
-- **Kayser-Fleischer rings:** dark rings that encircle the iris associated with [[Wilson’s disease]]. The disease involves abnormal copper processing by the liver, resulting in accumulation and deposition in various tissues (including the heart where it can cause [[cardiomyopathy]]).
-
-#### Mouth
-
-- **Central cyanosis:** bluish discolouration of the lips and/or the tongue associated with hypoxaemia (e.g. a right to left cardiac shunt)
-- **Angular stomatitis:** a common inflammatory condition affecting the corners of the mouth. It has a wide range of causes including iron deficiency.
-- **High arched palate:** a feature of [[Marfan's syndrome]] which is associated with mitral/aortic valve prolapse and aortic dissection.
-- **Dental hygiene:** poor dental hygiene is a risk factor for infective [[Endocarditis]]
-
 ## Chest
 
 #### Inspect
@@ -153,14 +156,14 @@ A **positive hepatojugular reflux result** suggests the **right ventricle is 
 - **Scars suggestive of previous thoracic surgery**
 - **Pectus excavatum:** a caved-in or sunken appearance of the chest.
 - **Pectus carinatum:** protrusion of the sternum and ribs.
-- **Visible pulsations:** a forceful apex beat may be visible secondary to underlying ventricular hypertrophy.
+- <span style="font-weight:bold; color:#ff0000">Visible pulsations</span>**:** a forceful apex beat may be visible secondary to underlying <span style="color:#00ffff">ventricular hypertrophy.</span>
 
 ### Palpation
 
 ##### Apex Beat
 
-- Typically located in 5th intercostal space in midclavicular line
-- Displacement of apex beat from its usual location can occur due to anything that shifts mediastinum
+- Typically located in <span style="color:#ff0000">5th intercostal space in midclavicular line</span>
+- Displacement of apex beat from its usual location can occur due to <span style="color:#00ffff">anything that shifts mediastinum</span>
 
 ##### Heaves
 
@@ -168,11 +171,11 @@ A **parasternal heave** is a precordial impulse that can be palpated.
 
 - Place the **heel of your hand** parallel to the **left sternal edge** (fingers vertical) to palpate for heaves.
 - If heaves are present you should feel the heel of your hand being **lifted** with each systole.
-- Parasternal heaves are typically associated with **right ventricular hypertrophy**.
+- Parasternal heaves are typically associated with <span style="color:#00ffff">left or right ventricular hypertrophy</span>.
 
 ##### Thrill
 
-A **thrill** is a **palpable vibration** caused by **turbulent blood flow** through a heart valve (a thrill is a palpable murmur).
+A **thrill** is a **palpable vibration** caused by **turbulent blood flow** through a heart valve (<span style="color:#ff0000">a thrill is a palpable murmur</span>).
 You should assess for a thrill across **each of the heart valves** in turn
 
 ![|475](z_attachments/475.png)
@@ -187,17 +190,15 @@ You should assess for a thrill across **each of the heart valves** in turn
 - **Tricuspid valve:** 4th or 5th intercostal space at the lower left sternal edge.
 - **Mitral valve:** 5th intercostal space in the midclavicular line.
 
-3. Possibly repeat with bell?
-
 ##### Accentuation Manoeuvres
 
-- **Aortic stenosis** - auscultate the **carotid** **arteries** using the diaphragm of the stethoscope whilst the patient holds their breath to listen for radiation of an **ejection systolic murmur**
+- **Aortic stenosis** - auscultate the **carotid** **arteries** using the <span style="color:#ff0000">diaphragm</span> of the stethoscope whilst the patient holds their breath to listen for radiation of an **ejection systolic murmur**
   ![[z_attachments/Aortic Stenosis normal speed.mp3|Aortic Stenosis normal speed]]
-- **Aortic regurgitation** - sit the patient forwards and auscultate over the **aortic** **area** with the diaphragm of the stethoscope during **expiration** to listen for an **early diastolic murmur**
+- **Aortic regurgitation** - sit the patient forwards and auscultate over the **aortic** **area** with the <span style="color:#ff0000">diaphragm</span> of the stethoscope during **expiration** to listen for an **early diastolic murmur**
   ![[z_attachments/Aortic Regurgitation normal speed.mp3|Aortic Regurgitation normal speed]]
-- **Mitral regurgitation** - roll the patient onto their **left side** and listen over the mitral area with the **diaphragm** of the stethoscope **during expiration** for a pansystolic murmur. Continue to auscultate into the **axilla** to identify **radiation** of this murmur.
+- **Mitral regurgitation** - roll the patient onto their **left side** and listen over the mitral area with the <span style="color:#ff0000">diaphragm</span> of the stethoscope **during expiration** for a pansystolic murmur. <span style="color:#ff0000">Continue to auscultate into the axilla to identify radiation of this murmur.</span>
   ![[z_attachments/Mitral Regurgitation normal speed.mp3|Mitral Regurgitation normal speed]]
-- **Mitral stenosis** - with the patient **on their left side,** listen over the **mitral area** using the **bell** of the stethoscope **during expiration** for a **mid-diastolic murmur**.
+- **Mitral stenosis** - with the patient **on their left side,** listen over the **mitral area** using the <span style="color:#ff0000; font-weight:bold">bell</span> of the stethoscope **during expiration** for a **mid-diastolic murmur**.
   ![[z_attachments/Mitral Stenosis normal speed.mp3|Mitral Stenosis normal speed]]
 
 ![](z_attachments/9f2YDMR.png)
@@ -212,8 +213,8 @@ You should assess for a thrill across **each of the heart valves** in turn
 
 Auscultate the lung fields posteriorly:
 
-- Coarse crackles -> [[pulmonary oedema]]
-- Absent air entry and stony dullness on percussion -> [[Pleural Effusion]]
+- <span style="color:#ff0000">Coarse crackles </span>-> [[pulmonary oedema]]
+- <span style="color:#ff0000">Absent air entry and stony dullness on percussion</span> -> [[Pleural Effusion]]
 
 ##### Sacral Oedema
 
@@ -238,7 +239,8 @@ Inspect and palpate the sacrum for evidence of pitting oedema.
 >
 > _“The **pulse** was regular and there was no radio-radial delay. On auscultation of the carotid arteries, there was no evidence of carotid bruits and on palpation, the carotid pulse had normal volume and character.”_
 >
-> _“On **inspection of the face**, there were no stigmata of cardiovascular disease noted in the eyes or mouth and dentition was normal.”_ >_“**Assessment of the JVP** did not reveal any abnormalities and the hepatojugular reflux test was negative.”_
+> _“On **inspection of the face**, there were no stigmata of cardiovascular disease noted in the eyes or mouth and dentition was normal.”_ 
+> _“**Assessment of the JVP** did not reveal any abnormalities and the hepatojugular reflux test was negative.”_
 >
 > _“**Closer inspection of the chest** did not reveal any scars or chest wall abnormalities. The apex beat was palpable in the 5th intercostal space, in the mid-clavicular line. No heaves or thrills were noted.”_
 >
@@ -248,7 +250,7 @@ Inspect and palpate the sacrum for evidence of pitting oedema.
 
 ## Further Assessments and Investigations
 
-- Measure BP
+- Measure BP - lying and standing
 - Peripheral vascular examination
 - 12 lead ECG - look for evidence of arrythmias
 - Dipstick urine - proteinuria or haematuria associated with hypertension
