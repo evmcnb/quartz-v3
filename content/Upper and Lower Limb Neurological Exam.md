@@ -112,6 +112,7 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 It's important to know the myotomes and the spinal level associated with each movement.
 
 > [!FAQ] Might be useful to know...
+> 
 > **UMN lesions** causes **weaker** upper limb **extensions** than the flexors 
 > **LMN lesions** cause a focal pattern - only the muscles directly innervated by the damaged nerve affected
 ## Reflexes
@@ -189,6 +190,7 @@ Difficulty could be due to <span style="color:#00ffff">cerebellar pathology.</sp
 <span style="color:#ff0000">Intention tremor</span> - <span style="color:#00ffff">broad, coarse, low frequency tremor that develops as limb extends</span>. 
 
 > [!danger] Careful!
+> 
 > Be careful not to mistake this for action tremor which is present throughout the movement 
 
 #### <span style="color:#00b0f0">Dysdiadochokinesia</span>
