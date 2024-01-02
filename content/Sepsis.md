@@ -72,7 +72,7 @@ Septic shock is a subset of sepsis. Profound circulatory, cellular and metabolic
   - U&Es urine culture
 - **F**luid resuscitation
   - as clinically indicated
-- **A**ntibiotics IV - LTHT guidelines
+- **A**ntibiotics IV - LTHT guidelines (tazocin? 4.5 g every 8 hours; increased if necessary to 4.5 g every 6 hours)
 - **L**actate measurement - from arterial or venous blood gas
 - **O**xygen to correct hypoxia
 
