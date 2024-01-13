@@ -58,7 +58,7 @@ Extra-articular:
 > TNF inhibitors eg adalimimab and immunomodulators such as rituximab are used in adults with highly active disease who have failed to respond to 2 DMARDs
 #### Psoriatic Arthritis
 
-- About 15% of people with psoriasis will develop psoriatic arthritis
+- About 15% of people with [[Psoriasis]] will develop psoriatic arthritis
 - Dactylitis & nail changes (onycholysis)
 - Increased CV risk
   ![|250](z_attachments/250.png)

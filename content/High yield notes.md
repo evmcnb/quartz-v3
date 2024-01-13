@@ -1302,7 +1302,7 @@ Replacement therapies and immune stimulation:
 - mAb against CD-20 B cell surface
 - Lymphomas, leukaemias, transplant rejection, autoimmune disorders
 
-## JAK iknhibitors
+## JAK inhibitors
 
 - reduce inflammation
 - stops the fuel for diseases like eczema, psoriasis, and vitiligo
