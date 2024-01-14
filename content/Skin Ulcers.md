@@ -76,7 +76,7 @@ Venous - impaired blood flow in the veins (typically of the legs)
 - middle aged elderly women
 - valvular incompetence
 - previous damage to venous system
-- obesity, immobility -> poor muscle contraction -> venous pooling
+- [[Obesity]], immobility -> poor muscle contraction -> venous pooling
 
 - high BP
 - multiple pregnancies

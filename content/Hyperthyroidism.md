@@ -1,15 +1,18 @@
 ---
-tags: [Endocrinology, AIassisted]
+tags:
+  - Endocrinology
+  - AIassisted
 title: Hyperthyroidism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+aliases:
+  - Thyrotoxicosis
 ---
 
 
-# Brief Overview
+Hyperthyroidism is a medical condition characterized by excessive production of thyroid hormones by the thyroid gland. There are various underlying causes of hyperthyroidism, with the most common being [[Grave's disease]].
 
-Hyperthyroidism is a medical condition characterized by excessive production of thyroid hormones by the thyroid gland. Thyroid hormones, primarily thyroxine (T4) and triiodothyronine (T3), play a crucial role in regulating the body's metabolism. When the thyroid gland becomes overactive and releases an excessive amount of these hormones into the bloodstream, it leads to a state of hyperthyroidism. There are various underlying causes of hyperthyroidism, with the most common being [[Grave's disease]].
-
+Hyperthyroidism is increased thyroid hormone synthesis and secretion from the thyroid gland. Thyrotoxicosis is the clinical syndrome of excess circulating thyroid hormones irrespective of source. Hyperthyroidism is a subset of thyrotoxicosis 
 ## Causes/Factors
 
 1. **[[Grave's disease]]:** An autoimmune disorder where the body's immune system mistakenly attacks the thyroid gland, causing it to produce excess thyroid hormones. Most common cause of hyperthyroidism

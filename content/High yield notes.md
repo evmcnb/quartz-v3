@@ -2824,7 +2824,7 @@ Infection affecting inner layers of skin caused by Staph aureus Group A Strep (S
 
 Rapidly progressive, live threatening, tracking along fascia cutting off blood supply $\rightarrow$ necrosis
 
-Type 1: Synergistic/poly-microbial, Streps, anaerobes. Risk factors DM, obesity, immunosuppression, elderly
+Type 1: Synergistic/poly-microbial, Streps, anaerobes. Risk factors DM, [[Obesity]], immunosuppression, elderly
 
 Type 2: Group A strep (S. pyogenes), younger age, associated with cut/injury. "Dish water" exudate. Treatment: surgical emergency
 

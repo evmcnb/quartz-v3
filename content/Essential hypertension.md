@@ -26,7 +26,7 @@ _Secondary_ hypertension can be due to:
 ## Causes/Factors
 
 - **Genetics:** Family history of hypertension can increase the risk.
-- **Lifestyle Factors:** Unhealthy lifestyle choices, including a high-salt diet, obesity, lack of physical activity, and excessive alcohol consumption.
+- **Lifestyle Factors:** Unhealthy lifestyle choices, including a high-salt diet, [[Obesity]], lack of physical activity, and excessive alcohol consumption.
 - **Age:** The risk of hypertension increases with age.
 - **Race:** Some racial and ethnic groups are more prone to hypertension.
 - **Stress:** Chronic stress can lead to elevated blood pressure.
