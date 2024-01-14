@@ -10,7 +10,7 @@ Not an infective cause
 
 Acute damage can be temporary and can restore function
 
-![[z_attachments/Pasted image 20231011141201.png]]
+![[z_attachments/Pasted image 20231011141201.png|350]]
 
  - Mild - swollen gland with fat necrosis
 - Severe - swollen, necrotic gland and haemorrhage (Grey Turner's and Cullen's sign)

@@ -1,8 +1,11 @@
 ---
-tags: [Respiratory]
+tags:
+  - Respiratory
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+aliases:
+  - Asthma
 ---
 
 - Characterised by _episodes_ of dyspnoea, cough, wheeze
