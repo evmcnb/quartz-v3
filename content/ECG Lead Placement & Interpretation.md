@@ -75,7 +75,7 @@ To determine whether it is true left axis deviation look at lead II and it will 
 	- Pathologic Q waves - usually due to prior MI
 	- RVH and LVH
 	- If the QRS is wide identify whether the cause is left or right bundle branch block (**WiLLiaM MaRRoW**) or just delayed
-	- Look for low voltage - obesity, [[COPD]], [[Pleural Effusion]], pericardial effusion, infiltration, [[Hypothyroidism]]
+	- Look for low voltage - [[Obesity]], [[COPD]], [[Pleural Effusion]], pericardial effusion, infiltration, [[Hypothyroidism]]
 	- Look for electrical alternans which indicates large pericardial effusion
 	- Look for delta waves - indicates accessory pathway 
 

@@ -117,7 +117,7 @@ Position the patient lying flat on the bed.
 - <span style="color:#ff0000">Scars</span> - past surgery
 - <span style="color:#ff0000">Abdominal distension</span> - **six f's**: <span style="color:#00ffff">fat, fluid, flatus, faeces, foetus or funking large tumour</span>
 - <span style="color:#ff0000">Caput medusae</span> - engorged paraumbilical veins associated with <span style="color:#00ffff">portal hypertension</span>
-- <span style="color:#ff0000">Striae</span> - stretch marks - [[Liver Cirrhosis|ascites]], <span style="color:#00ffff">intrabdominal malignancy,</span> [[Cushing's Syndrome]], <span style="color:#00ffff">obesity </span>[[Pregnancy]]
+- <span style="color:#ff0000">Striae</span> - stretch marks - [[Liver Cirrhosis|ascites]], <span style="color:#00ffff">intrabdominal malignancy,</span> [[Cushing's Syndrome]], [[Obesity]], [[Pregnancy]]
 - <span style="color:#ff0000">Hernias</span> - ask patient to cough
 - <span style="color:#ff0000">Cullen's Turners</span> - <span style="color:#00ffff">pancreatitis</span> 
 

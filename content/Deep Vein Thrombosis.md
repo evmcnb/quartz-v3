@@ -24,7 +24,7 @@ Where a blood clot forms in a deep vein usually due to pooling of that blood due
 - smoking
 - [[Essential hypertension|Hypertension]] (sheering force on vessels)
 - [[Diabetes Mellitus]]
-- obesity
+- [[Obesity]]
 
 ## Symptoms
 

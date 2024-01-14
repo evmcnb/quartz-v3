@@ -1,8 +1,11 @@
 ---
 title: Pleural Effusion
-tags: [Respiratory, AIassisted]
+tags:
+  - Respiratory
+  - AIassisted
 date created: Wednesday, August 16th 2023, 1:49:49 pm
 date modified: Wednesday, August 16th 2023, 1:52:29 pm
+aliases: []
 ---
 Pleural effusion is a medical condition characterized by the accumulation of excess fluid in the pleural space. This buildup of fluid can compress the lungs, leading to breathing difficulties and other symptoms.
 ## Causes/Factors

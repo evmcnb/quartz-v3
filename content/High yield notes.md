@@ -569,7 +569,7 @@ Similar to cryptosporidiasis but without without reservoir in farm animals
 
 ---
 
-## [[Asthma]]
+## [[asthma|Asthma]]
 
 - Reversible intermittent narrowing of _conducting airways_
 
@@ -582,14 +582,14 @@ SOB, wheeze, cough, hyperinflation
 
 ---
 
-## [[Bronchitis]]
+## [[bronchitis|Bronchitis]]
 
 - Inflammation of the bronchials - chronic form is part of COPD
 - Acute form usually caused by virus in children (Haemophilus influenzae in bacterial)
 
 - Mainly inflammation that causes airway narrowing
 
-## [[Emphysema]]
+## [[emphysema|Emphysema]]
 
 - Damage to alveoli by breaking down walls between them
 - Destruction of elastic fibres
@@ -605,7 +605,7 @@ Combination of **chronic bronchitis** and **emphysema**
 
 ---
 
-## [[Bronchiectasis]]
+## [[bronchiectasis|Bronchiectasis]]
 
 Permanent dilation of bronchi and bronchioles due to wall damage secondary to **chronic necrotising infection**
 
@@ -627,7 +627,7 @@ Mixed group often scarring +/- inflammation in multiple areas in both lungs that
 
 ---
 
-### Pneumoconiosis
+### [[Industrial dust diseases|Pneumoconiosis]]
 
 - Lung damage secondary to particle inhalation: **coal dust, silica, asbestos**
 - Occupational exposure
@@ -703,7 +703,7 @@ Main morphological difference between the two is nuclear characteristics and amo
 
 ## Pleural pathologies
 
-### [[Pleural effusion]]
+### [[Pleural Effusion]]
 
 Transudates - Left HF, renal failure (high BP), hypoalbumenaemia
 
@@ -716,7 +716,7 @@ Exudates - inflammation, neoplasms
 
 ---
 
-## [[Pneumothorax]]
+## [[pneumothorax|Pneumothorax]]
 
 Closed
 
@@ -740,7 +740,7 @@ Needs decompression to relieve pressure - via needle in intercostal splace or ch
 
 ---
 
-### [[Pleural fibrosis]]
+### Pleural fibrosis
 
 Usually secondary to pleural inflammation/ asbestos associated
 
@@ -792,7 +792,7 @@ Hib was commonest cause now S. pneumoiae and pyogenes
 
 ---
 
-## [[Pneumonia]]
+## [[pneumonia|Pneumonia]]
 
 Two anatomical patterns: bronchopneumonia following bronchi and lobar pneumonia 90% S. pneumoniae
 
@@ -1302,7 +1302,7 @@ Replacement therapies and immune stimulation:
 - mAb against CD-20 B cell surface
 - Lymphomas, leukaemias, transplant rejection, autoimmune disorders
 
-## JAK iknhibitors
+## JAK inhibitors
 
 - reduce inflammation
 - stops the fuel for diseases like eczema, psoriasis, and vitiligo
@@ -2824,7 +2824,7 @@ Infection affecting inner layers of skin caused by Staph aureus Group A Strep (S
 
 Rapidly progressive, live threatening, tracking along fascia cutting off blood supply $\rightarrow$ necrosis
 
-Type 1: Synergistic/poly-microbial, Streps, anaerobes. Risk factors DM, obesity, immunosuppression, elderly
+Type 1: Synergistic/poly-microbial, Streps, anaerobes. Risk factors DM, [[Obesity]], immunosuppression, elderly
 
 Type 2: Group A strep (S. pyogenes), younger age, associated with cut/injury. "Dish water" exudate. Treatment: surgical emergency
 
@@ -2905,7 +2905,7 @@ Can be due to either increased aggression/attack on stomach or impaired defences
 **Acute** - usually due to NSAIDs, alcohol or initial H. pylori infection
 **Chronic** - autoimmune (anti-parietal/intrinsic factor), H. pylori, chemical
 
-####### Helicobacter pylori
+###### Helicobacter pylori
 
 - Gram -ve spiral bacterium
 - Damages epithelium usually in antrum rather than body

@@ -1,10 +1,14 @@
+---
+tags:
+  - Dermatology
+  - AIassisted
+title: Acne vulgaris
+date created: Saturday, December 23rd 2023, 2:01:46 pm
+date modified: Tuesday, January 2nd 2024, 3:27:29 pm
+---
+Acne vulgaris is a common skin condition characterized by the presence of comedones (blackheads and whiteheads), papules, pustules, nodules, and cysts. It usually affects areas with a high density of sebaceous glands, such as the face, chest, and back.
 
-
-# **Acne Vulgaris**
-
-**Overview:** Acne vulgaris is a common skin condition characterized by the presence of comedones (blackheads and whiteheads), papules, pustules, nodules, and cysts. It usually affects areas with a high density of sebaceous glands, such as the face, chest, and back.
-
-**Causes/Factors:**
+## **Causes/Factors:**
 
 - **Excess Sebum Production:** Overproduction of oil by sebaceous glands.
 - **Clogged Hair Follicles:** Resulting in the formation of comedones.
@@ -12,15 +16,11 @@
 - **Hormonal Changes:** Especially during adolescence.
 - **Genetic Factors:** Family history may contribute.
 
-**Clinical Presentation:**
+## **Clinical Presentation:**
 
 - **Comedones:** Open (blackheads) and closed (whiteheads).
 - **Inflammatory Lesions:** Papules, pustules, nodules, and cysts.
 - **Scarring:** In severe cases or if lesions are manipulated.
-
-**Diagnostic Tests:**
-
-- Clinical examination; no specific tests are usually required.
 
 ## **Treatment:**
 
@@ -52,12 +52,7 @@
 - _Dietary Changes:_ Some evidence suggests a link between diet and acne.
 - _Stress Management:_ Stress can exacerbate acne.
 
-**Complications/Red Flags:**
+## **Complications/Red Flags:**
 
 - **Scarring:** Especially in severe or untreated cases.
 - **Psychosocial Impact:** Acne can significantly impact self-esteem and mental health.
-
-**Importance of Medical Attention:**
-
-- **Early Intervention:** Prevents scarring and reduces the severity of lesions.
-- **Tailored Approach:** Treatment should be personalized based on the type and severity of acne.

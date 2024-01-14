@@ -59,9 +59,9 @@ life style modification. metformin + combination with other drug possibly
 Hypoglycaemic agents:
 
 - **Metformin**: A biguanide - $\uparrow$ insulin sensitivity + helps weight. Avoid if eGFR is <36
-- **DPP4 inhibitors/gliptins** - block enzyme which destroys the hormone incretin (stimulates a decrease in blood glucose levels) _eg sitagliptin_
+- **DPP4 inhibitors/gliptins** - block enzyme which destroys the hormone incretin (stimulates a decrease in blood glucose levels) _eg sitagliptin_ - few side effects
 - **Glitazone** - $\uparrow$ insulin sensitivity, LFTs needed every 8 weeks - **do not use in patient with [[Heart Failure]]** _eg pioglitazone_
-- **Sulfonyurea** - $\uparrow$ insulin secretion
+- **Sulfonyurea** - $\uparrow$ insulin secretion but increased cardiovascular morbidity and mortality - promote weight gain
 - **SGLT2i** - blocks the reabsorption of glucose in kidneys - wee out sugar. Reduces cardiovascular risk _eg glifazon_
 
 
@@ -71,7 +71,7 @@ Hypoglycaemia - due to too high insulin -> coma and brain damage, thrombosis, ca
 
 **Microvascular**
 
-- Retinopathy - regular eye test
+- [[Diabetic eye disease]] - regular eye test
 - Neuropathy - regular foot exam / nerve conduction
 - Nephropathy - urine test for albumin - [[Chronic Kidney Disease]]
 
