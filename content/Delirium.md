@@ -34,7 +34,7 @@ Assessment of capacity is important
 **H**ydration - intake, diruetics, diarrhoea
 
 
-**M**edication
+**M**edication - prescribed, alcohol and drugs, withdrawal
 
 **E**nvironment/electrolytes
 
@@ -58,20 +58,27 @@ Assessment of capacity is important
 - Daily tasks of living - wash, dress
 - Shopping?
 
-## Diagnostic Tests
+## Investigations
 
-- **Clinical Assessment**: Confusion Assessment Method (CAM) for diagnosis.
-- **Laboratory Tests**: Blood and urine tests to identify underlying causes.
-- **Imaging**: May be done to rule out structural brain abnormalities.
+- **Observations**: full set of obs, ECG, urine dip, glucose
+- **Cognitive Assessment**:
+	- 4AT - Alertness, Cognition, Attention, Acute changes or fluctuating course
+	- MoCA - 
+
+
+- **Blood Tests**: FBC, U&Es, TFTs, LFTs, HbA1C, Coag screen, Bone profile, Folate & B12, vitamin D
+- **Imaging**: CXR for pneumonia, CT head to rule out bleeds, bladder USS 
 
 ## Management
 
 - **Address Underlying Cause**: Treat the root medical condition or discontinue offending medications.
 - **Environmental Support**: Maintain a quiet, well-lit environment to reduce confusion.
-- **Medication Management**: Use antipsychotics cautiously for severe agitation.
+- **Challenging Behaviour**: Frustration is natural if you cannot effectively communicate needs. Medication is an option as a last resort after communication tactics have failed. 
+- **Communication**: Always try to *redirect* patients rather than decieve etc. 
 
 ## Complications/Red Flags
 
-- **Increased Morbidity and Mortality**: Delirium is often a sign of severe illness.
+- **Longer stay in hosptial**: more hosptial aquired complications 
+- **Increased Morbidity and Mortality**: Delirium is often a sign of severe illness and have a 2x mortality risk than a normal patient 
 - **Risk of Falls and Injuries**: Altered mental status poses safety risks.
 - **Potential for Long-Term Cognitive Impairment**: Especially in older adults, delirium can contribute to persistent cognitive decline.
