@@ -7,21 +7,6 @@ date modified: Thursday, October 26th 2023, 10:13:46 pm
 aliases:
   - Cardio drugs
 ---
-# Anti-arhythmic classes
-
-1. Class I Antiarrhythmics: Class I drugs primarily affect sodium channels and can be further subdivided into three subclasses based on their effects on sodium channels:
-    - Class IA: These drugs (e.g., quinidine, procainamide, and disopyramide) prolong the action potential duration and are used to treat atrial and ventricular arrhythmias.
-    - Class IB: These drugs (e.g., lidocaine, mexiletine) have little effect on action potential duration and are used primarily for ventricular arrhythmias.
-    - Class IC: Drugs like flecainide and propafenone that have minimal effects on action potential duration and are used for both atrial and ventricular arrhythmias.
-
-2. Class II Antiarrhythmics: Class II drugs are beta-blockers (e.g., propranolol, metoprolol, and atenolol) that reduce sympathetic stimulation of the heart. They are used to treat tachyarrhythmias by slowing down the heart rate and reducing the risk of arrhythmias.
-    
-3. Class III Antiarrhythmics: Class III drugs primarily affect potassium channels, delaying repolarization of the cardiac cells and prolonging the action potential duration. Examples of Class III antiarrhythmics include amiodarone, sotalol, and dofetilide. These drugs are used to treat a variety of arrhythmias, including atrial and ventricular.
-    
-4. Class IV Antiarrhythmics: Class IV drugs are calcium channel blockers (e.g., verapamil and diltiazem). They slow the conduction of electrical signals in the heart by blocking calcium channels. They are primarily used to treat atrial arrhythmias and can also help control ventricular rate in conditions like atrial fibrillation.
-    
-5. Other Antiarrhythmics: There are other antiarrhythmic agents that don't fit neatly into the Vaughan Williams classification, including adenosine, digoxin, and some newer drugs. Adenosine is used to terminate certain types of supraventricular tachycardias. Digoxin can be used to control the ventricular rate in atrial fibrillation but is not a first-line antiarrhythmic. Newer agents like dronedarone have been developed and have unique mechanisms of action.
-
 
 ## Anti-platelet
 
@@ -55,7 +40,7 @@ aliases:
 
 - _**Loop diuretics**_ - eg furosemide inhibit NA/2Cl/K co-transporter. $\downarrow$ Na$^+$ $\downarrow$ K$^+$ $\downarrow$ Ca$^{2+}$. [[Heart Failure]]
 - **_Thiazide/thiazide-like diuretics_** are used in [[Essential hypertension|hypertension]] (indapamide) and [[Heart Failure]] (metolazone). $\downarrow$ K$^+$ $\uparrow$ Ca$^{2+}$ $\downarrow$ Mg$^{2+}$, $\uparrow$ urate ($\pm$ gout).
-- **_Potassium sparing diruetics**_ - aldosterone antagonists (spironolactone, eplerenone) 
+- _**Potassium sparing diruetics**_ - aldosterone antagonists (spironolactone, eplerenone) 
 
 ## Vasodilators 
 
