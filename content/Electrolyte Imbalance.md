@@ -1,8 +1,10 @@
 ---
-tags: [Endocrinology, Rheumatology]
-title: "Electrolyte Imbalance"
-date created:
-date modified: 
+tags:
+  - Endocrinology
+  - Rheumatology
+title: Electrolyte Imbalance
+date created: Thursday, January 18th 2024, 6:07:20 pm
+date modified: Thursday, January 18th 2024, 6:10:39 pm
 ---
 
 | Electrolyte | Hypo-                   | Hyper-                       |
