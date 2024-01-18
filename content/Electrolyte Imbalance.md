@@ -1,6 +1,6 @@
 ---
 tags: [Endocrinology, Rheumatology]
-title: "Electrolyte Imbalances"
+title: "Electrolyte Imbalance"
 date created:
 date modified: 
 ---
