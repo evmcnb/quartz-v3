@@ -19,7 +19,7 @@ date modified: Wednesday, October 18th 2023, 1:38:32 pm
 ### Causes/Factors
 1. **Alzheimer's Disease**: Abnormal protein accumulation (amyloid plaques, tau tangles) - slow progression
 2. **Vascular Dementia**: Impaired blood flow to the brain due to stroke or other vascular issues.
-3. **Lewy Body Dementia**: Presence of abnormal protein deposits (alpha-synuclein) in the brain.- often associated with [[Parkinson's disease]]. No anti-psychotics
+3. **Lewy Body Dementia**: Presence of abnormal protein deposits (alpha-synuclein) in the brain.- often associated with [[Parkinson's disease]]. No anti-psychotics ^5b78b4
 4. **Frontotemporal Dementia**: Degeneration of frontal and temporal lobes of the brain.
 
 ### Symptoms

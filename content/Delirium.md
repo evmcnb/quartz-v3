@@ -8,17 +8,17 @@ title: Delirium
 Acute and fluctuating disturbance in attention and awareness
 
 Need to differentiate from [[Dementias]]
-see photo
-|       | Delirium | Dementia | 
-| ----- | -------- | -------- |
-| Onset | Acute			| Insidious |
-| Course | Fluctuating | Progressive |
-| Duration | Days to weeks | Months to years |
-| Consciousness | Impaired | Usually alert | 
-| Attention | Impaired | Normal and then impaired | 
-| Psychomotor changes | Increased or decreased | Often normal | 
-| Hallucinations | Common | Less common (type dependant) |
-| Reversibility | Usually reversible | Progressive |
+
+|                     | Delirium               | Dementia                     |
+| ------------------- | ---------------------- | ---------------------------- |
+| Onset               | Acute                  | Insidious                    |
+| Course              | Fluctuating            | Progressive                  |
+| Duration            | Days to weeks          | Months to years              |
+| Consciousness       | Impaired               | Usually alert                |
+| Attention           | Impaired               | Normal and then impaired     |
+| Psychomotor changes | Increased or decreased | Often normal                 |
+| Hallucinations      | Common                 | Less common (type dependant) |
+| Reversibility       | Usually reversible     | Progressive                  |
 
 Collateral history may be very useful - if patient has capacity patient needs to consent for the collateral history to be taken.
 Assessment of capacity is important 
@@ -31,18 +31,13 @@ Assessment of capacity is important
 ## Causes/Factors
 
 **P**ain
-
 **I**nfection - [[Urinary Tract Infection]], [[pneumonia]], [[Cellulitis]], [[Skin Ulcers]]
-
 **N**utrition - B12, folate, glucose, [[Nutritional disorders]]
-
 **C**onstipation - +/- urinary retention, codiene
-
 **H**ydration - intake, diruetics, diarrhoea
 
 
 **M**edication - prescribed, alcohol and drugs, withdrawal
-
 **E**nvironment/electrolytes
 
 ## Symptoms
