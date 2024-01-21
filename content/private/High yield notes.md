@@ -3166,16 +3166,12 @@ Any drug can cause liver injury. But the same drug can cause different injury in
 
 Inborn error of iron metabolism causing accumulation in:
 
-<div class="twocols">
-
 - Liver $\rightarrow$ cirrhosis
 - Pancreas $\rightarrow$ diabetes
 - Skin $\rightarrow$ pigmentation
 - Joints $\rightarrow$ arthritis
 - Heart $\rightarrow$ cardiomyopathy
 - Treat with removal of blood to return iron to normal
-
-</div>
 
 ---
 
@@ -3285,7 +3281,7 @@ Chronic - irreversible loss of tissue
 
 ## Pancreatic carcinoma
 
-- Almost universially fatal
+- Almost universally fatal
 - Cancers in head can invade common bile duct and pancreatic duct $\rightarrow$ + surrounding structures
 - Cancers in the body or tail invade stomach, left colon, spleen and left adrenal
 
