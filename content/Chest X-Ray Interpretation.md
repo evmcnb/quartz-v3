@@ -22,7 +22,7 @@ date modified: Tuesday, October 10th 2023, 10:11:10 am
 - Where it was taken 
 - Any previous images for that patient 
 
-## 2. Quality of image
+## 2. Quality of image - RIPE
 
 #### Rotation
 - The medial parts of the two clavicles should be equal distance from the spine
@@ -41,7 +41,7 @@ date modified: Tuesday, October 10th 2023, 10:11:10 am
 
 #### Projection
 - AP/PA?
-- Most CXR are PA
+- Most CXR are PA as AP misrepresent the size of the heart (too large)
 - Can tell if AP if scapulae projected over lung fields
 
 #### Exposure
@@ -50,7 +50,7 @@ date modified: Tuesday, October 10th 2023, 10:11:10 am
 
 ![[z_attachments/Pasted image 20231010111552.png|325]]
 
-
+![[z_attachments/Pasted image 20240122144733.png|425]]
 ## 3. Clinical findings - ABCDE
 
 #### Airway
@@ -61,6 +61,7 @@ date modified: Tuesday, October 10th 2023, 10:11:10 am
 	- Right bronchus is straighter and wider than the left $\uparrow$ risk for aspiration
 3. Hilar regions
 	- Check for abnormal vessels, or enlarged lymph nodes
+	- Right hilar should always be higher than left
 	- Bilaterally enlargement suggests [[Tuberculosis]] or [[Sarcoidosis]]
 	- If unilateral think [[Lung Tumours]]
 
@@ -116,6 +117,7 @@ _White out of whole hemithorax_ - [[pneumonia]], large pleural effusion, ARDS, p
 
 - Should be less than 50% of the overall thoracic window
 - Boarders should be clearly defined - usually consolidation would change this
+- Consolidation of the lingula blurs the left heart boarder
 - 1/3 should lie to the right of the vertebral column, 2/3 to the left
 - May appear elongated if the chest is hyperinflated [[COPD]] or enlarged in AP or if there is [[Heart Failure|LV failure]] or pericardial effusion
 
@@ -158,8 +160,16 @@ Uncontrolled haematogenous spread
 ##### [[pneumothorax]]
 ![[z_attachments/Pasted image 20231010122953.png|450]]
 
+**Hydropneumothorax**
+![[z_attachments/Pasted image 20240122145256.png|425]]
+
+**Pneumomediastinum**
+![[z_attachments/Pasted image 20240122150024.png|400]]
 ##### Lobar collapse
 ![[z_attachments/Pasted image 20231010123127.png|425]]
+
+**Right middle zone collapse** - loss of RHB and in lateral view 
+![[z_attachments/Pasted image 20240122151502.png]]
 
 **Sail sign** - left lower lobe collapse
 
@@ -168,6 +178,11 @@ Uncontrolled haematogenous spread
 ##### [[Pleural Effusion]]
 ![[z_attachments/Pasted image 20231010123236.png|450]]
 
+**pneumonectomy** (no mass effect - volume loss)
+![[z_attachments/Pasted image 20240122145551.png|450]]
+
+**Massive pleural effusion** (with mass effect)
+![[z_attachments/Pasted image 20240122145804.png|450]]
 ##### [[COPD]]
 - Flattened diaphragm
 - More anterior ribs seen 
