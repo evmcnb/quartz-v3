@@ -1,11 +1,9 @@
 
 ## Causes/Factors
 
-## Symptoms
+## Clinical Features
 
-## Signs
-
-## Diagnostic Tests
+## Investigations
 
 ## Management
 
