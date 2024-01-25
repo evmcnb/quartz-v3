@@ -1,4 +1,9 @@
-#Gastroenterology #InfectiousDisease #Incomplete 
+---
+tags: [Gastroenterology, InfectiousDisease, Incomplete]
+title: Gastrointestinal Tract Bacterial Infections
+date created: Monday, September 18th 2023, 10:07:14 am
+date modified: Thursday, January 25th 2024, 12:57:41 pm
+---
 
 These infections can be split into those causing illness by the toxins the bacteria produce versus the direct impact of the bacteria
 

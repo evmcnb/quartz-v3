@@ -13,6 +13,7 @@ More common in children than adults - 16x more
 Differentiation between [[Periorbital cellulitis]] and orbital cellulitis can be difficult in the initial stages of infection
 
 > [!danger] Sight threatening condition
+> 
 > Approximately 11% of patients will have vision loss following orbital cellulitis 
 
 
