@@ -9,6 +9,14 @@ date modified: Sunday, December 3rd 2023, 9:20:22 pm
 ---
 Prophylactic antibiotics are given to counter the risk of wound infection which occurs in ~20% of elective surgeries and up to 60% in emergency surgery  
 
+1. **Staphylococcus aureus:** This bacterium, particularly the methicillin-resistant Staphylococcus aureus (MRSA)
+2. **Escherichia coli (E. coli):** Gram-negative
+3. **Enterococci:** These bacteria, such as Enterococcus faecalis and Enterococcus faecium, particularly in abdominal and pelvic surgeries.
+4. **Pseudomonas aeruginosa:** Gram-negative
+5. **Clostridium perfringens:** This anaerobic bacterium can cause infections in wounds with poor blood supply and low oxygen levels.
+6. **Bacteroides fragilis:** Another anaerobic bacterium, especially in abdominal surgeries.
+7. **Candida species:** Fungal infections, particularly those caused by Candida albicans, especially in immunocompromised patients or in surgeries involving the gastrointestinal tract.
+
 Antibiotic prophylaxis should not be used routinely for clean non-prosthetic uncomplicated surgery because of the risk of adverse events, _Clostridium difficile_-associated disease, resistance and drug hypersensitivity.
 
 | Category           | Description                                                                               | Infection Risk |

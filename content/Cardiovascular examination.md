@@ -262,7 +262,7 @@ Inspect and palpate the sacrum for evidence of pitting oedema.
 
 - Measure BP - lying and standing
 - Peripheral vascular examination
-- 12 lead ECG - look for evidence of arrythmias
+- 12 lead ECG - look for evidence of arrhythmias
 - Dipstick urine - proteinuria or haematuria associated with hypertension
 - Capillary blood glucose - checking for DM
 - Fundoscopy - concerns about malignant hypertension
