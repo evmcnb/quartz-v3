@@ -41,7 +41,10 @@ Main risk is from clots forming from pooling blood in atria leading to ischaemic
 
 ## Management
 
-- Correct electrolyte balance
+- Correct underlying cause (electrolyte balance etc)
+
+| Paroxysmal | Persistent | Permanent|
+| --------- | ----------- | -------- |
 
 Rate control - slows down the heart rate to prevent symptom of palpitations and improve heart beat efficiency
 
