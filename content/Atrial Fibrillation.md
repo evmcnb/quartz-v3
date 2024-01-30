@@ -49,12 +49,12 @@ Main risk is from clots forming from pooling blood in atria leading to ischaemic
 Rate control - slows down the heart rate to prevent symptom of palpitations and improve heart beat efficiency
 
 - $\beta$ blocker
-- Calcium channel blockers
+- Calcium channel blockers (diltiazem, verapamil)
+- Digoxin
 
 Rhythm control - convert the hearth rhythm back into sinus rhythm
 
 - Amiodarone
-- Digoxin
 - Electric (DC) cardioversion
 
   _No real difference in prognosis between rate or rhythm control_
