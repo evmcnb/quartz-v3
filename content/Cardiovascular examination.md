@@ -20,7 +20,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 - **<span style="color:#ff0000">Cyanosis</span>**
 - **<span style="font-weight:bold; color:#ff0000">Shortness of breath</span>** (congestive [[Heart Failure]], [[Pericarditis]] [[pneumonia]], [[pulmonary embolism]])
-- <span style="color:#ff0000">Pallor</span> - not very sensitive - paleness -> <span style="color:#00ffff">anaemia</span> (haemorrhage, chronic disease) or <span style="color:#00ffff">poor perfusion</span> (congestive [[Heart Failure]])
+- <span style="color:#ff0000">Pallor</span> - not very sensitive - paleness -> <span style="color:#00b0f0">anaemia</span> (haemorrhage, chronic disease) or <span style="color:#00b0f0">poor perfusion</span> (congestive [[Heart Failure]])
 - **<span style="font-weight:bold; color:#ff0000">Malar flush</span>** - plum red discolouration of the cheeks associated with [[Mitral stenosis]]
 - <span style="font-weight:bold; font-weight:bold; color:#ff0000">Oedema</span> - lots of causes, usually in limbs (pedal) or abdomen (ascites). Usually in context of CVS exam congestive [[Heart Failure]]
 
@@ -34,17 +34,17 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 #### Inspection
 
-- <span style="color:#ff0000">Colour</span> - pallor -> poor peripheral perfusion and <span style="color:#00ffff">cyanosis</span>
-- <span style="color:#ff0000">Tar staining</span> -<span style="color:#00ffff"> smoking, risk factor for CVD</span>
+- <span style="color:#ff0000">Colour</span> - pallor -> poor peripheral perfusion and <span style="color:#00b0f0">cyanosis</span>
+- <span style="color:#ff0000">Tar staining</span> -<span style="color:#00b0f0"> smoking, risk factor for CVD</span>
 - <span style="color:#ff0000">Xanthomata</span> - yellow cholesterol-rich deposits
-- <span style="color:#ff0000">Arachnodactyly</span> - fingers and toes abnormally long and slender, <span style="color:#00ffff">feature of</span> [[Marfan's syndrome]] <span style="color:#00ffff">mitral/aortic valve prolapse & aortic dissection</span>
-- [[Splinter haemorrhages]] - <span style="color:#00ffff">local trauma, infective endocarditis, sepsis, vasculitis</span>
-- [[Janeway lesions and Osler's nodes]] - infective [[Endocarditis]] 
-- <span style="color:#ff0000"> Pale palmar creases</span> - <span style="color:#00ffff">anaemia</span>
+- <span style="color:#ff0000">Arachnodactyly</span> - fingers and toes abnormally long and slender, <span style="color:#00b0f0">feature of</span> [[Marfan's syndrome]] <span style="color:#00b0f0">mitral/aortic valve prolapse & aortic dissection</span>
+- [[Splinter haemorrhages]] - <span style="color:#00b0f0">local trauma, infective endocarditis, sepsis, vasculitis</span>
+- [[Janeway lesions and Osler's nodes]] - infective [[Endocarditis]]
+- <span style="color:#ff0000"> Pale palmar creases</span> - <span style="color:#00b0f0">anaemia</span>
 
 ##### Finger [[Clubbing]]
 
-- <span style="color:#ff0000">Schamroth’s window test</span> -<span style="color:#00ffff"> congenital cyanotic heart disease, infective</span> [[Endocarditis]], <span style="color:#00ffff">and</span> [[atrial myxoma]]
+- <span style="color:#ff0000">Schamroth’s window test</span> -<span style="color:#00b0f0"> congenital cyanotic heart disease, infective</span> [[Endocarditis]], <span style="color:#00b0f0">and</span> [[atrial myxoma]]
 
 #### Palpation
 
@@ -68,9 +68,9 @@ Place dorsal aspect of your hand onto patients to assess temperature
 
 <span style="color:#ff0000">Palpate both radial pulse together</span>. If out of sync +ve test. Causes include:
 
-- <span style="color:#00ffff"> Subclavian artery stenosis</span> (e.g. compression by a cervical rib)
-- <span style="color:#00ffff">Aortic dissection</span>
-- <span style="color:#00ffff">Aortic coarctation</span>
+- <span style="color:#00b0f0"> Subclavian artery stenosis</span> (e.g. compression by a cervical rib)
+- <span style="color:#00b0f0">Aortic dissection</span>
+- <span style="color:#00b0f0">Aortic coarctation</span>
 
 ##### Collapsing Pulse
 
@@ -79,10 +79,10 @@ A collapsing pulse is a forceful pulse that **rapidly increases** and subseq
 Causes of a collapsing pulse:
 
 - [[Aortic regurgitation]]
-- <span style="color:#00ffff">Thyrotoxicosis</span>
+- <span style="color:#00b0f0">Thyrotoxicosis</span>
 - [[Anaemia]]
 - [[Pregnancy]]
-- <span style="color:#00ffff">AV fistula</span>
+- <span style="color:#00b0f0">AV fistula</span>
 
 ##### Blood Pressure
 
@@ -96,16 +96,16 @@ In a cardiovascular examination OSCE station, you are **unlikely** to have to 
 
 ##### Eyes
 
-- <span style="color:#ff0000">Xanthelasma</span> - yellow bits on eyelids - <span style="color:#00ffff">hypercholesterolemia</span>
-- <span style="color:#ff0000">Corneal arcus</span> - blue-grey ring around iris - <span style="color:#00ffff">hypercholesterolemia</span>
-  -  <span style="color:#ff0000">Pallor of conjunctivae</span> – <span style="color:#00ffff">pull down eyelid, anaemia</span>
+- <span style="color:#ff0000">Xanthelasma</span> - yellow bits on eyelids - <span style="color:#00b0f0">hypercholesterolemia</span>
+- <span style="color:#ff0000">Corneal arcus</span> - blue-grey ring around iris - <span style="color:#00b0f0">hypercholesterolemia</span>
+  -  <span style="color:#ff0000">Pallor of conjunctivae</span> – <span style="color:#00b0f0">pull down eyelid, anaemia</span>
 
 #### Lips and tongue
 
 - <span style="color:#ff0000"> Blue lips</span> - peripheral cyanosis
-- <span style="color:#ff0000">Blue under the tongue </span>- central cyanosis - <span style="color:#00ffff">hypoxaemia</span> - possible shunt?
+- <span style="color:#ff0000">Blue under the tongue </span>- central cyanosis - <span style="color:#00b0f0">hypoxaemia</span> - possible shunt?
 - <span style="color:#ff0000">General dental hygiene</span> - [[Endocarditis]]
-- <span style="color:#ff0000"> Angular stomatitis</span> - <span style="color:#00ffff">anaemia</span><span style="color:#00ffff"> </span>
+- <span style="color:#ff0000"> Angular stomatitis</span> - <span style="color:#00b0f0">anaemia</span><span style="color:#00b0f0"> </span>
 - <span style="color:#ff0000">High-arched palate</span> - [[Marfan's syndrome]]
 
 ## Neck<span style="color:#ff0000"></span>
@@ -114,7 +114,7 @@ In a cardiovascular examination OSCE station, you are **unlikely** to have to 
 
 ##### Auscultate
 
-Prior to palpating the carotid artery need to rule out the presence of a <span style="color:#ff0000">bruit</span> - which indicates <span style="color:#00ffff">carotid stenosis</span>
+Prior to palpating the carotid artery need to rule out the presence of a <span style="color:#ff0000">bruit</span> - which indicates <span style="color:#00b0f0">carotid stenosis</span>
 
 1. Place bell of stethoscope over carotid pulse
 2. Ask patient to take a deep breath in and hold
@@ -135,7 +135,7 @@ If no bruits were identified, proceed to **carotid pulse palpation**:
 
 ##### Jugular Venous Pressure
 
-Indirect measure of <span style="color:#ff0000">central venous pressure</span> (IJV connects to right atrium without any valves). <span style="color:#00ffff">Causes include Right</span> [[Heart Failure]], [[Tricuspid regurgitation]]<span style="color:#00ffff"> and constrictive</span> [[Pericarditis]]
+Indirect measure of <span style="color:#ff0000">central venous pressure</span> (IJV connects to right atrium without any valves). <span style="color:#00b0f0">Causes include Right</span> [[Heart Failure]], [[Tricuspid regurgitation]]<span style="color:#00b0f0"> and constrictive</span> [[Pericarditis]]
 
 1. Position the patient in a semi-recumbent position (at 45°).
 2. Ask the patient to turn their head slightly to the left
@@ -158,14 +158,14 @@ A **positive hepatojugular reflux result** suggests the **right ventricle is 
 - **Scars suggestive of previous thoracic surgery**
 - **Pectus excavatum:** a caved-in or sunken appearance of the chest.
 - **Pectus carinatum:** protrusion of the sternum and ribs.
-- <span style="font-weight:bold; color:#ff0000">Visible pulsations</span>**:** a forceful apex beat may be visible secondary to underlying <span style="color:#00ffff">ventricular hypertrophy.</span>
+- <span style="font-weight:bold; color:#ff0000">Visible pulsations</span>**:** a forceful apex beat may be visible secondary to underlying <span style="color:#00b0f0">ventricular hypertrophy.</span>
 
 ### Palpation
 
 ##### Apex Beat
 
 - Typically located in <span style="color:#ff0000">5th intercostal space in midclavicular line</span>
-- Displacement of apex beat from its usual location can occur due to <span style="color:#00ffff">anything that shifts mediastinum</span>
+- Displacement of apex beat from its usual location can occur due to <span style="color:#00b0f0">anything that shifts mediastinum</span>
 
 ##### Heaves
 
@@ -173,7 +173,7 @@ A **parasternal heave** is a precordial impulse that can be palpated.
 
 - Place the **heel of your hand** parallel to the **left sternal edge** (fingers vertical) to palpate for heaves.
 - If heaves are present you should feel the heel of your hand being **lifted** with each systole.
-- Parasternal heaves are typically associated with <span style="color:#00ffff">left or right ventricular hypertrophy</span>.
+- Parasternal heaves are typically associated with <span style="color:#00b0f0">left or right ventricular hypertrophy</span>.
 
 ##### Thrill
 
@@ -209,7 +209,6 @@ You should assess for a thrill across **each of the heart valves** in turn
 - **Mitral stenosis** - with the patient **on their left side,** listen over the **mitral area** using the <span style="color:#ff0000; font-weight:bold">bell</span> of the stethoscope **during expiration** for a **mid-diastolic murmur**.
 
   ![[z_attachments/Mitral Stenosis normal speed.mp3|Mitral Stenosis normal speed]]
-
 
 ![](z_attachments/9f2YDMR.png)
 
@@ -249,7 +248,7 @@ Inspect and palpate the sacrum for evidence of pitting oedema.
 >
 > _“The **pulse** was regular and there was no radio-radial delay. On auscultation of the carotid arteries, there was no evidence of carotid bruits and on palpation, the carotid pulse had normal volume and character.”_
 >
-> _“On **inspection of the face**, there were no stigmata of cardiovascular disease noted in the eyes or mouth and dentition was normal.”_ 
+> _“On **inspection of the face**, there were no stigmata of cardiovascular disease noted in the eyes or mouth and dentition was normal.”_
 > _“**Assessment of the JVP** did not reveal any abnormalities and the hepatojugular reflux test was negative.”_
 >
 > _“**Closer inspection of the chest** did not reveal any scars or chest wall abnormalities. The apex beat was palpable in the 5th intercostal space, in the mid-clavicular line. No heaves or thrills were noted.”_
