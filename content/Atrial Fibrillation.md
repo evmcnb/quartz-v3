@@ -37,17 +37,31 @@ Main risk is from clots forming from pooling blood in atria leading to ischaemic
 - ECG
   ![|575](z_attachments/575-2.png)
 - Blood: Thyroid function test
-- Echo: look at mitral valve and LV function
+- Echo: look at valvular (mitral/aortic) and LV function
+
+| Paroxysmal | Persistent | Permanent |
+| ---- | ---- | ---- |
+| Episodes lasting >30 seconds but <7 days (often less than 48 hours) | Episodes lasting >7 days | Longstanding >1 year |
+| Self-terminating | Not self-terminating |  |
+| Recurrent |  |  |
 
 ## Management
 
-- Correct underlying cause (electrolyte balance etc)
+### Adverse features
+Atrial fibrillation in patients with the follow should be defibrillated using synchronised DC cardioversion:
+- Heart failure
+- Myocardial ischaemia 
+- Shock
+- Syncope
 
-| Paroxysmal | Persistent | Permanent|
-| --------- | ----------- | -------- |
+![[z_attachments/Pasted image 20240131141429.png]]
+
+## Paroxysmal AF
+For intermittent short duration AF, "pill-in-the-pocket" strategy can be used. Patient can take a pharmacological cardioversion only when they feel symptoms of AF begin. 
 
 Rate control - slows down the heart rate to prevent symptom of palpitations and improve heart beat efficiency
 
+![[z_attachments/Pasted image 20240131141504.png]]
 - $\beta$ blocker
 - Calcium channel blockers (diltiazem, verapamil)
 - Digoxin
