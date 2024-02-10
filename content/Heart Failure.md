@@ -83,12 +83,12 @@ Chronic:
 
 Drugs:
 
-- Loop diuretics - eg furosemide (no prognostic benefit)
 - ACE-inhibitor promotes removal of excess fluid (ARB if ACEi not tolerated)
 - $\beta$ blocker decreases heart rate and increases force of contraction
 - Mineralocorticoid receptor antagonist eg spironolactone
 - SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin
 
+- Loop diuretics - eg furosemide (no prognostic benefit) but symptomatic benefit
 ## Complications/red Flags
 
 - Arrythmias

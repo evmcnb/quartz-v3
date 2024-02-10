@@ -6,7 +6,7 @@ date created: Wednesday, January 24th 2024, 1:04:07 pm
 date modified: Wednesday, January 24th 2024, 1:04:23 pm
 ---
 
-## Blepharitis
+## [[Blepharitis]]
 
 - Inflammation of the eyelid margins
 - Itchy, gritty, dry sensation
