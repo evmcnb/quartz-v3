@@ -41,7 +41,7 @@ Causes of an acute **_painful red eye_** include:
 
 - Acute angle-closure glaucoma
 - Anterior uveitis
-- Scleritis
+- [[Scleritis]]
 - Corneal abrasions or ulceration
 - Keratitis
 - Foreign body

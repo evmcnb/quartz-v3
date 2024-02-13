@@ -1,7 +1,9 @@
 
 ## Causes/Factors
 
-## Clinical Features
+## Symptoms
+
+## Signs
 
 ## Investigations
 
