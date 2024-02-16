@@ -161,9 +161,11 @@ Uncontrolled haematogenous spread
 ![[z_attachments/Pasted image 20231010122953.png|450]]
 
 **Hydropneumothorax**
+
 ![[z_attachments/Pasted image 20240122145256.png|425]]
 
 **Pneumomediastinum**
+
 ![[z_attachments/Pasted image 20240122150024.png|400]]
 ##### Lobar collapse
 ![[z_attachments/Pasted image 20231010123127.png|425]]
@@ -182,6 +184,7 @@ Uncontrolled haematogenous spread
 ![[z_attachments/Pasted image 20240122145551.png|450]]
 
 **Massive pleural effusion** (with mass effect)
+
 ![[z_attachments/Pasted image 20240122145804.png|450]]
 ##### [[COPD]]
 - Flattened diaphragm
