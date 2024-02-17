@@ -29,9 +29,11 @@ Two main types: Abdominal Aortic Aneurysm (AAA) and Thoracic Aortic Aneurysm (TA
 - **AAA**:
   - Pulsatile mass on abdominal examination.
   - Bruit over the aneurysm.
+  - Often ruptures
 - **TAA**:
   - Widened mediastinum on chest X-ray.
   - Murmurs or abnormal heart sounds.
+  - Often dissects
 
 ## Diagnostic Tests
 - **Ultrasound**: Common for AAA detection.

@@ -7,7 +7,7 @@ date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 
 ![|275](z_attachments/logo5.png)
 
-> [Back](https://www.nosos.co.uk/landing)
+> [Back](https://www.nosos.co.uk/snippets)
 
 Welcome to the Medical Student Notes Collection! This website serves as a valuable resource for medical students to access a diverse range of high-quality notes, study materials, and resources to aid in their academic journey. Whether you're just starting your medical education or looking to reinforce your knowledge, you'll find a wealth of information at your fingertips.
 
