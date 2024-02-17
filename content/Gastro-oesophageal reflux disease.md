@@ -6,7 +6,7 @@ date created: Tuesday, February 13th 2024, 1:02:56 pm
 date modified: Tuesday, February 13th 2024, 1:04:56 pm
 ---
 
-Chronic reflux of gastric contents back into the oesophagus.
+Chronic reflux of gastric contents back into the oesophagus resulting gastritis
 
 "Proven GORD" refers to endoscopically determined reflux disease
 

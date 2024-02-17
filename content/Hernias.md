@@ -53,6 +53,20 @@ To tell the difference between the two, if you press the deep ring and the herni
 
 Can be managed via open or laparoscopic surgery with a mesh. 
 
+# Hiatal hernias
+
+![[z_attachments/Pasted image 20240216151635.png]]
+
+Herniation of the stomach/abdominal contents through the oesophageal hiatus of the diaphragm.
+
+The **sliding type** is very common and usually only involved the top part of the stomach sliding upwards. This impairs the function of the lower oesophageal sphincter leading to [[Gastro-oesophageal reflux disease]] and related symptoms.
+- Often found incidentally on endoscopy or CXR
+![[z_attachments/Pasted image 20240216151341.png|317]]
+
+Para-oesophageal type can involved stomach and other abdominal organs herniating around the oesophagus. This may result in life-threatening complications and can be difficult to repair
+
+![[z_attachments/Pasted image 20240216151507.png]]
+
 # Femoral hernia
 
 Less common than groin hernia but frequently present with bowel obstruction
