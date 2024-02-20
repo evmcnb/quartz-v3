@@ -5,8 +5,25 @@ date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ---
 
-
 Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
+
+#### Primary lung tumours 
+- 90% are carcinomas
+- Non-small cell carcinoma 85%
+    - squamous cell carcinoma 20% - presence of keratinization
+    - adenocarcinoma 30% - mucin production
+    - large cell carcinoma 10%
+- Small cell 15% - arise from endocrine cells -> excrete peptides -> paraneoplastic syndromes
+
+Main morphological difference between the two is nuclear characteristics and amount of cytoplasm. Small cell "always" smoking
+#### Secondary Lung Tumours
+- More common than primary
+- Multiple discrete nodules
+- Most commonly from breast, GIT, kidney
+- Sarcomas
+- Melanomas
+- Lymphomas
+
 
 ## Causes/Factors
 
@@ -16,19 +33,6 @@ Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
 - arsenic
 - iron oxides
 - radon gas
-
-### Histology
-
-Non small cell lung carcinoma:
-
-- squamous
-- adenocarcinoma
-- large cell
-
-Small cell
-
-- arise from endocrine cells -> excrete peptides -> paraneoplastic syndromes
-
 ## Symptoms
 
 - cough
