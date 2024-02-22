@@ -167,4 +167,5 @@ Metastasis
 Chronic lymphoedema = impaired drainage in that area
 
 > [!warning] Cannulas and bloods
+> 
 > Avoid taking blood or putting a cannula in the arm on the side of previous breast cancer surgery. Higher risk of complications and infections due to the impaired lymphatic drainage on that side
