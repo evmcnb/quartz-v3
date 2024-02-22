@@ -109,12 +109,11 @@ Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for wo
 **_Triple-negative breast cancer_** is where the breast cancer cells do not express any of these three receptors. This carries a worse prognosis, as it limits the treatment options for targeting the cancer.
 
 > [!success] Breast cancer screening
+> 
 > The NHS breast cancer screening program offers a **_mammogram_** every **3 years** to women aged **50 – 70 years**.
 > 
 > Screening aims to detect breast cancer early, which improves outcomes. Roughly 1 in 100 women are diagnosed with breast cancer after going for a mammogram.
 
-
-## High risk patients
 ### High risk patients
 There are different recommendations for screening patients with a higher risk.
 - Genetic counselling 
