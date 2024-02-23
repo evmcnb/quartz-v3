@@ -4,12 +4,13 @@ title: Cholecystitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Wednesday, August 2nd 2023, 10:20:03 pm
 ---
+Acute cholecystitis refers to the **acute inflammation** of the **gallbladder**, with 90% of cases being **secondary to gallstones**.
 
-Inflammation of gallbladder
 ![|375](z_attachments/375-3.png)
 
 ## Causes/Factors
 
+Gallstone blockage
 - Age
 - Obesity
 - Smoking
@@ -17,22 +18,19 @@ Inflammation of gallbladder
 
 ## Symptoms
 
-- Worsening of pain/symptoms after eating fatty food
-
 |                     | **RUQ Pain** | **Fever/$\uparrow$WCC** | **Jaundice** |
 | ------------------- | ------------ | ----------------------- | ------------ |
-| Biliary Colic       | $\checkmark$ | X                       | X            |
+| [[Biliary colic]]       | $\checkmark$ | X                       | X            |
 | Acute cholecystitis | $\checkmark$ | $\checkmark$            | X            |
-| Cholangitis         | $\checkmark$ | $\checkmark$            | $\checkmark$ |
+| [[Acute cholangitis]]         | $\checkmark$ | $\checkmark$            | $\checkmark$ |
 
+- Worsening of pain/symptoms after eating fatty food
 - nausea, vomiting
 - RUQ pain - radiating round side / to back
 
 ## Signs
 
-**Charcot's triad** - Fever + RUQ pain + Jaundice
-
-**Reynold's pentad** - Charcot's triad + altered mental status + hypotension
+- Murphy's test positive - RUQ pain which may radiate worse on inspiration
 
 ## Diagnostic Tests
 
@@ -44,15 +42,15 @@ Inflammation of gallbladder
 
 ## Management
 
+Patients are usually systemically unwell and require hospital admission for oral/IV antibiotics and surgery within 7 days of diagnosis
 - antibiotics
-
 - Laparoscopic cholecystectomy
 
 ## Complications/red Flags
 
 If in the gallbladder/cystic duct:
 
-- Biliary colic
+- [[Biliary colic]]
 - Acute and chronic cholecystitis
 - Mucocele
 - [[Empyema]]
@@ -62,5 +60,5 @@ If in the gallbladder/cystic duct:
 In the bile ducts
 
 - Obstructive [[Jaundice]]
-- [[Cholangitis]]
+- [[Acute cholangitis]]
 - [[Pancreatitis]]

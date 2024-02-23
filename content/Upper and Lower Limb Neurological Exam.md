@@ -104,7 +104,7 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 
 ## Power
 
-1. Assess the power by stabilising and isolating the relevant joint for each assessment. Find the list [[Myotomes|here]] for each movement
+1. Assess the power by stabilising and isolating the relevant joint for each assessment. Find the list [[Myotomes and Dermatomes|here]] for each movement
 2. You must compare **both** sides at the same time.
 3. As the patient to resist the force that you apply to the joint. **Always** ensure that the force you apply is proportional to the joint - eg to test finger extension use your fingers to resist.
 4. Communicate clear instructions for each stage of the assessment.
