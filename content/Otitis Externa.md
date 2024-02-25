@@ -27,6 +27,9 @@ Ear canal is the only skin-lined cul-de-sac in the body
 - Allergic contact dermatitis
 - Dermatological conditions
 
+- Pseudomonas aeruginosa
+- Staphylococcus aureus
+
 ## Symptoms
 
 - Inflammation of the external ear canal presenting with a combination of otalgia, pruritus and non-mucoid ear discharge
