@@ -14,6 +14,7 @@ Very uncommon in children
 
 - Viruses
 - Similar bacteria as [[Otitis Externa]]
+- Strep. pneumoniae 
 
 ## Symptoms
 
