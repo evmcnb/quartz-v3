@@ -73,6 +73,9 @@ Benign and resolve without treatment. Rarely can become infected and require ant
 
 ## Phyllodes tumour
 
-Phyllodes tumours are rare tumours of the connective tissue (stroma) of the breast, occurring most often between ages 40 and 50. They are large and fast-growing. They can be benign (~50%), borderline (~25%) or malignant (~25%). Malignant phyllodes tumours can metastasise.
-
-Treatment involves surgical removal of the tumour and the surrounding tissue (“wide excision”). They can reoccur after removal.
+- Rare tumour of connective tissue (stroma)
+- Large and fast growing
+- Hard to differentiate between this and fibroadenoma
+- Benign (~50%), borderline (~25%) or malignant (~25%)
+- Malignant tumours can metastasise
+- Surgical excision 
