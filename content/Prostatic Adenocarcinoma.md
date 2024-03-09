@@ -45,10 +45,10 @@ Rare
 2. **Surgery:** Radical prostatectomy to remove the prostate gland.
 3. **Radiation Therapy:** Targeted radiation to kill cancer cells.
 4. **Hormone Therapy:** Reducing testosterone levels to slow cancer growth.
-5. **Chemotherapy:** For advanced or aggressive cases.
+5. **Chemotherapy:** For advanced or aggressive cases - Gleason score 8-10
 
 ## Complications/red Flags
 
-- **Metastasis:** Cancer can spread to nearby tissues or distant organs.
+- **Metastasis:** Cancer can spread to nearby tissues or distant organs. Risk of pelvic node lymph involvement estimated using the Roach formula: `%LN risk = 2/3 PSA + (10 × Gleason score - 6)`
 - **Urinary and Sexual Dysfunction:** Treatments may affect urinary and sexual function.
 - **Recurrence:** Cancer may return after treatment.
