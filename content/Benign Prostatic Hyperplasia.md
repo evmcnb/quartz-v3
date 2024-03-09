@@ -33,15 +33,19 @@ Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostat
 ## Diagnostic Tests
 
 - **Digital Rectal Exam (DRE):** Examination of the prostate through the rectum to assess its size and texture.
-- **Prostate-Specific Antigen (PSA) Test:** Blood test to measure PSA levels (elevated levels may indicate BPH or other prostate conditions).
+- **Prostate-Specific Antigen (PSA) Test:** Usually normal in BPH, may be raised in prostate cancer
 - **Urinalysis:** To rule out urinary tract infections or other conditions.
 
 ## Management
 
 1. **Watchful Waiting:** For mild symptoms, regular monitoring without immediate treatment.
+
 2. **Lifestyle Changes:** Reducing caffeine and alcohol intake, limiting fluids before bedtime.
-3. **Medications:** Alpha-blockers to relax prostate muscles, 5-alpha reductase inhibitors to reduce DHT levels.
+
+3. **Medications:** Tamsulosin - alpha-blocker to relax prostate muscles, finasteride - 5-alpha reductase inhibitor to reduce DHT levels. Finasteride is indicated when there is a significantly enlarged prostate.
+
 4. **Minimally Invasive Procedures:** Transurethral resection of the prostate (TURP), laser therapy, prostate stents.
+
 5. **Surgery:** In severe cases, surgical removal of the enlarged part of the prostate.
 
 ## Complications/red Flags
