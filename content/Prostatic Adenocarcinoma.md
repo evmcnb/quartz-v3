@@ -34,14 +34,14 @@ Rare
 
 ## Diagnostic Tests
 
-- **Digital Rectal Exam (DRE):** Manual examination of the prostate through the rectum.
-- **Prostate-Specific Antigen (PSA) Test:** Blood test to measure PSA levels (elevated levels may indicate prostate issues).
-- **Biopsy:** Removal and examination of a tissue sample to confirm cancer.
-- **Imaging:** MRI, CT, or bone scans to determine cancer spread (if applicable).
+- **Digital Rectal Exam (DRE):** 
+- **Prostate-Specific Antigen (PSA) Test:** 
+- **Biopsy:**
+- **Imaging:** MRI, CT, or bone scans to determine cancer spread
 
 ## Management
 
-1. **Active Surveillance:** Monitoring for slow-growing cancers.
+1. **Active Surveillance:** Monitoring for slow-growing cancers - Gleason Score <6
 2. **Surgery:** Radical prostatectomy to remove the prostate gland.
 3. **Radiation Therapy:** Targeted radiation to kill cancer cells.
 4. **Hormone Therapy:** Reducing testosterone levels to slow cancer growth.
